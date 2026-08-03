@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+<meta name="theme-color" content="#14141e" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Catchphrase" />
+<title>Catchphrase</title>
+<link rel="manifest" href="manifest.json" />
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+<link rel="icon" href="icons/favicon-32.png" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- Rotate overlay: shown whenever the device is in portrait -->
+<div id="rotate-overlay" class="rotate-overlay" hidden>
+  <div class="rotate-icon">&#128241;</div>
+  <p>Rotate your phone sideways to play</p>
+</div>
+
+<main id="app">
+
+  <!-- SETUP SCREEN -->
+  <section id="screen-setup" class="screen">
+    <h1 class="app-title">Catchphrase</h1>
+    <p class="subtitle">How many teams?</p>
+    <div class="team-stepper">
+      <button id="team-minus" class="stepper-btn" aria-label="Fewer teams">&minus;</button>
+      <div id="team-count" class="team-count">2</div>
+      <button id="team-plus" class="stepper-btn" aria-label="More teams">&plus;</button>
+    </div>
+    <p class="hint">Teams are pairs of 2 &mdash; you manage turn order yourselves.</p>
+    <button id="btn-start-game" class="btn-primary">Start Game</button>
+  </section>
+
+  <!-- ROUND IDLE SCREEN (scoreboard + start round) -->
+  <section id="screen-idle" class="screen" hidden>
+    <button id="btn-new-game" class="btn-corner" aria-label="New game">&#8635;</button>
+    <h2 class="scoreboard-title">Strikes <span class="lowest-wins">(lowest wins)</span></h2>
+    <div id="scoreboard" class="scoreboard"></div>
+    <button id="btn-start-round" class="btn-primary btn-huge">Start Round</button>
+  </section>
+
+  <!-- ROUND ACTIVE SCREEN -->
+  <section id="screen-round" class="screen" hidden>
+    <div id="word-display" class="word-display"></div>
+    <div id="category-display" class="category-display"></div>
+    <div class="round-actions">
+      <button id="btn-skip" class="btn-secondary">Skip</button>
+      <button id="btn-got-it" class="btn-primary">Got it &mdash; pass it on</button>
+    </div>
+  </section>
+
+  <!-- WHO GOT CAUGHT SCREEN -->
+  <section id="screen-caught" class="screen" hidden>
+    <h2 class="buzz-title">BUZZ! Who got caught?</h2>
+    <div id="caught-teams" class="caught-teams"></div>
+  </section>
+
+</main>
+
+<script src="js/audio.js"></script>
+<script src="js/words.js"></script>
+<script src="js/game.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
