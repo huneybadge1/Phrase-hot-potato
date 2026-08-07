@@ -17,6 +17,10 @@
     btnStartRound: document.getElementById("btn-start-round"),
 
     btnResetGame: document.getElementById("btn-reset-game"),
+    resetModal: document.getElementById("reset-modal"),
+    btnSoftReset: document.getElementById("btn-soft-reset"),
+    btnFullReset: document.getElementById("btn-full-reset"),
+    btnCancelReset: document.getElementById("btn-cancel-reset"),
 
     screenRound: document.getElementById("screen-round"),
     wordDisplay: document.getElementById("word-display"),
@@ -136,9 +140,28 @@
   });
 
   els.btnResetGame.addEventListener("click", () => {
-    if (confirm("Reset the game? This clears all strikes and returns to team setup.")) {
-      Game.stopTimer();
-      showScreen(els.screenSetup);
+    els.resetModal.hidden = false;
+  });
+
+  els.btnSoftReset.addEventListener("click", () => {
+    els.resetModal.hidden = true;
+    Game.stopTimer();
+    showScreen(els.screenIdle);
+  });
+
+  els.btnFullReset.addEventListener("click", () => {
+    els.resetModal.hidden = true;
+    Game.stopTimer();
+    showScreen(els.screenSetup);
+  });
+
+  els.btnCancelReset.addEventListener("click", () => {
+    els.resetModal.hidden = true;
+  });
+
+  els.resetModal.addEventListener("click", (e) => {
+    if (e.target === els.resetModal) {
+      els.resetModal.hidden = true;
     }
   });
 

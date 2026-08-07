@@ -299,6 +299,68 @@ html, body {
   50% { transform: rotate(-90deg); }
 }
 
+/* ---------- Reset choice modal ---------- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 900;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.modal-overlay[hidden] {
+  display: none;
+}
+
+.modal-box {
+  background: var(--bg-elevated);
+  border-radius: var(--radius);
+  padding: 28px;
+  max-width: 420px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 12px;
+}
+
+.modal-title {
+  margin: 0;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.modal-text {
+  margin: 0 0 8px;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.btn-modal {
+  width: 100%;
+}
+
+.modal-sub {
+  display: block;
+  font-size: 0.7em;
+  font-weight: 400;
+  opacity: 0.8;
+  margin-top: 2px;
+}
+
+.btn-modal-cancel {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  padding: 10px;
+  margin-top: 4px;
+}
+
 /* Landscape orientation with narrow height (small phones) tweaks */
 @media (orientation: landscape) and (max-height: 420px) {
   .word-display { font-size: clamp(1.8rem, 7vw, 3.5rem); }
