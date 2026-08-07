@@ -2,16 +2,14 @@
 const MIN_ROUND_SECONDS = 60;
 const MAX_ROUND_SECONDS = 105;
 
-const MIN_BEEP_INTERVAL_MS = 140;
+// The fastest tier (formerly MIN_BEEP_INTERVAL_MS = 140) read as too
+// frantic. Raising the floor here reshapes the whole easing curve
+// proportionally across the entire round — every beep from the first to
+// the last gets slightly slower, not just a stretched-out final tier — so
+// the round still smoothly spans start to buzzer with no plateau.
+const MIN_BEEP_INTERVAL_MS = 180;
 const MAX_BEEP_INTERVAL_MS = 1500;
 const BEEP_EASING_POWER = 2.2;
-
-// The easing curve asymptotically approaches MIN_BEEP_INTERVAL_MS and stays
-// there (audibly indistinguishable) for a long final stretch of every round.
-// Once the natural interval gets this close to the floor, freeze the tempo
-// at whatever pace it was holding just before crossing that line, instead of
-// riding the curve all the way down into a many-second frantic buzz.
-const FINAL_STRETCH_THRESHOLD_MS = MIN_BEEP_INTERVAL_MS * 1.2;
 
 const Game = (() => {
   let teams = [];
@@ -20,8 +18,6 @@ const Game = (() => {
   let endTime = 0;
   let totalDurationMs = 0;
   let beepTimeoutId = null;
-  let lastBeepInterval = MAX_BEEP_INTERVAL_MS;
-  let frozenTailInterval = null;
 
   let callbacks = { onWordChange: () => {}, onBuzz: () => {} };
 
@@ -47,8 +43,6 @@ const Game = (() => {
     totalDurationMs = seconds * 1000;
     endTime = Date.now() + totalDurationMs;
     skipUsed = false;
-    lastBeepInterval = MAX_BEEP_INTERVAL_MS;
-    frozenTailInterval = null;
     currentWord = WordBank.draw();
     callbacks.onWordChange(currentWord);
     tick();
@@ -62,27 +56,11 @@ const Game = (() => {
       callbacks.onBuzz();
       return;
     }
-    let interval;
-    if (frozenTailInterval !== null) {
-      interval = frozenTailInterval;
-    } else {
-      const frac = Math.max(0, Math.min(1, remainingMs / totalDurationMs));
-      const eased = Math.pow(frac, BEEP_EASING_POWER);
-      const natural =
-        MIN_BEEP_INTERVAL_MS + (MAX_BEEP_INTERVAL_MS - MIN_BEEP_INTERVAL_MS) * eased;
-
-      if (natural <= FINAL_STRETCH_THRESHOLD_MS) {
-        // Entering the frantic floor — hold at the previous (slower) pace,
-        // evenly, for the rest of the round instead of converging further.
-        frozenTailInterval = lastBeepInterval;
-        interval = frozenTailInterval;
-      } else {
-        interval = natural;
-      }
-    }
-
+    const frac = Math.max(0, Math.min(1, remainingMs / totalDurationMs));
+    const eased = Math.pow(frac, BEEP_EASING_POWER);
+    let interval =
+      MIN_BEEP_INTERVAL_MS + (MAX_BEEP_INTERVAL_MS - MIN_BEEP_INTERVAL_MS) * eased;
     interval = Math.min(interval, remainingMs);
-    lastBeepInterval = interval;
     beepTimeoutId = setTimeout(() => {
       GameAudio.beep();
       tick();
