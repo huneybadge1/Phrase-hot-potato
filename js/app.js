@@ -15,7 +15,8 @@
     screenIdle: document.getElementById("screen-idle"),
     scoreboard: document.getElementById("scoreboard"),
     btnStartRound: document.getElementById("btn-start-round"),
-    btnNewGame: document.getElementById("btn-new-game"),
+
+    btnResetGame: document.getElementById("btn-reset-game"),
 
     screenRound: document.getElementById("screen-round"),
     wordDisplay: document.getElementById("word-display"),
@@ -33,6 +34,7 @@
     for (const s of [els.screenSetup, els.screenIdle, els.screenRound, els.screenCaught]) {
       s.hidden = s !== screen;
     }
+    els.btnResetGame.hidden = screen === els.screenSetup;
   }
 
   const CATEGORY_LABELS = {
@@ -133,8 +135,8 @@
     Game.startRound();
   });
 
-  els.btnNewGame.addEventListener("click", () => {
-    if (confirm("Start a new game? This resets all strikes.")) {
+  els.btnResetGame.addEventListener("click", () => {
+    if (confirm("Reset the game? This clears all strikes and returns to team setup.")) {
       Game.stopTimer();
       showScreen(els.screenSetup);
     }

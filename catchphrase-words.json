@@ -60,6 +60,10 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Bar Crawl",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Bar Hopping",
         "category":  "activities-sports"
     },
@@ -141,6 +145,10 @@
     },
     {
         "phrase":  "BMX",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "BMX Racing",
         "category":  "activities-sports"
     },
     {
@@ -304,6 +312,10 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Cross Country Running",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Cross-Country Skiing",
         "category":  "activities-sports"
     },
@@ -324,7 +336,15 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Dancing",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Darts",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Decathlon",
         "category":  "activities-sports"
     },
     {
@@ -360,11 +380,19 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Dominoes",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Double Dutch",
         "category":  "activities-sports"
     },
     {
         "phrase":  "Drag Racing",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Drawing",
         "category":  "activities-sports"
     },
     {
@@ -564,6 +592,10 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Ice Hockey",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Ice Skating",
         "category":  "activities-sports"
     },
@@ -693,6 +725,10 @@
     },
     {
         "phrase":  "marathon",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Marathon Running",
         "category":  "activities-sports"
     },
     {
@@ -840,6 +876,14 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Playing Guitar",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Playing Piano",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Poker",
         "category":  "activities-sports"
     },
@@ -908,6 +952,10 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Reading",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Red Rover",
         "category":  "activities-sports"
     },
@@ -921,6 +969,10 @@
     },
     {
         "phrase":  "Rhythmic Gymnastics",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Road Cycling",
         "category":  "activities-sports"
     },
     {
@@ -1017,6 +1069,10 @@
     },
     {
         "phrase":  "Simon Says",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Singing",
         "category":  "activities-sports"
     },
     {
@@ -1224,7 +1280,15 @@
         "category":  "activities-sports"
     },
     {
+        "phrase":  "Track and Field",
+        "category":  "activities-sports"
+    },
+    {
         "phrase":  "Tractor Pulling",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Trampolining",
         "category":  "activities-sports"
     },
     {
@@ -1277,6 +1341,10 @@
     },
     {
         "phrase":  "Vault",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Video Games",
         "category":  "activities-sports"
     },
     {
@@ -1353,6 +1421,10 @@
     },
     {
         "phrase":  "Wrestling",
+        "category":  "activities-sports"
+    },
+    {
+        "phrase":  "Writing",
         "category":  "activities-sports"
     },
     {
@@ -1592,6 +1664,10 @@
         "category":  "animals"
     },
     {
+        "phrase":  "Bullfrog",
+        "category":  "animals"
+    },
+    {
         "phrase":  "Bullwinkle",
         "category":  "animals"
     },
@@ -1776,6 +1852,10 @@
         "category":  "animals"
     },
     {
+        "phrase":  "Eel",
+        "category":  "animals"
+    },
+    {
         "phrase":  "Electric Eel",
         "category":  "animals"
     },
@@ -1945,6 +2025,10 @@
     },
     {
         "phrase":  "hermit crab",
+        "category":  "animals"
+    },
+    {
+        "phrase":  "Hippo",
         "category":  "animals"
     },
     {
@@ -2144,6 +2228,10 @@
         "category":  "animals"
     },
     {
+        "phrase":  "Monkey",
+        "category":  "animals"
+    },
+    {
         "phrase":  "Moose",
         "category":  "animals"
     },
@@ -2153,6 +2241,10 @@
     },
     {
         "phrase":  "Moth",
+        "category":  "animals"
+    },
+    {
+        "phrase":  "Mountain Lion",
         "category":  "animals"
     },
     {
@@ -2217,6 +2309,10 @@
     },
     {
         "phrase":  "Panda",
+        "category":  "animals"
+    },
+    {
+        "phrase":  "Panther",
         "category":  "animals"
     },
     {
@@ -2365,6 +2461,10 @@
     },
     {
         "phrase":  "Remy the Rat",
+        "category":  "animals"
+    },
+    {
+        "phrase":  "Rhino",
         "category":  "animals"
     },
     {
@@ -2720,6 +2820,14 @@
         "category":  "animals"
     },
     {
+        "phrase":  "1984",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "A Christmas Carol",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "A Farewell to Arms",
         "category":  "books-characters"
     },
@@ -2760,6 +2868,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Alice\u0027s Adventures in Wonderland",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "American Gods",
         "category":  "books-characters"
     },
@@ -2777,6 +2889,14 @@
     },
     {
         "phrase":  "Animal Farm",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Anna Karenina",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Annabeth Chase",
         "category":  "books-characters"
     },
     {
@@ -2845,6 +2965,10 @@
     },
     {
         "phrase":  "Augustus Gloop",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Augustus Waters",
         "category":  "books-characters"
     },
     {
@@ -2976,6 +3100,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Corduroy",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Cosette",
         "category":  "books-characters"
     },
@@ -2997,6 +3125,10 @@
     },
     {
         "phrase":  "Daisy Buchanan",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Daredevil",
         "category":  "books-characters"
     },
     {
@@ -3032,6 +3164,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Dorian Gray",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Dorothy Gale",
         "category":  "books-characters"
     },
@@ -3053,6 +3189,10 @@
     },
     {
         "phrase":  "Ebenezer Scrooge",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Edmund Pevensie",
         "category":  "books-characters"
     },
     {
@@ -3120,11 +3260,19 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Gambit",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Gandalf",
         "category":  "books-characters"
     },
     {
         "phrase":  "Geppetto",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Ghost Rider",
         "category":  "books-characters"
     },
     {
@@ -3149,6 +3297,10 @@
     },
     {
         "phrase":  "Great Expectations",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Green Arrow",
         "category":  "books-characters"
     },
     {
@@ -3196,11 +3348,19 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Hazel Grace Lancaster",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Heathcliff",
         "category":  "books-characters"
     },
     {
         "phrase":  "Hera",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Hercule Poirot",
         "category":  "books-characters"
     },
     {
@@ -3213,6 +3373,10 @@
     },
     {
         "phrase":  "Hermione Granger",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Holden Caulfield",
         "category":  "books-characters"
     },
     {
@@ -3364,7 +3528,15 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Lucy Pevensie",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Luke Skywalker",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Lyra Belacqua",
         "category":  "books-characters"
     },
     {
@@ -3400,6 +3572,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Meg Murry",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Merlin",
         "category":  "books-characters"
     },
@@ -3409,6 +3585,10 @@
     },
     {
         "phrase":  "Miss Havisham",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Miss Marple",
         "category":  "books-characters"
     },
     {
@@ -3440,6 +3620,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Mr. Tumnus",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "My Side of the Mountain",
         "category":  "books-characters"
     },
@@ -3453,6 +3637,14 @@
     },
     {
         "phrase":  "Nick Fury",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Nightcrawler",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Nightwing",
         "category":  "books-characters"
     },
     {
@@ -3485,6 +3677,10 @@
     },
     {
         "phrase":  "On the Road",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "One Hundred Years of Solitude",
         "category":  "books-characters"
     },
     {
@@ -3556,6 +3752,14 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Pippi Longstocking",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Poison Ivy",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Porthos",
         "category":  "books-characters"
     },
@@ -3565,6 +3769,10 @@
     },
     {
         "phrase":  "Pride and Prejudice",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Primrose Everdeen",
         "category":  "books-characters"
     },
     {
@@ -3596,6 +3804,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Ramona Quimby",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Rapunzel",
         "category":  "books-characters"
     },
@@ -3616,6 +3828,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Rogue",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Romeo and Juliet",
         "category":  "books-characters"
     },
@@ -3628,11 +3844,19 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Samwise Gamgee",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Sauron",
         "category":  "books-characters"
     },
     {
         "phrase":  "Scout Finch",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Scrooge",
         "category":  "books-characters"
     },
     {
@@ -3645,6 +3869,10 @@
     },
     {
         "phrase":  "Sherlock Holmes",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Silver Surfer",
         "category":  "books-characters"
     },
     {
@@ -3668,6 +3896,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Storm",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Superman",
         "category":  "books-characters"
     },
@@ -3676,7 +3908,15 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Templeton",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Thanos",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "The Adventures of Huckleberry Finn",
         "category":  "books-characters"
     },
     {
@@ -3812,6 +4052,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "The Lorax",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "The Lord of the Rings",
         "category":  "books-characters"
     },
@@ -3836,6 +4080,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "The Oompa Loompas",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "The Outsiders",
         "category":  "books-characters"
     },
@@ -3849,6 +4097,10 @@
     },
     {
         "phrase":  "The Pied Piper",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "The Punisher",
         "category":  "books-characters"
     },
     {
@@ -3901,6 +4153,10 @@
     },
     {
         "phrase":  "The White Rabbit",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "The White Witch",
         "category":  "books-characters"
     },
     {
@@ -3972,6 +4228,10 @@
         "category":  "books-characters"
     },
     {
+        "phrase":  "Two-Face",
+        "category":  "books-characters"
+    },
+    {
         "phrase":  "Tyrion Lannister",
         "category":  "books-characters"
     },
@@ -4005,6 +4265,10 @@
     },
     {
         "phrase":  "White Fang",
+        "category":  "books-characters"
+    },
+    {
+        "phrase":  "Wilbur",
         "category":  "books-characters"
     },
     {
@@ -4064,6 +4328,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Advil",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Airbnb",
         "category":  "brands-products"
     },
@@ -4100,11 +4368,23 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Apple",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Arby\u0027s",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Arizona Iced Tea",
         "category":  "brands-products"
     },
     {
         "phrase":  "Audi",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Axe",
         "category":  "brands-products"
     },
     {
@@ -4280,6 +4560,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Chips Ahoy",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Cinnabon",
         "category":  "brands-products"
     },
@@ -4385,6 +4669,10 @@
     },
     {
         "phrase":  "Dom Pérignon",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Domino\u0027s",
         "category":  "brands-products"
     },
     {
@@ -4496,6 +4784,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Goldfish Crackers",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Google",
         "category":  "brands-products"
     },
@@ -4588,6 +4880,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Huggies",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Hustler",
         "category":  "brands-products"
     },
@@ -4661,6 +4957,10 @@
     },
     {
         "phrase":  "Junior Mints",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Kellogg\u0027s",
         "category":  "brands-products"
     },
     {
@@ -4749,6 +5049,10 @@
     },
     {
         "phrase":  "Listerine",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Little Caesars",
         "category":  "brands-products"
     },
     {
@@ -4920,6 +5224,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Pampers",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Panasonic",
         "category":  "brands-products"
     },
@@ -4953,6 +5261,10 @@
     },
     {
         "phrase":  "Pepsi",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Pepto-Bismol",
         "category":  "brands-products"
     },
     {
@@ -5028,11 +5340,19 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Q-tips",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Raising Cane\u0027s",
         "category":  "brands-products"
     },
     {
         "phrase":  "Ralph Lauren",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Ray-Ban",
         "category":  "brands-products"
     },
     {
@@ -5077,6 +5397,10 @@
     },
     {
         "phrase":  "Rubik\u0027s Cube",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Samsung",
         "category":  "brands-products"
     },
     {
@@ -5184,6 +5508,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Subaru",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Subway",
         "category":  "brands-products"
     },
@@ -5240,6 +5568,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "Tommy Hilfiger",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Tootsie Roll",
         "category":  "brands-products"
     },
@@ -5277,6 +5609,14 @@
     },
     {
         "phrase":  "Twix",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Twizzlers",
+        "category":  "brands-products"
+    },
+    {
+        "phrase":  "Tylenol",
         "category":  "brands-products"
     },
     {
@@ -5460,6 +5800,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Anniversary",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Anniversary Dinner",
         "category":  "events-holidays"
     },
@@ -5508,7 +5852,15 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Awards Show",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "baby shower",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Baby\u0027s First Birthday",
         "category":  "events-holidays"
     },
     {
@@ -5517,6 +5869,10 @@
     },
     {
         "phrase":  "Bachelorette Party",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Back to School",
         "category":  "events-holidays"
     },
     {
@@ -5529,6 +5885,10 @@
     },
     {
         "phrase":  "Bake Sale",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Baptism",
         "category":  "events-holidays"
     },
     {
@@ -5545,6 +5905,10 @@
     },
     {
         "phrase":  "Belmont Stakes",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Birthday",
         "category":  "events-holidays"
     },
     {
@@ -5636,6 +6000,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Christmas",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Christmas Day",
         "category":  "events-holidays"
     },
@@ -5669,6 +6037,10 @@
     },
     {
         "phrase":  "Columbus Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Comic Con",
         "category":  "events-holidays"
     },
     {
@@ -5728,6 +6100,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Daylight Saving Time",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Daylight Saving Time Begins",
         "category":  "events-holidays"
     },
@@ -5765,6 +6141,10 @@
     },
     {
         "phrase":  "Earth Hour",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Easter",
         "category":  "events-holidays"
     },
     {
@@ -5812,11 +6192,19 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Family Vacation",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Fantasy Football Draft",
         "category":  "events-holidays"
     },
     {
         "phrase":  "Farewell Tour",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Farmers Market",
         "category":  "events-holidays"
     },
     {
@@ -5896,6 +6284,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Fourth of July Fireworks",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Free Comic Book Day",
         "category":  "events-holidays"
     },
@@ -5908,7 +6300,15 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Funeral",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Galentine\u0027s Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Game Night",
         "category":  "events-holidays"
     },
     {
@@ -5961,6 +6361,10 @@
     },
     {
         "phrase":  "Grammy Awards",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Grammys",
         "category":  "events-holidays"
     },
     {
@@ -6072,6 +6476,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Job Interview",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Juneteenth",
         "category":  "events-holidays"
     },
@@ -6124,6 +6532,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Marathon Race",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "March Madness",
         "category":  "events-holidays"
     },
@@ -6164,11 +6576,23 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "MLK Day",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Monaco Grand Prix",
         "category":  "events-holidays"
     },
     {
         "phrase":  "Mother\u0027s Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Move-In Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Movie Premiere",
         "category":  "events-holidays"
     },
     {
@@ -6312,7 +6736,15 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Office Party",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Oktoberfest",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Olympics",
         "category":  "events-holidays"
     },
     {
@@ -6320,7 +6752,15 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Oscars",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Palm Sunday",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Parade",
         "category":  "events-holidays"
     },
     {
@@ -6368,6 +6808,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Presidents\u0027 Day",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Pride Month",
         "category":  "events-holidays"
     },
@@ -6377,6 +6821,10 @@
     },
     {
         "phrase":  "Prom Night",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Promotion at Work",
         "category":  "events-holidays"
     },
     {
@@ -6396,6 +6844,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Quinceañera",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Ramadan",
         "category":  "events-holidays"
     },
@@ -6409,6 +6861,10 @@
     },
     {
         "phrase":  "Remembrance Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Retirement",
         "category":  "events-holidays"
     },
     {
@@ -6461,6 +6917,10 @@
     },
     {
         "phrase":  "School Play",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Science Fair",
         "category":  "events-holidays"
     },
     {
@@ -6636,6 +7096,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "The Oscars",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "The Ryder Cup",
         "category":  "events-holidays"
     },
@@ -6661,6 +7125,10 @@
     },
     {
         "phrase":  "Tribeca Film Festival",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "Trick or Treating",
         "category":  "events-holidays"
     },
     {
@@ -6736,6 +7204,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Wedding Day",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Wedding Season",
         "category":  "events-holidays"
     },
@@ -6757,6 +7229,10 @@
     },
     {
         "phrase":  "World AIDS Day",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "World Cup",
         "category":  "events-holidays"
     },
     {
@@ -6812,7 +7288,15 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Bagel",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Bagel with Cream Cheese",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Baguette",
         "category":  "food-drink"
     },
     {
@@ -6860,7 +7344,15 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Beer",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Beignets",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Belgian Waffle",
         "category":  "food-drink"
     },
     {
@@ -6885,6 +7377,10 @@
     },
     {
         "phrase":  "BLT Sandwich",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Blueberry Muffin",
         "category":  "food-drink"
     },
     {
@@ -6948,6 +7444,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Buttered Popcorn",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Buttermilk",
         "category":  "food-drink"
     },
@@ -6964,6 +7464,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "California Roll",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Calzone",
         "category":  "food-drink"
     },
@@ -6976,6 +7480,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Cannoli",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Cappuccino",
         "category":  "food-drink"
     },
@@ -6985,6 +7493,10 @@
     },
     {
         "phrase":  "Caramel Apple",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Caramel Latte",
         "category":  "food-drink"
     },
     {
@@ -7076,6 +7588,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Chocolate Bar",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Chocolate Cake",
         "category":  "food-drink"
     },
@@ -7140,6 +7656,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Cookies",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Coq au Vin",
         "category":  "food-drink"
     },
@@ -7180,6 +7700,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Crepes",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "croissant",
         "category":  "food-drink"
     },
@@ -7188,7 +7712,15 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Cupcake",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Cupcakes",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Curry",
         "category":  "food-drink"
     },
     {
@@ -7212,6 +7744,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Donut",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Donuts",
         "category":  "food-drink"
     },
@@ -7229,6 +7765,14 @@
     },
     {
         "phrase":  "Egg Drop Soup",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Egg Roll",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Egg Rolls",
         "category":  "food-drink"
     },
     {
@@ -7320,6 +7864,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Fresh Lemonade",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Fried Chicken",
         "category":  "food-drink"
     },
@@ -7345,6 +7893,10 @@
     },
     {
         "phrase":  "Fudge",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Fudge Brownie",
         "category":  "food-drink"
     },
     {
@@ -7384,6 +7936,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Glazed Donut",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Gnocchi",
         "category":  "food-drink"
     },
@@ -7420,6 +7976,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Grilled Cheese",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Grilled Cheese Sandwich",
         "category":  "food-drink"
     },
@@ -7437,6 +7997,10 @@
     },
     {
         "phrase":  "Gumbo",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Gummy Bears",
         "category":  "food-drink"
     },
     {
@@ -7489,6 +8053,10 @@
     },
     {
         "phrase":  "Hummus",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Ice Cream",
         "category":  "food-drink"
     },
     {
@@ -7624,6 +8192,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Meatballs",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Meatloaf",
         "category":  "food-drink"
     },
@@ -7668,11 +8240,19 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Moonshine",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Moussaka",
         "category":  "food-drink"
     },
     {
         "phrase":  "Mozzarella Sticks",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Muffin",
         "category":  "food-drink"
     },
     {
@@ -7700,11 +8280,19 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Old Fashioned Cocktail",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Omelette",
         "category":  "food-drink"
     },
     {
         "phrase":  "Onion Rings",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Orange Chicken",
         "category":  "food-drink"
     },
     {
@@ -7744,6 +8332,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Peanut Butter and Jelly",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Peanut Butter and Jelly Sandwich",
         "category":  "food-drink"
     },
@@ -7773,6 +8365,10 @@
     },
     {
         "phrase":  "Pierogi",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Pina Colada",
         "category":  "food-drink"
     },
     {
@@ -7824,6 +8420,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Pretzel",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Pretzels",
         "category":  "food-drink"
     },
@@ -7840,6 +8440,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Pulled Pork Sandwich",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Pumpkin Pie",
         "category":  "food-drink"
     },
@@ -7849,6 +8453,10 @@
     },
     {
         "phrase":  "Quesadilla",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Quiche",
         "category":  "food-drink"
     },
     {
@@ -7869,6 +8477,10 @@
     },
     {
         "phrase":  "Red Velvet Cake",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Red Velvet Cupcake",
         "category":  "food-drink"
     },
     {
@@ -7920,6 +8532,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Samosas",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Sandwich",
         "category":  "food-drink"
     },
@@ -7968,6 +8584,14 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Shish Kebab",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Shrimp Cocktail",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Shrimp Scampi",
         "category":  "food-drink"
     },
@@ -7985,6 +8609,10 @@
     },
     {
         "phrase":  "Snow Cone",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Soft Pretzel",
         "category":  "food-drink"
     },
     {
@@ -8064,6 +8692,10 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Sweet Tea",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Syrup",
         "category":  "food-drink"
     },
@@ -8077,6 +8709,10 @@
     },
     {
         "phrase":  "Taco Salad",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Tacos",
         "category":  "food-drink"
     },
     {
@@ -8160,11 +8796,19 @@
         "category":  "food-drink"
     },
     {
+        "phrase":  "Vodka Shot",
+        "category":  "food-drink"
+    },
+    {
         "phrase":  "Waffles",
         "category":  "food-drink"
     },
     {
         "phrase":  "Waldorf Salad",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Whiskey",
         "category":  "food-drink"
     },
     {
@@ -8181,6 +8825,10 @@
     },
     {
         "phrase":  "White Wine",
+        "category":  "food-drink"
+    },
+    {
+        "phrase":  "Wine",
         "category":  "food-drink"
     },
     {
@@ -8208,6 +8856,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "A Blessing in Disguise",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "A Dime a Dozen",
         "category":  "idioms-sayings"
     },
@@ -8229,6 +8881,10 @@
     },
     {
         "phrase":  "A Penny Saved Is a Penny Earned",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "A Picture Is Worth a Thousand Words",
         "category":  "idioms-sayings"
     },
     {
@@ -8272,6 +8928,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "All That Glitters Is Not Gold",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "All Thumbs",
         "category":  "idioms-sayings"
     },
@@ -8297,6 +8957,10 @@
     },
     {
         "phrase":  "At the Drop of a Hat",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Back to Square One",
         "category":  "idioms-sayings"
     },
     {
@@ -8333,6 +8997,10 @@
     },
     {
         "phrase":  "Beggars Can\u0027t Be Choosers",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Bend Over Backwards",
         "category":  "idioms-sayings"
     },
     {
@@ -8380,6 +9048,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Born with a Silver Spoon in Your Mouth",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Boys Will Be Boys",
         "category":  "idioms-sayings"
     },
@@ -8404,6 +9076,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Burn Bridges",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Burn the Midnight Oil",
         "category":  "idioms-sayings"
     },
@@ -8413,6 +9089,10 @@
     },
     {
         "phrase":  "Burning the Candle at Both Ends",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Burst Someone\u0027s Bubble",
         "category":  "idioms-sayings"
     },
     {
@@ -8568,6 +9248,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Don\u0027t Shit Where You Eat",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Down in the Dumps",
         "category":  "idioms-sayings"
     },
@@ -8589,6 +9273,10 @@
     },
     {
         "phrase":  "Easier Said Than Done",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Easy Come, Easy Go",
         "category":  "idioms-sayings"
     },
     {
@@ -8668,6 +9356,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Fortune Favors the Bold",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "From Rags to Riches",
         "category":  "idioms-sayings"
     },
@@ -8697,6 +9389,10 @@
     },
     {
         "phrase":  "Go Against the Grain",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Go Back to Square One",
         "category":  "idioms-sayings"
     },
     {
@@ -8852,6 +9548,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "It\u0027s Not Rocket Science",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "It\u0027s Raining Cats and Dogs",
         "category":  "idioms-sayings"
     },
@@ -8984,6 +9684,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Make a Long Story Short",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Make a Mountain Out of a Molehill",
         "category":  "idioms-sayings"
     },
@@ -9028,6 +9732,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "No Pain, No Gain",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "No Rest for the Wicked",
         "category":  "idioms-sayings"
     },
@@ -9057,6 +9765,10 @@
     },
     {
         "phrase":  "On the Ball",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "On the Fence",
         "category":  "idioms-sayings"
     },
     {
@@ -9128,6 +9840,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Piece of the Pie",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Piss and Vinegar",
         "category":  "idioms-sayings"
     },
@@ -9145,6 +9861,10 @@
     },
     {
         "phrase":  "Practice What You Preach",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Pull Someone\u0027s Leg",
         "category":  "idioms-sayings"
     },
     {
@@ -9169,6 +9889,14 @@
     },
     {
         "phrase":  "Put the Cart Before the Horse",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Put Your Foot in Your Mouth",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Rain on Someone\u0027s Parade",
         "category":  "idioms-sayings"
     },
     {
@@ -9209,6 +9937,10 @@
     },
     {
         "phrase":  "Save It for a Rainy Day",
+        "category":  "idioms-sayings"
+    },
+    {
+        "phrase":  "Scared Shitless",
         "category":  "idioms-sayings"
     },
     {
@@ -9372,6 +10104,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "The Last Straw",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "The Pen Is Mightier Than the Sword",
         "category":  "idioms-sayings"
     },
@@ -9488,6 +10224,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "Two Peas in a Pod",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "Two Sides of the Same Coin",
         "category":  "idioms-sayings"
     },
@@ -9576,6 +10316,10 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "You Can\u0027t Judge a Book by Its Cover",
+        "category":  "idioms-sayings"
+    },
+    {
         "phrase":  "You Can\u0027t Teach an Old Dog New Tricks",
         "category":  "idioms-sayings"
     },
@@ -9621,6 +10365,10 @@
     },
     {
         "phrase":  "airplane mode",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Algorithm",
         "category":  "internet-slang"
     },
     {
@@ -9728,7 +10476,15 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Binge-Watch",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Blue Check",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Boomer",
         "category":  "internet-slang"
     },
     {
@@ -9737,6 +10493,14 @@
     },
     {
         "phrase":  "Brain Rot",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Brand Deal",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "BRB",
         "category":  "internet-slang"
     },
     {
@@ -9796,7 +10560,15 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Chef\u0027s Kiss",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Cheugy",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Chronically Online",
         "category":  "internet-slang"
     },
     {
@@ -9920,6 +10692,14 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Deep Cut",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Deep Fake",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Deep Fried Meme",
         "category":  "internet-slang"
     },
@@ -9964,6 +10744,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "DM",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Doge",
         "category":  "internet-slang"
     },
@@ -9993,6 +10777,10 @@
     },
     {
         "phrase":  "Dumpster Fire",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Easter Egg",
         "category":  "internet-slang"
     },
     {
@@ -10064,7 +10852,19 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Fan Theory",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Fandom",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Fell Off",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Filter",
         "category":  "internet-slang"
     },
     {
@@ -10129,6 +10929,10 @@
     },
     {
         "phrase":  "ghosting",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "GIF",
         "category":  "internet-slang"
     },
     {
@@ -10236,6 +11040,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Ick",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "In My Feelings Challenge",
         "category":  "internet-slang"
     },
@@ -10308,11 +11116,23 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Livestream",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Living Rent Free",
         "category":  "internet-slang"
     },
     {
         "phrase":  "LMAO",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "LOL",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Loot Box",
         "category":  "internet-slang"
     },
     {
@@ -10325,6 +11145,10 @@
     },
     {
         "phrase":  "Lurker",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Main Character",
         "category":  "internet-slang"
     },
     {
@@ -10345,6 +11169,10 @@
     },
     {
         "phrase":  "meme",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Meme Format",
         "category":  "internet-slang"
     },
     {
@@ -10404,6 +11232,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "NPC",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "NPC Energy",
         "category":  "internet-slang"
     },
@@ -10421,6 +11253,10 @@
     },
     {
         "phrase":  "OK Boomer",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "OMG",
         "category":  "internet-slang"
     },
     {
@@ -10449,6 +11285,10 @@
     },
     {
         "phrase":  "Parasocial Relationship",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Pay to Win",
         "category":  "internet-slang"
     },
     {
@@ -10481,6 +11321,10 @@
     },
     {
         "phrase":  "Planking",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Plot Twist",
         "category":  "internet-slang"
     },
     {
@@ -10528,6 +11372,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Ratioed",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Reaction GIF",
         "category":  "internet-slang"
     },
@@ -10548,7 +11396,15 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Reddit Gold",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Reel",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Reels",
         "category":  "internet-slang"
     },
     {
@@ -10557,6 +11413,10 @@
     },
     {
         "phrase":  "Renegade Dance",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Rent Free",
         "category":  "internet-slang"
     },
     {
@@ -10624,6 +11484,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Screenshot",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Screenshotted",
         "category":  "internet-slang"
     },
@@ -10636,6 +11500,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Shade",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Shadowban",
         "category":  "internet-slang"
     },
@@ -10644,11 +11512,27 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Ship",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Shipping",
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Shipping a Couple",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Shitpost",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Shitposting",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Side Eye",
         "category":  "internet-slang"
     },
     {
@@ -10732,6 +11616,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Sponsored Post",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Squad Goals",
         "category":  "internet-slang"
     },
@@ -10749,6 +11637,10 @@
     },
     {
         "phrase":  "Storm Area 51",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Story Highlight",
         "category":  "internet-slang"
     },
     {
@@ -10773,6 +11665,14 @@
     },
     {
         "phrase":  "Sweaty Gamer",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Swipe Left",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Swipe Right",
         "category":  "internet-slang"
     },
     {
@@ -10852,6 +11752,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Troll",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Troll Farm",
         "category":  "internet-slang"
     },
@@ -10873,6 +11777,10 @@
     },
     {
         "phrase":  "Two Buttons Meme",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Unboxing",
         "category":  "internet-slang"
     },
     {
@@ -10900,7 +11808,15 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Verified Badge",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Verified Checkmark",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Vibe",
         "category":  "internet-slang"
     },
     {
@@ -11012,6 +11928,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "30 Rock",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "90 Day Fiancé",
         "category":  "movies-tv"
     },
@@ -11060,6 +11980,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "American History X",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "American Idol",
         "category":  "movies-tv"
     },
@@ -11081,6 +12005,18 @@
     },
     {
         "phrase":  "Archer",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Argo",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Armageddon",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Arrested Development",
         "category":  "movies-tv"
     },
     {
@@ -11128,11 +12064,23 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Beetlejuice",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Better Call Saul",
         "category":  "movies-tv"
     },
     {
         "phrase":  "Big Brother",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Big Little Lies",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Black Hawk Down",
         "category":  "movies-tv"
     },
     {
@@ -11165,6 +12113,10 @@
     },
     {
         "phrase":  "Borat",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Boy Meets World",
         "category":  "movies-tv"
     },
     {
@@ -11220,6 +12172,14 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Catch Me If You Can",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Charmed",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Cheers",
         "category":  "movies-tv"
     },
@@ -11252,6 +12212,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Contagion",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "CSI: Crime Scene Investigation",
         "category":  "movies-tv"
     },
@@ -11264,11 +12228,19 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Dawson\u0027s Creek",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Deadpool",
         "category":  "movies-tv"
     },
     {
         "phrase":  "Deal or No Deal",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Deep Impact",
         "category":  "movies-tv"
     },
     {
@@ -11304,6 +12276,14 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Doctor Who",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Donnie Darko",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Dora the Explorer",
         "category":  "movies-tv"
     },
@@ -11329,6 +12309,10 @@
     },
     {
         "phrase":  "Edge of Tomorrow",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Edward Scissorhands",
         "category":  "movies-tv"
     },
     {
@@ -11404,6 +12388,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Fresh Prince of Bel-Air",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Friday the 13th",
         "category":  "movies-tv"
     },
@@ -11417,6 +12405,10 @@
     },
     {
         "phrase":  "Full House",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Full Metal Jacket",
         "category":  "movies-tv"
     },
     {
@@ -11456,6 +12448,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Gossip Girl",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Grease",
         "category":  "movies-tv"
     },
@@ -11477,6 +12473,10 @@
     },
     {
         "phrase":  "Harry Potter",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Heat",
         "category":  "movies-tv"
     },
     {
@@ -11504,6 +12504,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "I Am Legend",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "I Love Lucy",
         "category":  "movies-tv"
     },
@@ -11517,6 +12521,10 @@
     },
     {
         "phrase":  "Independence Day",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Indiana Jones",
         "category":  "movies-tv"
     },
     {
@@ -11544,6 +12552,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "It\u0027s Always Sunny in Philadelphia",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Jaws",
         "category":  "movies-tv"
     },
@@ -11565,6 +12577,10 @@
     },
     {
         "phrase":  "Jurassic Park",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Jurassic World",
         "category":  "movies-tv"
     },
     {
@@ -11688,6 +12704,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Moneyball",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Monsters, Inc.",
         "category":  "movies-tv"
     },
@@ -11720,6 +12740,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Napoleon Dynamite",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Narcos",
         "category":  "movies-tv"
     },
@@ -11728,7 +12752,15 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "National Treasure",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "NCIS",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "No Country for Old Men",
         "category":  "movies-tv"
     },
     {
@@ -11740,11 +12772,27 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Now You See Me",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Ocean\u0027s Eleven",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Office Space",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Once Upon a Time in Hollywood",
         "category":  "movies-tv"
     },
     {
         "phrase":  "One Flew Over the Cuckoo\u0027s Nest",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "One Tree Hill",
         "category":  "movies-tv"
     },
     {
@@ -11772,6 +12820,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Pan\u0027s Labyrinth",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Parasite",
         "category":  "movies-tv"
     },
@@ -11784,11 +12836,23 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Peaky Blinders",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Peppa Pig",
         "category":  "movies-tv"
     },
     {
         "phrase":  "Pinocchio",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Pirates of the Caribbean",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Platoon",
         "category":  "movies-tv"
     },
     {
@@ -11805,6 +12869,10 @@
     },
     {
         "phrase":  "Predator",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Pretty Little Liars",
         "category":  "movies-tv"
     },
     {
@@ -11880,6 +12948,14 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Sabrina the Teenage Witch",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Saturday Night Live",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Saved by the Bell",
         "category":  "movies-tv"
     },
@@ -11924,6 +13000,14 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Sharp Objects",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Shaun of the Dead",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Sherlock",
         "category":  "movies-tv"
     },
@@ -11933,6 +13017,10 @@
     },
     {
         "phrase":  "Shrek 2",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Sicario",
         "category":  "movies-tv"
     },
     {
@@ -11976,6 +13064,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Spotlight",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Squid Game",
         "category":  "movies-tv"
     },
@@ -12008,6 +13100,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Supernatural",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Survivor",
         "category":  "movies-tv"
     },
@@ -12029,6 +13125,10 @@
     },
     {
         "phrase":  "Teenage Mutant Ninja Turtles",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Terminator",
         "category":  "movies-tv"
     },
     {
@@ -12076,6 +13176,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Big Short",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Boys",
         "category":  "movies-tv"
     },
@@ -12101,6 +13205,14 @@
     },
     {
         "phrase":  "The Dark Knight Rises",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "The Day After Tomorrow",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "The Departed",
         "category":  "movies-tv"
     },
     {
@@ -12152,7 +13264,15 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Hurt Locker",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Incredibles",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "The Italian Job",
         "category":  "movies-tv"
     },
     {
@@ -12196,7 +13316,15 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Nightmare Before Christmas",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Notebook",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "The O.C.",
         "category":  "movies-tv"
     },
     {
@@ -12260,6 +13388,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Usual Suspects",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Voice",
         "category":  "movies-tv"
     },
@@ -12281,6 +13413,10 @@
     },
     {
         "phrase":  "The X-Files",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "There Will Be Blood",
         "category":  "movies-tv"
     },
     {
@@ -12316,11 +13452,19 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Training Day",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Trainspotting",
         "category":  "movies-tv"
     },
     {
         "phrase":  "Transformers",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Tropic Thunder",
         "category":  "movies-tv"
     },
     {
@@ -12340,6 +13484,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Veronica Mars",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Vertigo",
         "category":  "movies-tv"
     },
@@ -12353,6 +13501,10 @@
     },
     {
         "phrase":  "Wayne\u0027s World",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Wedding Crashers",
         "category":  "movies-tv"
     },
     {
@@ -12397,6 +13549,18 @@
     },
     {
         "phrase":  "Yellowstone",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Zero Dark Thirty",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Zodiac",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Zombieland",
         "category":  "movies-tv"
     },
     {
@@ -12448,6 +13612,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "ABBA",
+        "category":  "music"
+    },
+    {
         "phrase":  "Abbey Road",
         "category":  "music"
     },
@@ -12465,6 +13633,10 @@
     },
     {
         "phrase":  "air guitar",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Alice in Chains",
         "category":  "music"
     },
     {
@@ -12548,6 +13720,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Bee Gees",
+        "category":  "music"
+    },
+    {
         "phrase":  "Billie Jean",
         "category":  "music"
     },
@@ -12588,6 +13764,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Boston",
+        "category":  "music"
+    },
+    {
         "phrase":  "Boulevard of Broken Dreams",
         "category":  "music"
     },
@@ -12609,6 +13789,10 @@
     },
     {
         "phrase":  "Chicago",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Chop Suey!",
         "category":  "music"
     },
     {
@@ -12668,6 +13852,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Creep",
+        "category":  "music"
+    },
+    {
         "phrase":  "Cruel Summer",
         "category":  "music"
     },
@@ -12685,6 +13873,10 @@
     },
     {
         "phrase":  "Dangerously in Love",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Dark Side of the Moon",
         "category":  "music"
     },
     {
@@ -12748,6 +13940,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Eagles",
+        "category":  "music"
+    },
+    {
         "phrase":  "Earth, Wind \u0026 Fire",
         "category":  "music"
     },
@@ -12760,11 +13956,19 @@
         "category":  "music"
     },
     {
+        "phrase":  "Enter Sandman",
+        "category":  "music"
+    },
+    {
         "phrase":  "Espresso",
         "category":  "music"
     },
     {
         "phrase":  "Evanescence",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Every Breath You Take",
         "category":  "music"
     },
     {
@@ -12836,6 +14040,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Genesis",
+        "category":  "music"
+    },
+    {
         "phrase":  "Ghost",
         "category":  "music"
     },
@@ -12880,6 +14088,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Happy",
+        "category":  "music"
+    },
+    {
         "phrase":  "Happy Birthday song",
         "category":  "music"
     },
@@ -12916,6 +14128,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Hysteria",
+        "category":  "music"
+    },
+    {
         "phrase":  "I Gotta Feeling",
         "category":  "music"
     },
@@ -12929,6 +14145,10 @@
     },
     {
         "phrase":  "I Want to Hold Your Hand",
+        "category":  "music"
+    },
+    {
+        "phrase":  "I Will Always Love You",
         "category":  "music"
     },
     {
@@ -12988,6 +14208,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Kansas",
+        "category":  "music"
+    },
+    {
         "phrase":  "karaoke",
         "category":  "music"
     },
@@ -13044,6 +14268,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Like a Rolling Stone",
+        "category":  "music"
+    },
+    {
         "phrase":  "Like a Virgin",
         "category":  "music"
     },
@@ -13096,6 +14324,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Maroon 5",
+        "category":  "music"
+    },
+    {
         "phrase":  "Master of Puppets",
         "category":  "music"
     },
@@ -13141,6 +14373,10 @@
     },
     {
         "phrase":  "My Girl",
+        "category":  "music"
+    },
+    {
+        "phrase":  "My Heart Will Go On",
         "category":  "music"
     },
     {
@@ -13380,6 +14616,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Rush",
+        "category":  "music"
+    },
+    {
         "phrase":  "Salt-N-Pepa",
         "category":  "music"
     },
@@ -13424,7 +14664,15 @@
         "category":  "music"
     },
     {
+        "phrase":  "Simon \u0026 Garfunkel",
+        "category":  "music"
+    },
+    {
         "phrase":  "Since U Been Gone",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Single Ladies",
         "category":  "music"
     },
     {
@@ -13437,6 +14685,10 @@
     },
     {
         "phrase":  "Slipknot",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Slippery When Wet",
         "category":  "music"
     },
     {
@@ -13512,6 +14764,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Stone Temple Pilots",
+        "category":  "music"
+    },
+    {
         "phrase":  "Sum 41",
         "category":  "music"
     },
@@ -13552,6 +14808,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Take On Me",
+        "category":  "music"
+    },
+    {
         "phrase":  "Take That",
         "category":  "music"
     },
@@ -13564,6 +14824,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Thank U, Next",
+        "category":  "music"
+    },
+    {
         "phrase":  "The Allman Brothers Band",
         "category":  "music"
     },
@@ -13573,6 +14837,10 @@
     },
     {
         "phrase":  "The Beatles",
+        "category":  "music"
+    },
+    {
+        "phrase":  "The Black Album",
         "category":  "music"
     },
     {
@@ -13616,7 +14884,15 @@
         "category":  "music"
     },
     {
+        "phrase":  "The Grateful Dead",
+        "category":  "music"
+    },
+    {
         "phrase":  "The Jackson 5",
+        "category":  "music"
+    },
+    {
+        "phrase":  "The Joshua Tree",
         "category":  "music"
     },
     {
@@ -13649,6 +14925,10 @@
     },
     {
         "phrase":  "The Smashing Pumpkins",
+        "category":  "music"
+    },
+    {
+        "phrase":  "The Smiths",
         "category":  "music"
     },
     {
@@ -13804,6 +15084,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Wonderwall",
+        "category":  "music"
+    },
+    {
         "phrase":  "Wrecking Ball",
         "category":  "music"
     },
@@ -13821,6 +15105,10 @@
     },
     {
         "phrase":  "Yesterday",
+        "category":  "music"
+    },
+    {
+        "phrase":  "YMCA",
         "category":  "music"
     },
     {
@@ -13844,6 +15132,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Area Rug",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Armchair",
         "category":  "objects"
     },
@@ -13864,6 +15156,14 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Ballpoint Pen",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Bar of Soap",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Baseball Bat",
         "category":  "objects"
     },
@@ -13880,6 +15180,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Bath Towel",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Bathing Suit",
         "category":  "objects"
     },
@@ -13888,7 +15192,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Bathtub",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Battery",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Bed",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Bed Frame",
         "category":  "objects"
     },
     {
@@ -13921,6 +15237,10 @@
     },
     {
         "phrase":  "Blender",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Bluetooth Speaker",
         "category":  "objects"
     },
     {
@@ -13976,11 +15296,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Briefcase",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Broom",
         "category":  "objects"
     },
     {
         "phrase":  "Bucket",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Button",
         "category":  "objects"
     },
     {
@@ -14068,6 +15396,14 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Cigarettes",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Clock",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Closet",
         "category":  "objects"
     },
@@ -14088,6 +15424,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Coffee Mug",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Coffee Table",
         "category":  "objects"
     },
@@ -14105,6 +15445,10 @@
     },
     {
         "phrase":  "Computer Mouse",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Condom",
         "category":  "objects"
     },
     {
@@ -14224,6 +15568,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Drum Set",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Dryer",
         "category":  "objects"
     },
@@ -14264,6 +15612,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Fake ID",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Fence",
         "category":  "objects"
     },
@@ -14293,6 +15645,10 @@
     },
     {
         "phrase":  "Flashlight",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Flask",
         "category":  "objects"
     },
     {
@@ -14328,11 +15684,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Fuzzy Dice",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Gaming Console",
         "category":  "objects"
     },
     {
         "phrase":  "garden gnome",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Garden Hose",
         "category":  "objects"
     },
     {
@@ -14385,6 +15749,10 @@
     },
     {
         "phrase":  "Handbag",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Handcuffs",
         "category":  "objects"
     },
     {
@@ -14460,6 +15828,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Kitchen Knife",
+        "category":  "objects"
+    },
+    {
         "phrase":  "kite",
         "category":  "objects"
     },
@@ -14501,6 +15873,10 @@
     },
     {
         "phrase":  "Light Switch",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Lingerie",
         "category":  "objects"
     },
     {
@@ -14896,6 +16272,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Shampoo Bottle",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Shaving Cream",
         "category":  "objects"
     },
@@ -14904,11 +16284,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Shoes",
+        "category":  "objects"
+    },
+    {
         "phrase":  "shopping cart",
         "category":  "objects"
     },
     {
         "phrase":  "Shorts",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Shower Curtain",
         "category":  "objects"
     },
     {
@@ -14961,6 +16349,14 @@
     },
     {
         "phrase":  "Socks",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Sofa",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Space Heater",
         "category":  "objects"
     },
     {
@@ -15028,6 +16424,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Table",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Tablecloth",
         "category":  "objects"
     },
@@ -15041,6 +16441,10 @@
     },
     {
         "phrase":  "Teddy Bear",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Telephone",
         "category":  "objects"
     },
     {
@@ -15064,11 +16468,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Thermostat",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Tiara",
         "category":  "objects"
     },
     {
         "phrase":  "Toaster",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Toilet Paper",
         "category":  "objects"
     },
     {
@@ -15184,6 +16596,10 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Watch",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Water Bottle",
         "category":  "objects"
     },
@@ -15196,11 +16612,23 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Wheelbarrow",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Wheelchair",
         "category":  "objects"
     },
     {
+        "phrase":  "Whipped Cream",
+        "category":  "objects"
+    },
+    {
         "phrase":  "Whisk",
+        "category":  "objects"
+    },
+    {
+        "phrase":  "Whiskey Flask",
         "category":  "objects"
     },
     {
@@ -15244,11 +16672,19 @@
         "category":  "objects"
     },
     {
+        "phrase":  "Zipper",
+        "category":  "objects"
+    },
+    {
         "phrase":  "50 Cent",
         "category":  "people"
     },
     {
         "phrase":  "Abraham Lincoln",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Ada Lovelace",
         "category":  "people"
     },
     {
@@ -15304,11 +16740,19 @@
         "category":  "people"
     },
     {
+        "phrase":  "Amy Winehouse",
+        "category":  "people"
+    },
+    {
         "phrase":  "Anderson Cooper",
         "category":  "people"
     },
     {
         "phrase":  "Andre Agassi",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Andrew Carnegie",
         "category":  "people"
     },
     {
@@ -15328,11 +16772,19 @@
         "category":  "people"
     },
     {
+        "phrase":  "Anna Wintour",
+        "category":  "people"
+    },
+    {
         "phrase":  "Anne Frank",
         "category":  "people"
     },
     {
         "phrase":  "Anne Hathaway",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Ansel Adams",
         "category":  "people"
     },
     {
@@ -15357,6 +16809,10 @@
     },
     {
         "phrase":  "Arnold Schwarzenegger",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Attila the Hun",
         "category":  "people"
     },
     {
@@ -15409,6 +16865,10 @@
     },
     {
         "phrase":  "Billie Eilish",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Billie Jean King",
         "category":  "people"
     },
     {
@@ -15484,6 +16944,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Charlemagne",
+        "category":  "people"
+    },
+    {
         "phrase":  "Charles Darwin",
         "category":  "people"
     },
@@ -15493,6 +16957,10 @@
     },
     {
         "phrase":  "Charlie Chaplin",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Charlie Sheen",
         "category":  "people"
     },
     {
@@ -15564,6 +17032,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Cornelius Vanderbilt",
+        "category":  "people"
+    },
+    {
         "phrase":  "Courteney Cox",
         "category":  "people"
     },
@@ -15600,11 +17072,19 @@
         "category":  "people"
     },
     {
+        "phrase":  "Dennis Rodman",
+        "category":  "people"
+    },
+    {
         "phrase":  "Denzel Washington",
         "category":  "people"
     },
     {
         "phrase":  "Derek Jeter",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Desmond Tutu",
         "category":  "people"
     },
     {
@@ -15704,6 +17184,18 @@
         "category":  "people"
     },
     {
+        "phrase":  "F. Scott Fitzgerald",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Ferdinand Magellan",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Fidel Castro",
+        "category":  "people"
+    },
+    {
         "phrase":  "Florence Pugh",
         "category":  "people"
     },
@@ -15713,6 +17205,10 @@
     },
     {
         "phrase":  "Frank Sinatra",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Franklin D. Roosevelt",
         "category":  "people"
     },
     {
@@ -15752,6 +17248,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "George Orwell",
+        "category":  "people"
+    },
+    {
         "phrase":  "George W. Bush",
         "category":  "people"
     },
@@ -15760,7 +17260,15 @@
         "category":  "people"
     },
     {
+        "phrase":  "Georgia O\u0027Keeffe",
+        "category":  "people"
+    },
+    {
         "phrase":  "Gisele Bündchen",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Golda Meir",
         "category":  "people"
     },
     {
@@ -15773,6 +17281,10 @@
     },
     {
         "phrase":  "Halle Berry",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Hannibal Barca",
         "category":  "people"
     },
     {
@@ -15801,6 +17313,10 @@
     },
     {
         "phrase":  "Hillary Clinton",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Howard Hughes",
         "category":  "people"
     },
     {
@@ -15844,6 +17360,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Jackson Pollock",
+        "category":  "people"
+    },
+    {
         "phrase":  "James Brown",
         "category":  "people"
     },
@@ -15880,6 +17400,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Jerry Seinfeld",
+        "category":  "people"
+    },
+    {
         "phrase":  "Jesse Owens",
         "category":  "people"
     },
@@ -15909,6 +17433,10 @@
     },
     {
         "phrase":  "Joe Montana",
+        "category":  "people"
+    },
+    {
+        "phrase":  "John D. Rockefeller",
         "category":  "people"
     },
     {
@@ -15989,6 +17517,10 @@
     },
     {
         "phrase":  "Keanu Reeves",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Keith Richards",
         "category":  "people"
     },
     {
@@ -16204,6 +17736,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Mr. Rogers",
+        "category":  "people"
+    },
+    {
         "phrase":  "Muhammad Ali",
         "category":  "people"
     },
@@ -16240,7 +17776,15 @@
         "category":  "people"
     },
     {
+        "phrase":  "Nelson Rockefeller",
+        "category":  "people"
+    },
+    {
         "phrase":  "Nick Jonas",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Nicolaus Copernicus",
         "category":  "people"
     },
     {
@@ -16248,7 +17792,15 @@
         "category":  "people"
     },
     {
+        "phrase":  "Niels Bohr",
+        "category":  "people"
+    },
+    {
         "phrase":  "Nikola Tesla",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Norman Rockwell",
         "category":  "people"
     },
     {
@@ -16265,6 +17817,10 @@
     },
     {
         "phrase":  "Oprah Winfrey",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Otto von Bismarck",
         "category":  "people"
     },
     {
@@ -16289,6 +17845,10 @@
     },
     {
         "phrase":  "Pedro Pascal",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Pele",
         "category":  "people"
     },
     {
@@ -16364,6 +17924,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Richard Feynman",
+        "category":  "people"
+    },
+    {
         "phrase":  "Richard Pryor",
         "category":  "people"
     },
@@ -16417,6 +17981,10 @@
     },
     {
         "phrase":  "Ryan Seacrest",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Salvador Dali",
         "category":  "people"
     },
     {
@@ -16516,6 +18084,10 @@
         "category":  "people"
     },
     {
+        "phrase":  "Stevie Nicks",
+        "category":  "people"
+    },
+    {
         "phrase":  "Stevie Wonder",
         "category":  "people"
     },
@@ -16541,6 +18113,10 @@
     },
     {
         "phrase":  "The Weeknd",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Theodore Roosevelt",
         "category":  "people"
     },
     {
@@ -16605,6 +18181,14 @@
     },
     {
         "phrase":  "Viola Davis",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Virginia Woolf",
+        "category":  "people"
+    },
+    {
+        "phrase":  "Vlad the Impaler",
         "category":  "people"
     },
     {
@@ -16688,6 +18272,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Alaska",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Alcatraz",
         "category":  "places-landmarks"
     },
@@ -16741,6 +18329,10 @@
     },
     {
         "phrase":  "Athens",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Austin",
         "category":  "places-landmarks"
     },
     {
@@ -17012,6 +18604,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Denver",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Devils Tower",
         "category":  "places-landmarks"
     },
@@ -17212,6 +18808,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Hawaii",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Helsinki",
         "category":  "places-landmarks"
     },
@@ -17380,6 +18980,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Madrid",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Maldives",
         "category":  "places-landmarks"
     },
@@ -17413,6 +19017,10 @@
     },
     {
         "phrase":  "Miami",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Miami Beach",
         "category":  "places-landmarks"
     },
     {
@@ -17512,6 +19120,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Nashville",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Nassau",
         "category":  "places-landmarks"
     },
@@ -17557,6 +19169,10 @@
     },
     {
         "phrase":  "Norway",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Notre Dame",
         "category":  "places-landmarks"
     },
     {
@@ -17672,6 +19288,10 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Pyramids of Giza",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Quito",
         "category":  "places-landmarks"
     },
@@ -17773,6 +19393,10 @@
     },
     {
         "phrase":  "Scotland",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Seattle",
         "category":  "places-landmarks"
     },
     {
@@ -17920,6 +19544,22 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "The Acropolis",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Alps",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Amazon Rainforest",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Amazon River",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "The Andes",
         "category":  "places-landmarks"
     },
@@ -17932,11 +19572,31 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "The Colosseum",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Dead Sea",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "The Himalayas",
         "category":  "places-landmarks"
     },
     {
         "phrase":  "The Kremlin",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The London Eye",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Louvre",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Maldives",
         "category":  "places-landmarks"
     },
     {
@@ -17952,7 +19612,27 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "The Sahara Desert",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "The Shard",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Sphinx",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Taj Mahal",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The Vatican",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "The White House",
         "category":  "places-landmarks"
     },
     {
@@ -18056,7 +19736,15 @@
         "category":  "places-landmarks"
     },
     {
+        "phrase":  "Walt Disney World",
+        "category":  "places-landmarks"
+    },
+    {
         "phrase":  "Warsaw",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Washington DC",
         "category":  "places-landmarks"
     },
     {
@@ -18085,6 +19773,10 @@
     },
     {
         "phrase":  "Yosemite National Park",
+        "category":  "places-landmarks"
+    },
+    {
+        "phrase":  "Yosemite Valley",
         "category":  "places-landmarks"
     },
     {
@@ -18132,7 +19824,15 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Amino Acid",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Amphibian",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Antibiotic",
         "category":  "science-nature"
     },
     {
@@ -18153,6 +19853,10 @@
     },
     {
         "phrase":  "Asteroid",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Asteroid Belt",
         "category":  "science-nature"
     },
     {
@@ -18216,6 +19920,14 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Blood Vessel",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Bloodstream",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Blue Giant",
         "category":  "science-nature"
     },
@@ -18264,6 +19976,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Carbon Dioxide",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Carbon Footprint",
         "category":  "science-nature"
     },
@@ -18284,6 +20000,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Cell Division",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Chemical Reaction",
         "category":  "science-nature"
     },
@@ -18293,6 +20013,10 @@
     },
     {
         "phrase":  "Chromosome",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Circadian Rhythm",
         "category":  "science-nature"
     },
     {
@@ -18396,6 +20120,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Desert Ecosystem",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Diamond",
         "category":  "science-nature"
     },
@@ -18405,6 +20133,10 @@
     },
     {
         "phrase":  "Digestion",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Digestive System",
         "category":  "science-nature"
     },
     {
@@ -18449,6 +20181,10 @@
     },
     {
         "phrase":  "El Nino",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Electric Current",
         "category":  "science-nature"
     },
     {
@@ -18544,6 +20280,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Food Web",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Fossil",
         "category":  "science-nature"
     },
@@ -18589,6 +20329,10 @@
     },
     {
         "phrase":  "Genetic Engineering",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Genetic Mutation",
         "category":  "science-nature"
     },
     {
@@ -18641,6 +20385,10 @@
     },
     {
         "phrase":  "Heart",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Heartbeat",
         "category":  "science-nature"
     },
     {
@@ -18761,6 +20509,14 @@
     },
     {
         "phrase":  "Leap Year",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Light Speed",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Light Wave",
         "category":  "science-nature"
     },
     {
@@ -18904,6 +20660,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Muscle Fiber",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Mutation",
         "category":  "science-nature"
     },
@@ -18973,6 +20733,10 @@
     },
     {
         "phrase":  "Omnivore",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Optical Illusion",
         "category":  "science-nature"
     },
     {
@@ -19073,6 +20837,10 @@
     },
     {
         "phrase":  "Precipitation",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Predator and Prey",
         "category":  "science-nature"
     },
     {
@@ -19220,6 +20988,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Saturn\u0027s Rings",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Savanna",
         "category":  "science-nature"
     },
@@ -19237,6 +21009,10 @@
     },
     {
         "phrase":  "Seismograph",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Shooting Star",
         "category":  "science-nature"
     },
     {
@@ -19296,6 +21072,10 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Species Extinction",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Spectrum",
         "category":  "science-nature"
     },
@@ -19309,6 +21089,10 @@
     },
     {
         "phrase":  "Stalagmite",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "States of Matter",
         "category":  "science-nature"
     },
     {
@@ -19356,11 +21140,19 @@
         "category":  "science-nature"
     },
     {
+        "phrase":  "Tectonic Plates",
+        "category":  "science-nature"
+    },
+    {
         "phrase":  "Terminal Velocity",
         "category":  "science-nature"
     },
     {
         "phrase":  "Test Tube",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "The Moon",
         "category":  "science-nature"
     },
     {
@@ -19477,6 +21269,10 @@
     },
     {
         "phrase":  "Wind Power",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Wind Turbine",
         "category":  "science-nature"
     },
     {
