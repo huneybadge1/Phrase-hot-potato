@@ -95,7 +95,14 @@ html, body {
   font-size: 0.9rem;
   text-align: center;
   max-width: 480px;
-  margin: 0 0 28px;
+  margin: 0 0 16px;
+}
+
+.btn-categories {
+  margin-bottom: 16px;
+  padding: 12px 24px;
+  min-height: auto;
+  font-size: 0.95rem;
 }
 
 /* ---------- Buttons ---------- */
@@ -176,7 +183,21 @@ html, body {
   gap: 12px;
   justify-content: center;
   max-width: 90vw;
-  margin: 16px 0 32px;
+  margin: 16px 0 20px;
+}
+
+.btn-undo-strike {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  padding: 8px 12px;
+  margin-bottom: 16px;
+  text-decoration: underline;
+}
+
+.btn-undo-strike[hidden] {
+  display: none;
 }
 
 .score-chip {
@@ -208,6 +229,7 @@ html, body {
 #screen-round {
   justify-content: space-between;
   padding: 40px 24px;
+  transition: background-color 0.4s ease;
 }
 
 .word-display {
@@ -350,6 +372,35 @@ html, body {
 
 .btn-modal {
   width: 100%;
+}
+
+.modal-box-scroll {
+  max-height: 85vh;
+  overflow-y: auto;
+}
+
+.category-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 8px;
+}
+
+.category-chip {
+  background: var(--bg);
+  border: 2px solid var(--text-dim);
+  color: var(--text-dim);
+  border-radius: 20px;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.category-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
 }
 
 .modal-sub {

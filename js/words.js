@@ -4,6 +4,7 @@ const WordBank = (() => {
   const COOLDOWN_MS = 15 * 60 * 1000;
 
   let pool = []; // [{ phrase, category, lastShownAt }]
+  let activeCategories = null; // null = all categories active
 
   async function load() {
     const res = await fetch("catchphrase-words.json");
@@ -16,25 +17,35 @@ const WordBank = (() => {
     return pool.length;
   }
 
+  function setActiveCategories(categories) {
+    activeCategories = categories ? new Set(categories) : null;
+  }
+
+  function activePool() {
+    if (!activeCategories) return pool;
+    return pool.filter((w) => activeCategories.has(w.category));
+  }
+
   function draw() {
-    if (pool.length === 0) return null;
+    const candidatePool = activePool();
+    if (candidatePool.length === 0) return null;
     const now = Date.now();
-    const eligible = pool.filter((w) => now - w.lastShownAt >= COOLDOWN_MS);
-    const candidates = eligible.length > 0 ? eligible : leastRecentlyShown();
+    const eligible = candidatePool.filter((w) => now - w.lastShownAt >= COOLDOWN_MS);
+    const candidates = eligible.length > 0 ? eligible : leastRecentlyShown(candidatePool);
     const chosen = candidates[Math.floor(Math.random() * candidates.length)];
     chosen.lastShownAt = now;
     return chosen;
   }
 
-  function leastRecentlyShown() {
+  function leastRecentlyShown(fromPool) {
     let min = Infinity;
-    for (const w of pool) min = Math.min(min, w.lastShownAt);
-    return pool.filter((w) => w.lastShownAt === min);
+    for (const w of fromPool) min = Math.min(min, w.lastShownAt);
+    return fromPool.filter((w) => w.lastShownAt === min);
   }
 
   function size() {
     return pool.length;
   }
 
-  return { load, draw, size };
+  return { load, draw, size, setActiveCategories };
 })();

@@ -33,6 +33,7 @@
       <button id="team-plus" class="stepper-btn" aria-label="More teams">&plus;</button>
     </div>
     <p class="hint">Teams are pairs of 2 &mdash; you manage turn order yourselves.</p>
+    <button id="btn-categories" class="btn-secondary btn-categories">Categories</button>
     <button id="btn-start-game" class="btn-primary">Start Game</button>
   </section>
 
@@ -40,6 +41,7 @@
   <section id="screen-idle" class="screen" hidden>
     <h2 class="scoreboard-title">Strikes <span class="lowest-wins">(lowest wins)</span></h2>
     <div id="scoreboard" class="scoreboard"></div>
+    <button id="btn-undo-strike" class="btn-undo-strike" hidden>&#8617; Undo Last Strike</button>
     <button id="btn-start-round" class="btn-primary btn-huge">Start Round</button>
   </section>
 
@@ -71,6 +73,16 @@
     <button id="btn-soft-reset" class="btn-secondary btn-modal">Stop Round <span class="modal-sub">(keep strikes)</span></button>
     <button id="btn-full-reset" class="btn-primary btn-modal">Full Reset <span class="modal-sub">(clear strikes)</span></button>
     <button id="btn-cancel-reset" class="btn-modal-cancel">Cancel</button>
+  </div>
+</div>
+
+<!-- Categories modal -->
+<div id="categories-modal" class="modal-overlay" hidden>
+  <div class="modal-box modal-box-scroll">
+    <h3 class="modal-title">Categories</h3>
+    <p class="modal-text">Tap to include or exclude a category from the word pool.</p>
+    <div id="category-chips" class="category-chips"></div>
+    <button id="btn-categories-done" class="btn-primary btn-modal">Done</button>
   </div>
 </div>
 

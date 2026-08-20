@@ -15,6 +15,12 @@
     screenIdle: document.getElementById("screen-idle"),
     scoreboard: document.getElementById("scoreboard"),
     btnStartRound: document.getElementById("btn-start-round"),
+    btnUndoStrike: document.getElementById("btn-undo-strike"),
+
+    btnCategories: document.getElementById("btn-categories"),
+    categoriesModal: document.getElementById("categories-modal"),
+    categoryChips: document.getElementById("category-chips"),
+    btnCategoriesDone: document.getElementById("btn-categories-done"),
 
     btnResetGame: document.getElementById("btn-reset-game"),
     resetModal: document.getElementById("reset-modal"),
@@ -58,6 +64,40 @@
     "events-holidays": "Events & Holidays",
   };
 
+  const ALL_CATEGORIES = Object.keys(CATEGORY_LABELS);
+  let activeCategories = new Set(ALL_CATEGORIES);
+
+  // A silly random background color per round, purely cosmetic.
+  const ROUND_BACKGROUNDS = [
+    "#2d1b4e", "#0f3d3e", "#3d0f1f", "#12351f",
+    "#0f1f3d", "#3d2410", "#3d0f2f", "#1f2937",
+  ];
+
+  function renderCategoryChips() {
+    els.categoryChips.innerHTML = "";
+    ALL_CATEGORIES.forEach((cat) => {
+      const chip = document.createElement("button");
+      chip.className = "category-chip" + (activeCategories.has(cat) ? " active" : "");
+      chip.textContent = CATEGORY_LABELS[cat];
+      chip.addEventListener("click", () => {
+        if (activeCategories.has(cat)) {
+          if (activeCategories.size === 1) return; // must keep at least one active
+          activeCategories.delete(cat);
+        } else {
+          activeCategories.add(cat);
+        }
+        WordBank.setActiveCategories(activeCategories);
+        renderCategoryChips();
+        updateCategoriesButtonLabel();
+      });
+      els.categoryChips.appendChild(chip);
+    });
+  }
+
+  function updateCategoriesButtonLabel() {
+    els.btnCategories.textContent = `Categories (${activeCategories.size}/${ALL_CATEGORIES.length})`;
+  }
+
   function renderWord(word) {
     if (!word) return;
     els.wordDisplay.textContent = word.phrase;
@@ -87,10 +127,15 @@
       btn.addEventListener("click", () => {
         Game.addStrike(idx);
         renderScoreboard();
+        updateUndoButtonVisibility();
         showScreen(els.screenIdle);
       });
       els.caughtTeams.appendChild(btn);
     });
+  }
+
+  function updateUndoButtonVisibility() {
+    els.btnUndoStrike.hidden = !Game.canUndoStrike();
   }
 
   function vibrateBuzz() {
@@ -129,14 +174,37 @@
   els.btnStartGame.addEventListener("click", () => {
     Game.init(teamCount, { onWordChange, onBuzz });
     renderScoreboard();
+    updateUndoButtonVisibility();
     showScreen(els.screenIdle);
+  });
+
+  els.btnCategories.addEventListener("click", () => {
+    els.categoriesModal.hidden = false;
+  });
+
+  els.btnCategoriesDone.addEventListener("click", () => {
+    els.categoriesModal.hidden = true;
+  });
+
+  els.categoriesModal.addEventListener("click", (e) => {
+    if (e.target === els.categoriesModal) {
+      els.categoriesModal.hidden = true;
+    }
   });
 
   // ---------- Idle screen ----------
   els.btnStartRound.addEventListener("click", () => {
     GameAudio.unlock();
+    els.screenRound.style.backgroundColor =
+      ROUND_BACKGROUNDS[Math.floor(Math.random() * ROUND_BACKGROUNDS.length)];
     showScreen(els.screenRound);
     Game.startRound();
+  });
+
+  els.btnUndoStrike.addEventListener("click", () => {
+    Game.undoLastStrike();
+    renderScoreboard();
+    updateUndoButtonVisibility();
   });
 
   els.btnResetGame.addEventListener("click", () => {
@@ -189,6 +257,8 @@
   async function boot() {
     updateTeamCountDisplay();
     checkOrientation();
+    renderCategoryChips();
+    updateCategoriesButtonLabel();
     showScreen(els.screenSetup);
 
     try {

@@ -24,6 +24,7 @@ const Game = (() => {
   let endTime = 0;
   let totalDurationMs = 0;
   let beepTimeoutId = null;
+  let lastStrikeTeamIndex = null;
 
   let callbacks = { onWordChange: () => {}, onBuzz: () => {} };
 
@@ -32,6 +33,7 @@ const Game = (() => {
       name: `Team ${i + 1}`,
       strikes: 0,
     }));
+    lastStrikeTeamIndex = null;
     callbacks = { ...callbacks, ...cb };
   }
 
@@ -41,6 +43,19 @@ const Game = (() => {
 
   function addStrike(teamIndex) {
     teams[teamIndex].strikes += 1;
+    lastStrikeTeamIndex = teamIndex;
+  }
+
+  function canUndoStrike() {
+    return lastStrikeTeamIndex !== null;
+  }
+
+  function undoLastStrike() {
+    if (lastStrikeTeamIndex === null) return false;
+    const team = teams[lastStrikeTeamIndex];
+    if (team.strikes > 0) team.strikes -= 1;
+    lastStrikeTeamIndex = null;
+    return true;
   }
 
   function startRound() {
@@ -99,6 +114,8 @@ const Game = (() => {
     init,
     getTeams,
     addStrike,
+    canUndoStrike,
+    undoLastStrike,
     startRound,
     stopTimer,
     gotIt,
