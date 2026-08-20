@@ -25,6 +25,9 @@ const Game = (() => {
   let totalDurationMs = 0;
   let beepTimeoutId = null;
   let lastStrikeTeamIndex = null;
+  let roundActive = false;
+  let paused = false;
+  let pausedRemainingMs = null;
 
   let callbacks = { onWordChange: () => {}, onBuzz: () => {} };
 
@@ -64,6 +67,9 @@ const Game = (() => {
     totalDurationMs = seconds * 1000;
     endTime = Date.now() + totalDurationMs;
     skipUsed = false;
+    roundActive = true;
+    paused = false;
+    pausedRemainingMs = null;
     currentWord = WordBank.draw();
     callbacks.onWordChange(currentWord);
     tick();
@@ -73,6 +79,7 @@ const Game = (() => {
     const remainingMs = endTime - Date.now();
     if (remainingMs <= 0) {
       clearTimeout(beepTimeoutId);
+      roundActive = false;
       GameAudio.buzzer();
       callbacks.onBuzz();
       return;
@@ -90,6 +97,28 @@ const Game = (() => {
 
   function stopTimer() {
     clearTimeout(beepTimeoutId);
+    roundActive = false;
+    paused = false;
+    pausedRemainingMs = null;
+  }
+
+  // Freezes the countdown (no more beeps, no more elapsing time) — used
+  // when the phone rotates back to portrait or the app loses visibility
+  // (backgrounded, screen locked) mid-round, so a round can't silently
+  // burn through its whole remaining time while nobody can see or hear it.
+  function pauseRound() {
+    if (!roundActive || paused) return;
+    paused = true;
+    pausedRemainingMs = endTime - Date.now();
+    clearTimeout(beepTimeoutId);
+  }
+
+  function resumeRound() {
+    if (!roundActive || !paused) return;
+    paused = false;
+    endTime = Date.now() + pausedRemainingMs;
+    pausedRemainingMs = null;
+    tick();
   }
 
   function gotIt() {
@@ -118,6 +147,8 @@ const Game = (() => {
     undoLastStrike,
     startRound,
     stopTimer,
+    pauseRound,
+    resumeRound,
     gotIt,
     skip,
     isSkipAvailable,

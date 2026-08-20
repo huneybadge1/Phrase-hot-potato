@@ -244,19 +244,51 @@
     }
   });
 
-  // ---------- Rotate overlay ----------
+  // ---------- Rotate overlay + round pause/resume ----------
+  // A round pauses whenever the phone isn't in landscape (rotated back to
+  // portrait, mid-explanation) or the app isn't visible (screen locked,
+  // switched to another app) — otherwise the timer would silently keep
+  // counting down the whole time nobody can see or hear it.
+  const pauseBlockers = { portrait: false, hidden: false };
+
+  function updatePauseState() {
+    if (pauseBlockers.portrait || pauseBlockers.hidden) {
+      Game.pauseRound();
+    } else {
+      Game.resumeRound();
+    }
+  }
+
   function checkOrientation() {
     const isPortrait = window.innerHeight > window.innerWidth;
     els.rotateOverlay.hidden = !isPortrait;
+    pauseBlockers.portrait = isPortrait;
+    updatePauseState();
   }
 
   window.addEventListener("resize", checkOrientation);
   window.addEventListener("orientationchange", checkOrientation);
 
+  document.addEventListener("visibilitychange", () => {
+    pauseBlockers.hidden = document.hidden;
+    updatePauseState();
+  });
+
+  // Best-effort landscape lock: only works on platforms that support the
+  // Screen Orientation API for installed apps (mainly Android). No-ops
+  // silently everywhere else — iOS Safari doesn't support this at all,
+  // which is why the pause-on-portrait handling above is the real fix.
+  function tryLockOrientation() {
+    if (screen.orientation && screen.orientation.lock) {
+      screen.orientation.lock("landscape").catch(() => {});
+    }
+  }
+
   // ---------- Boot ----------
   async function boot() {
     updateTeamCountDisplay();
     checkOrientation();
+    tryLockOrientation();
     renderCategoryChips();
     updateCategoriesButtonLabel();
     showScreen(els.screenSetup);
