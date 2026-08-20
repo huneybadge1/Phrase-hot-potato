@@ -4812,6 +4812,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "GTA VI",
+        "category":  "brands-products"
+    },
+    {
         "phrase":  "Gucci",
         "category":  "brands-products"
     },
@@ -5776,6 +5780,10 @@
         "category":  "brands-products"
     },
     {
+        "phrase":  "2026 Winter Olympics",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Academy Awards",
         "category":  "events-holidays"
     },
@@ -6520,6 +6528,10 @@
         "category":  "events-holidays"
     },
     {
+        "phrase":  "Little League World Series",
+        "category":  "events-holidays"
+    },
+    {
         "phrase":  "Lollapalooza",
         "category":  "events-holidays"
     },
@@ -7141,6 +7153,10 @@
     },
     {
         "phrase":  "Turkey Trot",
+        "category":  "events-holidays"
+    },
+    {
+        "phrase":  "U.S.-Iran Conflict",
         "category":  "events-holidays"
     },
     {
@@ -10348,7 +10364,15 @@
         "category":  "idioms-sayings"
     },
     {
+        "phrase":  "2026 Is the New 2016",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "404 Error",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "6-7",
         "category":  "internet-slang"
     },
     {
@@ -10357,6 +10381,10 @@
     },
     {
         "phrase":  "AFK",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "AI Slop",
         "category":  "internet-slang"
     },
     {
@@ -10525,6 +10553,10 @@
     },
     {
         "phrase":  "Cancel Culture",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Capybara of Indifference",
         "category":  "internet-slang"
     },
     {
@@ -10952,6 +10984,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Glazing",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Glow Up",
         "category":  "internet-slang"
     },
@@ -11076,6 +11112,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Jimothy the Raccoon",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Karen",
         "category":  "internet-slang"
     },
@@ -11093,6 +11133,14 @@
     },
     {
         "phrase":  "Keyboard Warrior",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "KitKat Heist",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Kool-Aid Pineapples",
         "category":  "internet-slang"
     },
     {
@@ -11333,6 +11381,10 @@
     },
     {
         "phrase":  "Poggers",
+        "category":  "internet-slang"
+    },
+    {
+        "phrase":  "Polite Punch",
         "category":  "internet-slang"
     },
     {
@@ -11628,6 +11680,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Standing on Business",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "Star Wars Kid",
         "category":  "internet-slang"
     },
@@ -11836,6 +11892,10 @@
         "category":  "internet-slang"
     },
     {
+        "phrase":  "Villain Turned Hero",
+        "category":  "internet-slang"
+    },
+    {
         "phrase":  "viral dance",
         "category":  "internet-slang"
     },
@@ -11973,6 +12033,10 @@
     },
     {
         "phrase":  "All in the Family",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Alley Cats",
         "category":  "movies-tv"
     },
     {
@@ -12304,6 +12368,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Dutton Ranch",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "E.T. the Extra-Terrestrial",
         "category":  "movies-tv"
     },
@@ -12528,6 +12596,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Industry",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Inglourious Basterds",
         "category":  "movies-tv"
     },
@@ -12612,6 +12684,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Lanterns",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Law \u0026 Order",
         "category":  "movies-tv"
     },
@@ -12677,6 +12753,14 @@
     },
     {
         "phrase":  "Men in Black",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Michael",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Minions \u0026 Monsters",
         "category":  "movies-tv"
     },
     {
@@ -12881,6 +12965,10 @@
     },
     {
         "phrase":  "Prison Break",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Project Hail Mary",
         "category":  "movies-tv"
     },
     {
@@ -13124,6 +13212,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Ted Lasso Season 4",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Teenage Mutant Ninja Turtles",
         "category":  "movies-tv"
     },
@@ -13332,6 +13424,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Pitt",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Price Is Right",
         "category":  "movies-tv"
     },
@@ -13372,6 +13468,10 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "The Super Mario Galaxy Movie",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "The Terminator",
         "category":  "movies-tv"
     },
@@ -13401,6 +13501,10 @@
     },
     {
         "phrase":  "The West Wing",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "The Whisper Man",
         "category":  "movies-tv"
     },
     {
@@ -13449,6 +13553,10 @@
     },
     {
         "phrase":  "Toy Story",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Toy Story 5",
         "category":  "movies-tv"
     },
     {
@@ -13528,7 +13636,15 @@
         "category":  "movies-tv"
     },
     {
+        "phrase":  "Widow\u0027s Bay",
+        "category":  "movies-tv"
+    },
+    {
         "phrase":  "Wish",
+        "category":  "movies-tv"
+    },
+    {
+        "phrase":  "Wonder Man",
         "category":  "movies-tv"
     },
     {
@@ -13668,6 +13784,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Arirang",
+        "category":  "music"
+    },
+    {
         "phrase":  "As It Was",
         "category":  "music"
     },
@@ -13721,6 +13841,10 @@
     },
     {
         "phrase":  "Bee Gees",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Been By Now",
         "category":  "music"
     },
     {
@@ -13789,6 +13913,10 @@
     },
     {
         "phrase":  "Chicago",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Choosin\u0027 Texas",
         "category":  "music"
     },
     {
@@ -13865,6 +13993,10 @@
     },
     {
         "phrase":  "Dancing Queen",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Dandelion",
         "category":  "music"
     },
     {
@@ -14096,6 +14228,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "Hate That I Made You Love Me",
+        "category":  "music"
+    },
+    {
         "phrase":  "Here Comes the Sun",
         "category":  "music"
     },
@@ -14233,6 +14369,10 @@
     },
     {
         "phrase":  "Kiss",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Kiss All The Time. Disco, Occasionally.",
         "category":  "music"
     },
     {
@@ -14493,6 +14633,10 @@
     },
     {
         "phrase":  "Perfect",
+        "category":  "music"
+    },
+    {
+        "phrase":  "Petal",
         "category":  "music"
     },
     {
@@ -14832,6 +14976,10 @@
         "category":  "music"
     },
     {
+        "phrase":  "The Art of Loving",
+        "category":  "music"
+    },
+    {
         "phrase":  "The Beach Boys",
         "category":  "music"
     },
@@ -14885,6 +15033,10 @@
     },
     {
         "phrase":  "The Grateful Dead",
+        "category":  "music"
+    },
+    {
+        "phrase":  "The Great Divide",
         "category":  "music"
     },
     {
@@ -15109,6 +15261,10 @@
     },
     {
         "phrase":  "YMCA",
+        "category":  "music"
+    },
+    {
+        "phrase":  "You Seem Pretty Sad for a Girl So in Love",
         "category":  "music"
     },
     {
@@ -19849,6 +20005,10 @@
     },
     {
         "phrase":  "Arctic Circle",
+        "category":  "science-nature"
+    },
+    {
+        "phrase":  "Artemis II",
         "category":  "science-nature"
     },
     {
