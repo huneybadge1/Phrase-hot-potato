@@ -232,12 +232,20 @@ html, body {
 
 .round-actions {
   display: flex;
-  gap: 16px;
+  gap: 28px;
   width: 100%;
   justify-content: center;
 }
 
-.round-actions .btn-secondary { flex: 0 0 auto; }
+/* Skip gets a real chunk of width (not sized-to-text) and extra gap from
+   Got It, so a hurried thumb during the frantic ending doesn't slip onto
+   the wrong button. */
+.round-actions .btn-secondary {
+  flex: 0 0 34%;
+  min-height: 76px;
+  font-size: clamp(1.2rem, 3vw, 1.7rem);
+  padding: 24px 16px;
+}
 .round-actions .btn-primary { flex: 1 1 auto; max-width: 480px; }
 
 /* ---------- Who got caught ---------- */
@@ -365,4 +373,6 @@ html, body {
 @media (orientation: landscape) and (max-height: 420px) {
   .word-display { font-size: clamp(1.8rem, 7vw, 3.5rem); }
   .btn-primary, .btn-secondary { padding: 14px 24px; min-height: 52px; }
+  .round-actions { gap: 18px; }
+  .round-actions .btn-secondary { min-height: 60px; padding: 14px 10px; }
 }

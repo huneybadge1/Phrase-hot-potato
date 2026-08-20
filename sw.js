@@ -1,4 +1,4 @@
-const CACHE_VERSION = "catchphrase-v7";
+const CACHE_VERSION = "catchphrase-v8";
 
 const PRECACHE_URLS = [
   "./",
