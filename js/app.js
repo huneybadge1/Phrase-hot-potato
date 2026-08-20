@@ -45,7 +45,9 @@
     for (const s of [els.screenSetup, els.screenIdle, els.screenRound, els.screenCaught]) {
       s.hidden = s !== screen;
     }
-    els.btnResetGame.hidden = screen === els.screenSetup;
+    if (els.btnResetGame) {
+      els.btnResetGame.hidden = screen === els.screenSetup;
+    }
   }
 
   const CATEGORY_LABELS = {
@@ -85,6 +87,7 @@
   const EMOJI_ROW_DIRECTIONS = ["right", "left", "right", "left", "right"];
 
   function renderEmojiBackground() {
+    if (!els.emojiBg) return;
     const emoji = ROUND_EMOJIS[Math.floor(Math.random() * ROUND_EMOJIS.length)];
     const unit = (emoji + "    ").repeat(25);
     els.emojiBg.innerHTML = "";
@@ -97,6 +100,7 @@
   }
 
   function renderCategoryChips() {
+    if (!els.categoryChips) return;
     els.categoryChips.innerHTML = "";
     ALL_CATEGORIES.forEach((cat) => {
       const chip = document.createElement("button");
@@ -118,6 +122,7 @@
   }
 
   function updateCategoriesButtonLabel() {
+    if (!els.btnCategories) return;
     els.btnCategories.textContent = `Categories (${activeCategories.size}/${ALL_CATEGORIES.length})`;
   }
 
@@ -158,6 +163,7 @@
   }
 
   function updateUndoButtonVisibility() {
+    if (!els.btnUndoStrike) return;
     els.btnUndoStrike.hidden = !Game.canUndoStrike();
   }
 
@@ -218,9 +224,16 @@
   // ---------- Idle screen ----------
   els.btnStartRound.addEventListener("click", () => {
     GameAudio.unlock();
-    els.screenRound.style.backgroundColor =
-      ROUND_BACKGROUNDS[Math.floor(Math.random() * ROUND_BACKGROUNDS.length)];
-    renderEmojiBackground();
+    // Cosmetic flourishes must never be able to block the round itself —
+    // if a stale/mismatched cache makes one of these throw, starting the
+    // round should still work.
+    try {
+      els.screenRound.style.backgroundColor =
+        ROUND_BACKGROUNDS[Math.floor(Math.random() * ROUND_BACKGROUNDS.length)];
+      renderEmojiBackground();
+    } catch (err) {
+      console.error("Round decoration failed, continuing anyway:", err);
+    }
     showScreen(els.screenRound);
     Game.startRound();
   });
