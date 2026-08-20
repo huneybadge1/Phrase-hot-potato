@@ -9,7 +9,13 @@ const MAX_ROUND_SECONDS = 105;
 // the round still smoothly spans start to buzzer with no plateau.
 const MIN_BEEP_INTERVAL_MS = 180;
 const MAX_BEEP_INTERVAL_MS = 1500;
-const BEEP_EASING_POWER = 2.2;
+
+// A power of 1 (linear) spends roughly equal wall-clock time in every
+// speed tier from MAX down to MIN. Below 1 skews time toward the slow
+// end (lingers longer, fast end is brief); above 1 skews it back toward
+// the fast end (which is what made the original 2.2 curve feel like it
+// stayed frantic for too long near the buzzer).
+const BEEP_EASING_POWER = 1;
 
 const Game = (() => {
   let teams = [];
