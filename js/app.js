@@ -198,7 +198,21 @@
     }
 
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("sw.js").catch(() => {});
+      navigator.serviceWorker
+        .register("sw.js")
+        .then((reg) => reg.update())
+        .catch(() => {});
+
+      // As soon as a new service worker takes control (i.e. an update was
+      // found and installed), reload once so the new version is actually
+      // shown — otherwise a stale PWA can sit on an old cached version
+      // indefinitely with no visible sign anything changed.
+      let reloadedForUpdate = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (reloadedForUpdate) return;
+        reloadedForUpdate = true;
+        window.location.reload();
+      });
     }
   }
 
