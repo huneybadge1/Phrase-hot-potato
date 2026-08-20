@@ -232,6 +232,43 @@ html, body {
   transition: background-color 0.4s ease;
 }
 
+.emoji-bg {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  pointer-events: none;
+}
+
+.emoji-row {
+  position: relative;
+  white-space: nowrap;
+  width: max-content;
+  font-size: 1.8rem;
+  opacity: 0.16;
+  will-change: transform;
+}
+
+.emoji-row-right { animation: emoji-scroll-right 45s linear infinite; }
+.emoji-row-left { animation: emoji-scroll-left 45s linear infinite; }
+
+@keyframes emoji-scroll-right {
+  from { transform: translateX(-50%); }
+  to { transform: translateX(0%); }
+}
+
+@keyframes emoji-scroll-left {
+  from { transform: translateX(0%); }
+  to { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .emoji-row-right, .emoji-row-left { animation: none; }
+}
+
 .word-display {
   flex: 1;
   display: flex;
@@ -242,6 +279,7 @@ html, body {
   font-weight: 800;
   line-height: 1.05;
   padding: 0 12px;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .category-display {

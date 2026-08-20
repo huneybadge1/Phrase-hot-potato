@@ -29,6 +29,7 @@
     btnCancelReset: document.getElementById("btn-cancel-reset"),
 
     screenRound: document.getElementById("screen-round"),
+    emojiBg: document.getElementById("emoji-bg"),
     wordDisplay: document.getElementById("word-display"),
     categoryDisplay: document.getElementById("category-display"),
     btnGotIt: document.getElementById("btn-got-it"),
@@ -72,6 +73,28 @@
     "#2d1b4e", "#0f3d3e", "#3d0f1f", "#12351f",
     "#0f1f3d", "#3d2410", "#3d0f2f", "#1f2937",
   ];
+
+  // A silly random emoji pattern per round: 5 rows, alternating scroll
+  // direction (rows 1/3/5 right, rows 2/4 left), one randomly-picked
+  // emoji shared by all rows for that round.
+  const ROUND_EMOJIS = [
+    "🎉", "🎊", "🥳", "😂", "🤣", "😎", "🔥", "⭐", "🌟", "💥",
+    "🎯", "🎈", "🍕", "🌮", "🍎", "🍩", "🍦", "🐸", "🦄", "🐙",
+    "👑", "💃", "🕺", "🎸", "🏆", "⚡", "🌈", "🍀", "👻", "🤪",
+  ];
+  const EMOJI_ROW_DIRECTIONS = ["right", "left", "right", "left", "right"];
+
+  function renderEmojiBackground() {
+    const emoji = ROUND_EMOJIS[Math.floor(Math.random() * ROUND_EMOJIS.length)];
+    const unit = (emoji + "    ").repeat(25);
+    els.emojiBg.innerHTML = "";
+    EMOJI_ROW_DIRECTIONS.forEach((dir) => {
+      const row = document.createElement("div");
+      row.className = "emoji-row " + (dir === "right" ? "emoji-row-right" : "emoji-row-left");
+      row.textContent = unit + unit; // doubled so a -50%/0% loop is seamless
+      els.emojiBg.appendChild(row);
+    });
+  }
 
   function renderCategoryChips() {
     els.categoryChips.innerHTML = "";
@@ -197,6 +220,7 @@
     GameAudio.unlock();
     els.screenRound.style.backgroundColor =
       ROUND_BACKGROUNDS[Math.floor(Math.random() * ROUND_BACKGROUNDS.length)];
+    renderEmojiBackground();
     showScreen(els.screenRound);
     Game.startRound();
   });
