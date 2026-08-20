@@ -252,8 +252,8 @@ html, body {
   position: relative;
   white-space: nowrap;
   width: max-content;
-  font-size: 2.1rem;
-  opacity: 0.32;
+  font-size: 2.6rem;
+  opacity: 0.48;
   will-change: transform;
 }
 
@@ -284,7 +284,7 @@ html, body {
   font-weight: 800;
   line-height: 1.05;
   padding: 0 12px;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.75), 0 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .category-display {
