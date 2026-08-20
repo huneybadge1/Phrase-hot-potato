@@ -41,6 +41,11 @@ html, body {
   justify-content: center;
   padding: 24px;
   position: relative;
+  /* position:relative alone does NOT create a stacking context, so a
+     negative z-index child (the emoji background) would otherwise escape
+     past this element entirely and paint behind its own background-color
+     instead of just behind its text content. z-index:0 fixes that. */
+  z-index: 0;
 }
 
 .screen[hidden] {
