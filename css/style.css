@@ -252,8 +252,8 @@ html, body {
   position: relative;
   white-space: nowrap;
   width: max-content;
-  font-size: 2.6rem;
-  opacity: 0.48;
+  font-size: 2.9rem;
+  opacity: 0.6;
   will-change: transform;
 }
 
