@@ -272,6 +272,7 @@
 
   // ---------- Round screen ----------
   els.btnGotIt.addEventListener("click", () => {
+    GameAudio.correct();
     Game.gotIt();
   });
 

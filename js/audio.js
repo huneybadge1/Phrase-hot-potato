@@ -40,6 +40,13 @@ const GameAudio = (() => {
     tone({ freq: 900, duration: 0.1, type: "square", volume: 0.3 });
   }
 
+  // Short, pleasant two-note "ding" cue for a correct guess — distinct
+  // from the harsher square-wave beep and sawtooth buzzer.
+  function correct() {
+    tone({ freq: 880, duration: 0.12, type: "sine", volume: 0.3, startAt: 0 });
+    tone({ freq: 1318.5, duration: 0.18, type: "sine", volume: 0.3, startAt: 0.1 });
+  }
+
   function buzzer() {
     if (!ctx) return;
     const t0 = ctx.currentTime;
@@ -57,5 +64,5 @@ const GameAudio = (() => {
     osc.stop(t0 + 1.05);
   }
 
-  return { unlock, beep, buzzer };
+  return { unlock, beep, buzzer, correct };
 })();

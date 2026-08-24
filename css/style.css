@@ -288,11 +288,16 @@ html, body {
 }
 
 .category-display {
-  color: var(--text-dim);
+  color: white;
+  background: rgba(0, 0, 0, 0.45);
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  font-size: clamp(0.75rem, 1.6vw, 1rem);
-  margin-bottom: 8px;
+  font-weight: 700;
+  font-size: clamp(0.85rem, 1.8vw, 1.15rem);
+  padding: 6px 18px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+  display: inline-block;
 }
 
 .round-actions {
