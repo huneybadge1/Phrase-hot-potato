@@ -85,18 +85,49 @@
     "👑", "💃", "🕺", "🎸", "🏆", "⚡", "🌈", "🍀", "👻", "🤪",
   ];
   const EMOJI_ROW_DIRECTIONS = ["right", "left", "right", "left", "right"];
+  const CORRECT_FLASH_EMOJI = "✅";
+  const CORRECT_FLASH_MS = 550;
+
+  let currentRoundEmoji = "🎉";
+  let emojiFlashTimeoutId = null;
+
+  function buildEmojiUnit(emoji) {
+    return (emoji + "    ").repeat(25);
+  }
+
+  function setEmojiRowsContent(emoji) {
+    const unit = buildEmojiUnit(emoji);
+    const content = unit + unit; // doubled so a -50%/0% loop is seamless
+    els.emojiBg.querySelectorAll(".emoji-row").forEach((row) => {
+      row.textContent = content;
+    });
+  }
 
   function renderEmojiBackground() {
     if (!els.emojiBg) return;
-    const emoji = ROUND_EMOJIS[Math.floor(Math.random() * ROUND_EMOJIS.length)];
-    const unit = (emoji + "    ").repeat(25);
+    clearTimeout(emojiFlashTimeoutId);
+    els.emojiBg.classList.remove("emoji-bg-flash");
+    currentRoundEmoji = ROUND_EMOJIS[Math.floor(Math.random() * ROUND_EMOJIS.length)];
     els.emojiBg.innerHTML = "";
     EMOJI_ROW_DIRECTIONS.forEach((dir) => {
       const row = document.createElement("div");
       row.className = "emoji-row " + (dir === "right" ? "emoji-row-right" : "emoji-row-left");
-      row.textContent = unit + unit; // doubled so a -50%/0% loop is seamless
       els.emojiBg.appendChild(row);
     });
+    setEmojiRowsContent(currentRoundEmoji);
+  }
+
+  // Briefly swap the background pattern to green checkmarks as a visual
+  // "correct!" cue, then restore this round's regular emoji.
+  function flashCorrectEmoji() {
+    if (!els.emojiBg) return;
+    clearTimeout(emojiFlashTimeoutId);
+    setEmojiRowsContent(CORRECT_FLASH_EMOJI);
+    els.emojiBg.classList.add("emoji-bg-flash");
+    emojiFlashTimeoutId = setTimeout(() => {
+      setEmojiRowsContent(currentRoundEmoji);
+      els.emojiBg.classList.remove("emoji-bg-flash");
+    }, CORRECT_FLASH_MS);
   }
 
   function renderCategoryChips() {
@@ -273,6 +304,11 @@
   // ---------- Round screen ----------
   els.btnGotIt.addEventListener("click", () => {
     GameAudio.correct();
+    try {
+      flashCorrectEmoji();
+    } catch (err) {
+      console.error("Correct-cue flash failed, continuing anyway:", err);
+    }
     Game.gotIt();
   });
 
