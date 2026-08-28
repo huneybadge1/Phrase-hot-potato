@@ -1,20 +1,23 @@
 // Word pool loading and draw logic with a 15-minute repeat cooldown, plus
-// lightweight difficulty balancing so hard words don't cluster together
-// and swing the game unfairly between teams.
+// difficulty-swing dampening so consecutive words move through nearby
+// difficulty tiers instead of lurching between hard and easy — that
+// lurch (a team struggles with a hard word, then the very next team
+// breezes through a trivial one) is the specific unfairness this targets,
+// not just avoiding same-tier streaks.
 // Session-only: lastShownAt resets on reload.
 const WordBank = (() => {
   const COOLDOWN_MS = 15 * 60 * 1000;
 
-  // How many of the most recent draws to look back at when balancing.
-  // A candidate's selection weight drops the more its difficulty tier has
-  // shown up in that recent window, so e.g. three "hard" words rarely
-  // land back-to-back — probabilistic, not a strict alternation, so it
-  // doesn't feel mechanically predictable.
-  const RECENT_DIFFICULTY_WINDOW = 3;
+  // Selection weight by how many difficulty tiers away a candidate is
+  // from the last drawn word (0 = same tier, 1 = adjacent, 2 = opposite
+  // ends). Adjacent tiers are favored over repeating the same tier, and
+  // a full jump (hard straight to easy or back) is heavily discounted —
+  // still possible, just uncommon, so it never feels mechanical.
+  const DIFFICULTY_DISTANCE_WEIGHTS = { 0: 0.5, 1: 1.0, 2: 0.2 };
 
   let pool = []; // [{ phrase, category, difficulty, lastShownAt }]
   let activeCategories = null; // null = all categories active
-  let recentDifficulties = [];
+  let lastDifficulty = null;
 
   async function load() {
     const res = await fetch("catchphrase-words.json");
@@ -38,8 +41,9 @@ const WordBank = (() => {
   }
 
   function difficultyWeight(difficulty) {
-    const recentCount = recentDifficulties.filter((d) => d === difficulty).length;
-    return 1 / (1 + recentCount);
+    if (lastDifficulty === null) return 1; // no prior word yet — unbiased
+    const distance = Math.abs(difficulty - lastDifficulty);
+    return DIFFICULTY_DISTANCE_WEIGHTS[distance] ?? 1;
   }
 
   function weightedPick(candidates) {
@@ -61,12 +65,7 @@ const WordBank = (() => {
     const candidates = eligible.length > 0 ? eligible : leastRecentlyShown(candidatePool);
     const chosen = weightedPick(candidates);
     chosen.lastShownAt = now;
-
-    recentDifficulties.push(chosen.difficulty);
-    if (recentDifficulties.length > RECENT_DIFFICULTY_WINDOW) {
-      recentDifficulties.shift();
-    }
-
+    lastDifficulty = chosen.difficulty;
     return chosen;
   }
 
