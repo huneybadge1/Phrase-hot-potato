@@ -33,12 +33,21 @@
       <button id="team-plus" class="stepper-btn" aria-label="More teams">&plus;</button>
     </div>
     <p class="hint">Teams are pairs of 2 &mdash; you manage turn order yourselves.</p>
+
+    <p class="subtitle subtitle-small">Strikes to end game</p>
+    <div class="team-stepper strikes-limit-stepper">
+      <button id="strikes-limit-minus" class="stepper-btn" aria-label="Lower strike limit">&minus;</button>
+      <div id="strikes-limit-value" class="team-count strikes-limit-value">No Limit</div>
+      <button id="strikes-limit-plus" class="stepper-btn" aria-label="Raise strike limit">&plus;</button>
+    </div>
+
     <button id="btn-categories" class="btn-secondary btn-categories">Categories</button>
     <button id="btn-start-game" class="btn-primary">Start Game</button>
   </section>
 
   <!-- ROUND IDLE SCREEN (scoreboard + start round) -->
   <section id="screen-idle" class="screen" hidden>
+    <div id="game-over-banner" class="game-over-banner" hidden></div>
     <h2 class="scoreboard-title">Strikes <span class="lowest-wins">(lowest wins)</span></h2>
     <div id="scoreboard" class="scoreboard"></div>
     <button id="btn-undo-strike" class="btn-undo-strike" hidden>&#8617; Undo Last Strike</button>
@@ -64,6 +73,8 @@
 
 </main>
 
+<div id="version-badge" class="version-badge" aria-hidden="true"></div>
+
 <button id="btn-reset-game" class="btn-reset-game" hidden>Reset Game</button>
 
 <!-- Reset choice modal -->
@@ -87,6 +98,7 @@
   </div>
 </div>
 
+<script src="js/version.js"></script>
 <script src="js/audio.js"></script>
 <script src="js/words.js"></script>
 <script src="js/game.js"></script>

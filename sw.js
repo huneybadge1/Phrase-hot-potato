@@ -1,10 +1,12 @@
-const CACHE_VERSION = "catchphrase-v21";
+importScripts("./js/version.js");
+const CACHE_VERSION = "catchphrase-" + APP_VERSION;
 
 const PRECACHE_URLS = [
   "./",
   "./index.html",
   "./manifest.json",
   "./css/style.css",
+  "./js/version.js",
   "./js/app.js",
   "./js/audio.js",
   "./js/words.js",

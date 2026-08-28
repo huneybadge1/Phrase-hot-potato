@@ -17,6 +17,13 @@ const MAX_BEEP_INTERVAL_MS = 1500;
 // stayed frantic for too long near the buzzer).
 const BEEP_EASING_POWER = 1;
 
+// If Got It is tapped this close to the buzzer, grant a short "sudden
+// death" extension instead of leaving the next team with virtually no
+// chance to react. Can chain: if the next team also passes it off within
+// the (extended) threshold, it extends again.
+const LATE_GOTIT_THRESHOLD_MS = 5000;
+const LATE_GOTIT_EXTENSION_MS = 5000;
+
 const Game = (() => {
   let teams = [];
   let currentWord = null;
@@ -28,8 +35,13 @@ const Game = (() => {
   let roundActive = false;
   let paused = false;
   let pausedRemainingMs = null;
+  let maxStrikes = null; // null = no limit
 
-  let callbacks = { onWordChange: () => {}, onBuzz: () => {} };
+  let callbacks = {
+    onWordChange: () => {},
+    onBuzz: () => {},
+    onBonusTime: () => {},
+  };
 
   function init(teamCount, cb) {
     teams = Array.from({ length: teamCount }, (_, i) => ({
@@ -44,9 +56,36 @@ const Game = (() => {
     return teams;
   }
 
+  function setMaxStrikes(value) {
+    maxStrikes = value; // number, or null for no limit
+  }
+
+  function getMaxStrikes() {
+    return maxStrikes;
+  }
+
+  function isGameOver() {
+    if (maxStrikes === null) return false;
+    return teams.some((t) => t.strikes >= maxStrikes);
+  }
+
+  // Team(s) with the fewest strikes — ties are all returned.
+  function getWinners() {
+    if (teams.length === 0) return [];
+    const min = Math.min(...teams.map((t) => t.strikes));
+    return teams.filter((t) => t.strikes === min);
+  }
+
   function addStrike(teamIndex) {
     teams[teamIndex].strikes += 1;
     lastStrikeTeamIndex = teamIndex;
+  }
+
+  function removeStrike(teamIndex) {
+    const team = teams[teamIndex];
+    if (!team || team.strikes <= 0) return false;
+    team.strikes -= 1;
+    return true;
   }
 
   function canUndoStrike() {
@@ -122,6 +161,18 @@ const Game = (() => {
   }
 
   function gotIt() {
+    if (roundActive) {
+      const remainingMs = paused ? pausedRemainingMs : endTime - Date.now();
+      if (remainingMs > 0 && remainingMs <= LATE_GOTIT_THRESHOLD_MS) {
+        if (paused) {
+          pausedRemainingMs += LATE_GOTIT_EXTENSION_MS;
+        } else {
+          endTime += LATE_GOTIT_EXTENSION_MS;
+        }
+        totalDurationMs += LATE_GOTIT_EXTENSION_MS;
+        callbacks.onBonusTime();
+      }
+    }
     skipUsed = false;
     currentWord = WordBank.draw();
     callbacks.onWordChange(currentWord);
@@ -142,7 +193,12 @@ const Game = (() => {
   return {
     init,
     getTeams,
+    setMaxStrikes,
+    getMaxStrikes,
+    isGameOver,
+    getWinners,
     addStrike,
+    removeStrike,
     canUndoStrike,
     undoLastStrike,
     startRound,

@@ -1,8 +1,11 @@
 (() => {
   const MIN_TEAMS = 2;
   const MAX_TEAMS = 8;
+  const STRIKES_LIMIT_OPTIONS = [null, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20];
 
   const els = {
+    versionBadge: document.getElementById("version-badge"),
+
     rotateOverlay: document.getElementById("rotate-overlay"),
     app: document.getElementById("app"),
 
@@ -10,9 +13,13 @@
     teamCount: document.getElementById("team-count"),
     teamMinus: document.getElementById("team-minus"),
     teamPlus: document.getElementById("team-plus"),
+    strikesLimitValue: document.getElementById("strikes-limit-value"),
+    strikesLimitMinus: document.getElementById("strikes-limit-minus"),
+    strikesLimitPlus: document.getElementById("strikes-limit-plus"),
     btnStartGame: document.getElementById("btn-start-game"),
 
     screenIdle: document.getElementById("screen-idle"),
+    gameOverBanner: document.getElementById("game-over-banner"),
     scoreboard: document.getElementById("scoreboard"),
     btnStartRound: document.getElementById("btn-start-round"),
     btnUndoStrike: document.getElementById("btn-undo-strike"),
@@ -40,6 +47,7 @@
   };
 
   let teamCount = MIN_TEAMS;
+  let strikesLimitIndex = 0;
 
   function showScreen(screen) {
     for (const s of [els.screenSetup, els.screenIdle, els.screenRound, els.screenCaught]) {
@@ -168,12 +176,60 @@
     const teams = Game.getTeams();
     const min = Math.min(...teams.map((t) => t.strikes));
     els.scoreboard.innerHTML = "";
-    teams.forEach((team) => {
+    teams.forEach((team, idx) => {
       const chip = document.createElement("div");
       chip.className = "score-chip" + (team.strikes === min ? " leading" : "");
       chip.innerHTML = `<span class="chip-name">${team.name}</span><span class="chip-strikes">${team.strikes}</span>`;
+
+      const adjustRow = document.createElement("div");
+      adjustRow.className = "chip-adjust-row";
+
+      const minusBtn = document.createElement("button");
+      minusBtn.className = "chip-adjust-btn";
+      minusBtn.textContent = "−";
+      minusBtn.setAttribute("aria-label", `Remove a strike from ${team.name}`);
+      minusBtn.addEventListener("click", () => {
+        Game.removeStrike(idx);
+        renderScoreboard();
+      });
+
+      const plusBtn = document.createElement("button");
+      plusBtn.className = "chip-adjust-btn";
+      plusBtn.textContent = "+";
+      plusBtn.setAttribute("aria-label", `Add a strike to ${team.name}`);
+      plusBtn.addEventListener("click", () => {
+        Game.addStrike(idx);
+        renderScoreboard();
+        updateUndoButtonVisibility();
+      });
+
+      adjustRow.appendChild(minusBtn);
+      adjustRow.appendChild(plusBtn);
+      chip.appendChild(adjustRow);
       els.scoreboard.appendChild(chip);
     });
+    checkGameOver();
+  }
+
+  // Whenever the strike limit set on the setup screen is reached, stop
+  // offering another round and declare whoever has the fewest strikes
+  // the winner. Centralized here since renderScoreboard() already runs
+  // after every strike change (manual +/-, undo, or Who Got Caught).
+  function checkGameOver() {
+    if (!els.gameOverBanner) return;
+    if (Game.isGameOver()) {
+      const winners = Game.getWinners();
+      const names = winners.map((w) => w.name).join(" & ");
+      els.gameOverBanner.textContent =
+        winners.length > 1
+          ? `\u{1F3C6} It's a tie! ${names} win with the fewest strikes!`
+          : `\u{1F3C6} ${names} wins with the fewest strikes!`;
+      els.gameOverBanner.hidden = false;
+      els.btnStartRound.disabled = true;
+    } else {
+      els.gameOverBanner.hidden = true;
+      els.btnStartRound.disabled = false;
+    }
   }
 
   function renderCaughtButtons() {
@@ -214,6 +270,20 @@
     renderWord(word);
   }
 
+  // Sudden-death extension was granted — brief haptic pulse plus a quick
+  // color/scale pulse on the word itself (no extra sound, since the
+  // regular beep schedule already continues right through this).
+  function onBonusTime() {
+    if (navigator.vibrate) {
+      navigator.vibrate([100, 50, 100]);
+    }
+    els.wordDisplay.classList.remove("bonus-flash");
+    // Force reflow so re-adding the class restarts the animation even if
+    // bonus time is granted twice in a row.
+    void els.wordDisplay.offsetWidth;
+    els.wordDisplay.classList.add("bonus-flash");
+  }
+
   // ---------- Setup screen ----------
   function updateTeamCountDisplay() {
     els.teamCount.textContent = String(teamCount);
@@ -231,8 +301,31 @@
     updateTeamCountDisplay();
   });
 
+  function updateStrikesLimitDisplay() {
+    if (!els.strikesLimitValue) return;
+    const val = STRIKES_LIMIT_OPTIONS[strikesLimitIndex];
+    els.strikesLimitValue.textContent = val === null ? "No Limit" : String(val);
+    els.strikesLimitMinus.disabled = strikesLimitIndex <= 0;
+    els.strikesLimitPlus.disabled = strikesLimitIndex >= STRIKES_LIMIT_OPTIONS.length - 1;
+  }
+
+  if (els.strikesLimitMinus) {
+    els.strikesLimitMinus.addEventListener("click", () => {
+      strikesLimitIndex = Math.max(0, strikesLimitIndex - 1);
+      updateStrikesLimitDisplay();
+    });
+  }
+
+  if (els.strikesLimitPlus) {
+    els.strikesLimitPlus.addEventListener("click", () => {
+      strikesLimitIndex = Math.min(STRIKES_LIMIT_OPTIONS.length - 1, strikesLimitIndex + 1);
+      updateStrikesLimitDisplay();
+    });
+  }
+
   els.btnStartGame.addEventListener("click", () => {
-    Game.init(teamCount, { onWordChange, onBuzz });
+    Game.init(teamCount, { onWordChange, onBuzz, onBonusTime });
+    Game.setMaxStrikes(STRIKES_LIMIT_OPTIONS[strikesLimitIndex]);
     renderScoreboard();
     updateUndoButtonVisibility();
     showScreen(els.screenIdle);
@@ -254,6 +347,7 @@
 
   // ---------- Idle screen ----------
   els.btnStartRound.addEventListener("click", () => {
+    if (Game.isGameOver()) return;
     GameAudio.unlock();
     // Cosmetic flourishes must never be able to block the round itself —
     // if a stale/mismatched cache makes one of these throw, starting the
@@ -360,7 +454,12 @@
 
   // ---------- Boot ----------
   async function boot() {
+    if (els.versionBadge) {
+      els.versionBadge.textContent = typeof APP_VERSION !== "undefined" ? APP_VERSION : "";
+    }
+
     updateTeamCountDisplay();
+    updateStrikesLimitDisplay();
     checkOrientation();
     tryLockOrientation();
     renderCategoryChips();
