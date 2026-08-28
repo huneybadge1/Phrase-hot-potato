@@ -27,6 +27,7 @@ const LATE_GOTIT_EXTENSION_MS = 5000;
 const Game = (() => {
   let teams = [];
   let currentWord = null;
+  let wordShownAt = 0;
   let skipUsed = false;
   let endTime = 0;
   let totalDurationMs = 0;
@@ -41,6 +42,7 @@ const Game = (() => {
     onWordChange: () => {},
     onBuzz: () => {},
     onBonusTime: () => {},
+    onWordResolved: () => {}, // (word, outcome, elapsedMs) — for local play-stat logging
   };
 
   function init(teamCount, cb) {
@@ -100,6 +102,12 @@ const Game = (() => {
     return true;
   }
 
+  function resolveCurrentWord(outcome) {
+    if (!currentWord) return;
+    const elapsed = Date.now() - wordShownAt;
+    callbacks.onWordResolved(currentWord, outcome, elapsed);
+  }
+
   function startRound() {
     const seconds =
       MIN_ROUND_SECONDS + Math.random() * (MAX_ROUND_SECONDS - MIN_ROUND_SECONDS);
@@ -110,6 +118,7 @@ const Game = (() => {
     paused = false;
     pausedRemainingMs = null;
     currentWord = WordBank.draw();
+    wordShownAt = Date.now();
     callbacks.onWordChange(currentWord);
     tick();
   }
@@ -119,6 +128,7 @@ const Game = (() => {
     if (remainingMs <= 0) {
       clearTimeout(beepTimeoutId);
       roundActive = false;
+      resolveCurrentWord("buzzed");
       GameAudio.buzzer();
       callbacks.onBuzz();
       return;
@@ -173,15 +183,19 @@ const Game = (() => {
         callbacks.onBonusTime();
       }
     }
+    resolveCurrentWord("gotIt");
     skipUsed = false;
     currentWord = WordBank.draw();
+    wordShownAt = Date.now();
     callbacks.onWordChange(currentWord);
   }
 
   function skip() {
     if (skipUsed) return false;
     skipUsed = true;
+    resolveCurrentWord("skip");
     currentWord = WordBank.draw();
+    wordShownAt = Date.now();
     callbacks.onWordChange(currentWord);
     return true;
   }

@@ -131,6 +131,16 @@ html, body {
   font-size: 0.95rem;
 }
 
+.btn-export-stats {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  padding: 10px;
+  margin-top: 6px;
+  text-decoration: underline;
+}
+
 /* ---------- Buttons ---------- */
 .btn-primary {
   background: var(--accent);

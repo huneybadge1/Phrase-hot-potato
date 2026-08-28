@@ -24,6 +24,8 @@
     btnStartRound: document.getElementById("btn-start-round"),
     btnUndoStrike: document.getElementById("btn-undo-strike"),
 
+    btnExportStats: document.getElementById("btn-export-stats"),
+
     btnCategories: document.getElementById("btn-categories"),
     categoriesModal: document.getElementById("categories-modal"),
     categoryChips: document.getElementById("category-chips"),
@@ -270,6 +272,17 @@
     renderWord(word);
   }
 
+  // Local-only play-stat logging (see js/stats.js) — never lets a
+  // storage failure interrupt the game.
+  function onWordResolved(word, outcome, elapsedMs) {
+    if (typeof PlayStats === "undefined" || !word) return;
+    try {
+      PlayStats.recordOutcome(word.phrase, word.category, outcome, elapsedMs);
+    } catch (err) {
+      console.error("Play-stat logging failed, continuing anyway:", err);
+    }
+  }
+
   // Sudden-death extension was granted — brief haptic pulse plus a quick
   // color/scale pulse on the word itself (no extra sound, since the
   // regular beep schedule already continues right through this).
@@ -324,12 +337,30 @@
   }
 
   els.btnStartGame.addEventListener("click", () => {
-    Game.init(teamCount, { onWordChange, onBuzz, onBonusTime });
+    Game.init(teamCount, { onWordChange, onBuzz, onBonusTime, onWordResolved });
     Game.setMaxStrikes(STRIKES_LIMIT_OPTIONS[strikesLimitIndex]);
     renderScoreboard();
     updateUndoButtonVisibility();
     showScreen(els.screenIdle);
   });
+
+  if (els.btnExportStats) {
+    els.btnExportStats.addEventListener("click", () => {
+      try {
+        const blob = PlayStats.exportBlob();
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `catchphrase-play-stats-${new Date().toISOString().slice(0, 10)}.json`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(() => URL.revokeObjectURL(url), 2000);
+      } catch (err) {
+        console.error("Stats export failed:", err);
+      }
+    });
+  }
 
   els.btnCategories.addEventListener("click", () => {
     els.categoriesModal.hidden = false;
