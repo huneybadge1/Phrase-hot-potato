@@ -31,6 +31,10 @@
     categoryChips: document.getElementById("category-chips"),
     btnCategoriesDone: document.getElementById("btn-categories-done"),
 
+    btnGameOptions: document.getElementById("btn-game-options"),
+    gameOptionsModal: document.getElementById("game-options-modal"),
+    btnGameOptionsDone: document.getElementById("btn-game-options-done"),
+
     btnResetGame: document.getElementById("btn-reset-game"),
     resetModal: document.getElementById("reset-modal"),
     btnSoftReset: document.getElementById("btn-soft-reset"),
@@ -373,6 +377,20 @@
   els.categoriesModal.addEventListener("click", (e) => {
     if (e.target === els.categoriesModal) {
       els.categoriesModal.hidden = true;
+    }
+  });
+
+  els.btnGameOptions.addEventListener("click", () => {
+    els.gameOptionsModal.hidden = false;
+  });
+
+  els.btnGameOptionsDone.addEventListener("click", () => {
+    els.gameOptionsModal.hidden = true;
+  });
+
+  els.gameOptionsModal.addEventListener("click", (e) => {
+    if (e.target === els.gameOptionsModal) {
+      els.gameOptionsModal.hidden = true;
     }
   });
 

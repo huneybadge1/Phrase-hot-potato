@@ -34,17 +34,12 @@
     </div>
     <p class="hint">Teams are pairs of 2 &mdash; you manage turn order yourselves.</p>
 
-    <p class="subtitle subtitle-small">Strikes to end game</p>
-    <div class="team-stepper strikes-limit-stepper">
-      <button id="strikes-limit-minus" class="stepper-btn" aria-label="Lower strike limit">&minus;</button>
-      <div id="strikes-limit-value" class="team-count strikes-limit-value">No Limit</div>
-      <button id="strikes-limit-plus" class="stepper-btn" aria-label="Raise strike limit">&plus;</button>
+    <div class="setup-secondary-row">
+      <button id="btn-categories" class="btn-secondary btn-categories">Categories</button>
+      <button id="btn-game-options" class="btn-secondary btn-categories">Game Options</button>
     </div>
 
-    <button id="btn-categories" class="btn-secondary btn-categories">Categories</button>
     <button id="btn-start-game" class="btn-primary">Start Game</button>
-
-    <button id="btn-export-stats" class="btn-export-stats">Export Play Data</button>
   </section>
 
   <!-- ROUND IDLE SCREEN (scoreboard + start round) -->
@@ -97,6 +92,24 @@
     <p class="modal-text">Tap to include or exclude a category from the word pool.</p>
     <div id="category-chips" class="category-chips"></div>
     <button id="btn-categories-done" class="btn-primary btn-modal">Done</button>
+  </div>
+</div>
+
+<!-- Game Options modal -->
+<div id="game-options-modal" class="modal-overlay" hidden>
+  <div class="modal-box">
+    <h3 class="modal-title">Game Options</h3>
+
+    <p class="subtitle subtitle-small">Strikes to end game</p>
+    <div class="team-stepper strikes-limit-stepper">
+      <button id="strikes-limit-minus" class="stepper-btn" aria-label="Lower strike limit">&minus;</button>
+      <div id="strikes-limit-value" class="team-count strikes-limit-value">No Limit</div>
+      <button id="strikes-limit-plus" class="stepper-btn" aria-label="Raise strike limit">&plus;</button>
+    </div>
+
+    <button id="btn-export-stats" class="btn-export-stats">Export Play Data</button>
+
+    <button id="btn-game-options-done" class="btn-primary btn-modal">Done</button>
   </div>
 </div>
 

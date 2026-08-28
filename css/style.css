@@ -52,14 +52,11 @@ html, body {
   display: none;
 }
 
-/* The setup screen has grown a lot (team count, strikes limit,
-   categories, export link) — on shorter landscape phones it can exceed
-   the viewport. justify-content:center with no scroll would just clip
-   whatever doesn't fit (this is how "Start Game" got cut off), so this
-   one screen scrolls vertically as a safety net on top of the tighter
-   spacing below. */
+/* Less-frequently-used settings (strike limit, export) live in the Game
+   Options modal instead of stacking directly on this screen, so the
+   main setup flow stays short enough to fit without ever needing to
+   scroll — tight spacing here is what keeps it that way. */
 #screen-setup {
-  overflow-y: auto;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -75,11 +72,13 @@ html, body {
   color: var(--text-dim);
   font-size: clamp(0.85rem, 2vw, 1.1rem);
   margin: 0 0 6px;
+  text-align: center;
 }
 
 .team-stepper {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 22px;
   margin-bottom: 6px;
 }
@@ -136,11 +135,16 @@ html, body {
   margin: 0 0 6px;
 }
 
+.setup-secondary-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
 .btn-categories {
-  margin-bottom: 6px;
-  padding: 8px 20px;
+  padding: 8px 18px;
   min-height: auto;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 
 .btn-export-stats {
