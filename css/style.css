@@ -52,34 +52,46 @@ html, body {
   display: none;
 }
 
+/* The setup screen has grown a lot (team count, strikes limit,
+   categories, export link) — on shorter landscape phones it can exceed
+   the viewport. justify-content:center with no scroll would just clip
+   whatever doesn't fit (this is how "Start Game" got cut off), so this
+   one screen scrolls vertically as a safety net on top of the tighter
+   spacing below. */
+#screen-setup {
+  overflow-y: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 /* ---------- Setup screen ---------- */
 .app-title {
-  font-size: clamp(2rem, 6vw, 3.5rem);
-  margin: 0 0 4px;
+  font-size: clamp(1.5rem, 4.5vw, 2.3rem);
+  margin: 0 0 2px;
   letter-spacing: -0.02em;
 }
 
 .subtitle {
   color: var(--text-dim);
-  font-size: clamp(1rem, 2.5vw, 1.4rem);
-  margin: 0 0 20px;
+  font-size: clamp(0.85rem, 2vw, 1.1rem);
+  margin: 0 0 6px;
 }
 
 .team-stepper {
   display: flex;
   align-items: center;
-  gap: 28px;
-  margin-bottom: 12px;
+  gap: 22px;
+  margin-bottom: 6px;
 }
 
 .stepper-btn {
-  width: clamp(56px, 8vw, 76px);
-  height: clamp(56px, 8vw, 76px);
+  width: clamp(46px, 6.5vw, 60px);
+  height: clamp(46px, 6.5vw, 60px);
   border-radius: 50%;
   border: none;
   background: var(--bg-elevated);
   color: var(--text);
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 1;
   display: flex;
   align-items: center;
@@ -89,55 +101,55 @@ html, body {
 .stepper-btn:active { background: var(--accent); }
 
 .team-count {
-  font-size: clamp(3rem, 8vw, 5rem);
+  font-size: clamp(2.2rem, 6vw, 3.4rem);
   font-weight: 800;
-  min-width: 90px;
+  min-width: 70px;
   text-align: center;
 }
 
 .subtitle-small {
-  font-size: clamp(0.8rem, 1.8vw, 1rem);
-  margin: 0 0 6px;
+  font-size: clamp(0.75rem, 1.6vw, 0.95rem);
+  margin: 0 0 2px;
 }
 
 .strikes-limit-stepper {
-  gap: 20px;
-  margin-bottom: 14px;
+  gap: 18px;
+  margin-bottom: 6px;
 }
 
 .strikes-limit-stepper .stepper-btn {
-  width: clamp(40px, 6vw, 52px);
-  height: clamp(40px, 6vw, 52px);
-  font-size: 1.4rem;
+  width: clamp(36px, 5.5vw, 46px);
+  height: clamp(36px, 5.5vw, 46px);
+  font-size: 1.2rem;
 }
 
 .strikes-limit-value {
-  font-size: clamp(1.3rem, 3.5vw, 2rem);
-  min-width: 120px;
+  font-size: clamp(1.1rem, 3vw, 1.6rem);
+  min-width: 110px;
 }
 
 .hint {
   color: var(--text-dim);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   text-align: center;
   max-width: 480px;
-  margin: 0 0 16px;
+  margin: 0 0 6px;
 }
 
 .btn-categories {
-  margin-bottom: 16px;
-  padding: 12px 24px;
+  margin-bottom: 6px;
+  padding: 8px 20px;
   min-height: auto;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .btn-export-stats {
   background: none;
   border: none;
   color: var(--text-dim);
-  font-size: 0.8rem;
-  padding: 10px;
-  margin-top: 6px;
+  font-size: 0.75rem;
+  padding: 8px;
+  margin-top: 2px;
   text-decoration: underline;
 }
 
