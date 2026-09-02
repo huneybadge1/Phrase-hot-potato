@@ -151,6 +151,15 @@ line on obscurity rather than padding counts.
 - **Get-Content encoding gotcha**: always pass `-Encoding UTF8` (and use
   `[System.Text.UTF8Encoding]::new($false)` for writing, no BOM) —
   otherwise accented characters get mangled (mojibake) on read.
+- **PowerShell variable/param name collision**: variable names are
+  case-insensitive, so a script-local `$roots` *is* the `param([string]
+  $Roots)` — and the `[string]` constraint silently turns
+  `$roots = @()` + `$roots += "x"` into string concatenation (one blob,
+  `.Count` = 1). Bit `tools/check-slurs.ps1` once. Don't reuse a param's
+  name (any casing) for a differently-typed local.
+- Keep `tools/*.ps1` ASCII-only — Windows PowerShell 5.1 reads `.ps1` as
+  the system codepage, so an em-dash in a string literal is a parse
+  error. (Data files they read are fine, they're opened `-Encoding UTF8`.)
 - Service worker updates: `reg.update()` + a `controllerchange` listener
   that force-reloads once. Even so, a *stale HTML + fresh JS* mismatch
   can happen if a user's device gets caught mid-update — the app is
