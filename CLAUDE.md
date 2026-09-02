@@ -64,6 +64,9 @@ testing unless the user has explicitly cleared it for that session.
   ignored by iOS Safari, which is why the JS-side rotate overlay + pause
   logic exists).
 - `serve.ps1` / `.claude/launch.json` — local dev server only, not deployed.
+- `tools/` — maintenance/sanity-check PowerShell scripts (beep-curve sim,
+  difficulty-draw balance, slur scan, near-dup finder). Not part of the
+  app. See `tools/README.md`.
 
 ## Word bank
 
@@ -85,16 +88,17 @@ progressively harder to find genuinely new non-duplicate entries
 briefed). A real recurring bug: **exact-string dedup misses near-
 duplicates** — accent variants (`Pele`/`Pelé`), leading-word variants
 (`Terminator`/`The Terminator`), punctuation variants (`Once Bitten
-Twice Shy`/`Once Bitten, Twice Shy`). Do a diacritic-stripping +
-prefix/punctuation-normalizing fuzzy pass across the **whole** file
-(not just new entries) after any bulk addition — not everything that
-matches is a true duplicate though (e.g. `Notebook` the object vs `The
-Notebook` the movie are genuinely different; use judgment).
+Twice Shy`/`Once Bitten, Twice Shy`). Run `tools/dedup-words.ps1`
+(diacritic-stripping + prefix/punctuation-normalizing fuzzy pass) across
+the **whole** file (not just new entries) after any bulk addition — it's
+report-only because not everything that matches is a true duplicate
+(e.g. `Notebook` the object vs `The Notebook` the movie are genuinely
+different; use judgment).
 
 **Content bar**: family-friendly through edgy/adult as seasoning
-(~10-15%), zero slurs/hate (hard rule — there's a `filter_slurs.ps1`-
-style regex check used repeatedly, checks for root strings, expect
-harmless false positives like "raccoon"/"Old Spice" containing
+(~10-15%), zero slurs/hate (hard rule — `tools/check-slurs.ps1` scans
+the bank against the root-string denylist in `tools/slur-roots.txt`,
+expect harmless false positives like "raccoon"/"Old Spice" containing
 substring matches). Recognizability bar is deliberately high — several
 rounds specifically **removed** obscure entries added by earlier
 passes (niche dishes, technical jargon, dead memes, novelty holidays).
@@ -110,8 +114,8 @@ line on obscurity rather than padding counts.
   *fastest* tier the *most* time (31.5s of a 90s round vs 4.4s for
   slowest), which is why the ending felt endlessly frantic. Don't
   reintroduce a power >1 without checking the time-per-tier distribution
-  first (there's a decile-bucketing simulation technique used repeatedly
-  in this session's transcript to sanity-check any curve change).
+  first — run `tools/beep-curve-sim.ps1` (decile-buckets the beep
+  schedule, reports wall-clock time per speed tier).
 - **Sudden-death extension**: `LATE_GOTIT_THRESHOLD_MS=5000`,
   `LATE_GOTIT_EXTENSION_MS=5000` — Got It within 5s of the buzzer grants
   +5s, can chain indefinitely if it keeps happening near the tail.
@@ -124,7 +128,9 @@ line on obscurity rather than padding counts.
   discounted repeats and didn't fix the actual complaint (a hard word
   immediately followed by a trivial one) — verify any future change
   against `P(easy | previous was hard)` specifically, not just "does
-  hard cluster less."
+  hard cluster less." `tools/difficulty-draw-sim.ps1` prints that
+  probability table (currently `P(easy | prev hard) = 26.7%` vs a 62.7%
+  unweighted baseline).
 - **Round pause**: pauses on portrait rotation OR `document.hidden`
   (backgrounded/screen-locked), resumes preserving exact remaining time.
   `screen.orientation.lock()` is also attempted as a bonus (works on

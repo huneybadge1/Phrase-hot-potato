@@ -1,0 +1,37 @@
+# Denylist root strings for tools/check-slurs.ps1 — one per line, '#' = comment.
+#
+# This is a content-moderation denylist for a family-friendly party game.
+# Entries are matched as case-insensitive SUBSTRINGS and intentionally
+# over-catch. A match is a real problem ONLY if the phrase itself is a slur
+# or hate term; innocent words containing one of these fragments are
+# EXPECTED false positives and should be left alone, e.g.:
+#   raccoon, Scunthorpe, cockpit, Old Spice, Dick Van Dyke, Uranus,
+#   assassin, shiitake, Sussex, class, grass, pass, therapist
+#
+# Keep this list conservative — add a root only when it has essentially no
+# benign standalone meaning. An overly aggressive pattern just floods the
+# output and trains you to ignore it.
+
+# ethnic / racial
+nigg
+nigr
+chink
+spic
+kike
+gook
+wetback
+coon
+beaner
+towelhead
+
+# anti-LGBTQ
+faggot
+fagg
+trann
+tranny
+
+# ableist
+retard
+
+# misc hate
+kkk
