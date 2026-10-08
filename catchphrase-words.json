@@ -1,10 +1,5 @@
 [
     {
-        "phrase":  "Acro Yoga",
-        "category":  "activities-sports",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Aerial Yoga",
         "category":  "activities-sports",
         "difficulty":  3
@@ -50,6 +45,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Babysitting",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Backgammon",
         "category":  "activities-sports",
         "difficulty":  2
@@ -81,11 +81,6 @@
     },
     {
         "phrase":  "Bar Crawl",
-        "category":  "activities-sports",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Bar Hopping",
         "category":  "activities-sports",
         "difficulty":  2
     },
@@ -168,11 +163,6 @@
         "phrase":  "Biathlon",
         "category":  "activities-sports",
         "difficulty":  3
-    },
-    {
-        "phrase":  "Billiards",
-        "category":  "activities-sports",
-        "difficulty":  1
     },
     {
         "phrase":  "Bird Watching",
@@ -285,11 +275,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Capoeira",
-        "category":  "activities-sports",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Capture the Flag",
         "category":  "activities-sports",
         "difficulty":  1
@@ -355,11 +340,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Clubbing",
-        "category":  "activities-sports",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Cold Plunging",
         "category":  "activities-sports",
         "difficulty":  2
@@ -386,6 +366,11 @@
     },
     {
         "phrase":  "Cosplay",
+        "category":  "activities-sports",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Couch Surfing",
         "category":  "activities-sports",
         "difficulty":  2
     },
@@ -490,6 +475,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dog Walking",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Doing Laundry",
         "category":  "activities-sports",
         "difficulty":  1
@@ -525,6 +515,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Drive-In Movie",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Drone Racing",
         "category":  "activities-sports",
         "difficulty":  2
@@ -536,6 +531,11 @@
     },
     {
         "phrase":  "Duck Hunting",
+        "category":  "activities-sports",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Dumpster Diving",
         "category":  "activities-sports",
         "difficulty":  2
     },
@@ -630,11 +630,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Frisbee Golf",
-        "category":  "activities-sports",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Gardening",
         "category":  "activities-sports",
         "difficulty":  1
@@ -643,6 +638,11 @@
         "phrase":  "Geocaching",
         "category":  "activities-sports",
         "difficulty":  3
+    },
+    {
+        "phrase":  "Ghost Hunting",
+        "category":  "activities-sports",
+        "difficulty":  1
     },
     {
         "phrase":  "Go-Karting",
@@ -730,6 +730,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Hot Potato",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Hot Tubbing",
         "category":  "activities-sports",
         "difficulty":  1
@@ -740,12 +745,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Hula Hoop",
+        "phrase":  "House Sitting",
         "category":  "activities-sports",
         "difficulty":  1
     },
     {
-        "phrase":  "hula hooping",
+        "phrase":  "Hula Hoop",
         "category":  "activities-sports",
         "difficulty":  1
     },
@@ -758,11 +763,6 @@
         "phrase":  "Hurdles",
         "category":  "activities-sports",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Ice Bathing",
-        "category":  "activities-sports",
-        "difficulty":  2
     },
     {
         "phrase":  "Ice Climbing",
@@ -905,11 +905,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Krav Maga",
-        "category":  "activities-sports",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Lacrosse",
         "category":  "activities-sports",
         "difficulty":  2
@@ -968,11 +963,6 @@
         "phrase":  "Lumberjack Competition",
         "category":  "activities-sports",
         "difficulty":  2
-    },
-    {
-        "phrase":  "marathon",
-        "category":  "activities-sports",
-        "difficulty":  1
     },
     {
         "phrase":  "Marathon Running",
@@ -1080,6 +1070,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Never Have I Ever",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Nightclubbing",
         "category":  "activities-sports",
         "difficulty":  1
@@ -1095,11 +1090,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Orienteering",
-        "category":  "activities-sports",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Origami",
         "category":  "activities-sports",
         "difficulty":  1
@@ -1110,6 +1100,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Paint and Sip",
+        "category":  "activities-sports",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Paintball",
         "category":  "activities-sports",
         "difficulty":  1
@@ -1118,6 +1113,11 @@
         "phrase":  "Paragliding",
         "category":  "activities-sports",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Parallel Parking",
+        "category":  "activities-sports",
+        "difficulty":  1
     },
     {
         "phrase":  "Parkour",
@@ -1171,11 +1171,6 @@
     },
     {
         "phrase":  "Pinball",
-        "category":  "activities-sports",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "ping pong",
         "category":  "activities-sports",
         "difficulty":  1
     },
@@ -1245,9 +1240,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Pub Crawl",
+        "phrase":  "Pulling an All-Nighter",
         "category":  "activities-sports",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Pumpkin Carving",
@@ -1360,7 +1355,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Sack Race",
+        "phrase":  "Running Errands",
         "category":  "activities-sports",
         "difficulty":  1
     },
@@ -1486,6 +1481,11 @@
     },
     {
         "phrase":  "Skinny Dipping",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Skipping Stones",
         "category":  "activities-sports",
         "difficulty":  1
     },
@@ -1805,6 +1805,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Two Truths and a Lie",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Ultimate Frisbee",
         "category":  "activities-sports",
         "difficulty":  1
@@ -1831,11 +1836,6 @@
     },
     {
         "phrase":  "Video Games",
-        "category":  "activities-sports",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Video Gaming",
         "category":  "activities-sports",
         "difficulty":  1
     },
@@ -1925,6 +1925,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Window Shopping",
+        "category":  "activities-sports",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Windsurfing",
         "category":  "activities-sports",
         "difficulty":  2
@@ -1985,6 +1990,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Abominable Snowman",
+        "category":  "animals",
+        "difficulty":  2
+    },
+    {
         "phrase":  "African Elephant",
         "category":  "animals",
         "difficulty":  1
@@ -1997,7 +2007,7 @@
     {
         "phrase":  "Air Bud",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Albatross",
@@ -2067,7 +2077,7 @@
     {
         "phrase":  "Babe the Pig",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Baboon",
@@ -2083,11 +2093,6 @@
         "phrase":  "Bald Eagle",
         "category":  "animals",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Baloo the Bear",
-        "category":  "animals",
-        "difficulty":  2
     },
     {
         "phrase":  "Balto",
@@ -2142,7 +2147,7 @@
     {
         "phrase":  "Beethoven the Dog",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Beetle",
@@ -2167,7 +2172,12 @@
     {
         "phrase":  "Betta Fish",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Bigfoot",
+        "category":  "animals",
+        "difficulty":  1
     },
     {
         "phrase":  "Bird",
@@ -2298,6 +2308,11 @@
         "phrase":  "Canary",
         "category":  "animals",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Capybara",
+        "category":  "animals",
+        "difficulty":  2
     },
     {
         "phrase":  "Cardinal",
@@ -2460,6 +2475,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dodo",
+        "category":  "animals",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Dog",
         "category":  "animals",
         "difficulty":  1
@@ -2485,6 +2505,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dragon",
+        "category":  "animals",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Dragonfly",
         "category":  "animals",
         "difficulty":  1
@@ -2496,11 +2521,6 @@
     },
     {
         "phrase":  "Dumbo",
-        "category":  "animals",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Dumbo the Elephant",
         "category":  "animals",
         "difficulty":  1
     },
@@ -2750,11 +2770,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Hippo",
-        "category":  "animals",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Hippopotamus",
         "category":  "animals",
         "difficulty":  1
@@ -2803,11 +2818,6 @@
         "phrase":  "Hyena",
         "category":  "animals",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Iago the Parrot",
-        "category":  "animals",
-        "difficulty":  3
     },
     {
         "phrase":  "Iguana",
@@ -2880,11 +2890,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Lady the Cocker Spaniel",
-        "category":  "animals",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Ladybug",
         "category":  "animals",
         "difficulty":  1
@@ -2931,6 +2936,11 @@
     },
     {
         "phrase":  "Lobster",
+        "category":  "animals",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Loch Ness Monster",
         "category":  "animals",
         "difficulty":  1
     },
@@ -3180,11 +3190,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Perdita",
-        "category":  "animals",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Peregrine Falcon",
         "category":  "animals",
         "difficulty":  2
@@ -3312,7 +3317,7 @@
     {
         "phrase":  "Rafiki",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Ragdoll Cat",
@@ -3357,12 +3362,7 @@
     {
         "phrase":  "Remy the Rat",
         "category":  "animals",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Rhino",
-        "category":  "animals",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
         "phrase":  "Rhinoceros",
@@ -3395,6 +3395,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Saber-Toothed Tiger",
+        "category":  "animals",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Saint Bernard",
         "category":  "animals",
         "difficulty":  1
@@ -3415,11 +3420,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Scottish Fold",
-        "category":  "animals",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Sea Lion",
         "category":  "animals",
         "difficulty":  1
@@ -3437,7 +3437,7 @@
     {
         "phrase":  "Sea Urchin",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Seagull",
@@ -3695,19 +3695,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Tramp",
-        "category":  "animals",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Tree Frog",
         "category":  "animals",
         "difficulty":  1
     },
     {
-        "phrase":  "Trigger",
+        "phrase":  "Triceratops",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Trout",
@@ -3735,9 +3730,24 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Tyrannosaurus Rex",
+        "category":  "animals",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Unicorn",
+        "category":  "animals",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Vampire Bat",
         "category":  "animals",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Velociraptor",
+        "category":  "animals",
+        "difficulty":  2
     },
     {
         "phrase":  "Viper",
@@ -3771,6 +3781,11 @@
     },
     {
         "phrase":  "Weasel",
+        "category":  "animals",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Werewolf",
         "category":  "animals",
         "difficulty":  1
     },
@@ -3810,6 +3825,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Woolly Mammoth",
+        "category":  "animals",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Worm",
         "category":  "animals",
         "difficulty":  1
@@ -3832,7 +3852,7 @@
     {
         "phrase":  "Zazu",
         "category":  "animals",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Zebra",
@@ -3900,11 +3920,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Alice\u0027s Adventures in Wonderland",
-        "category":  "books-characters",
-        "difficulty":  1
-    },
-    {
         "phrase":  "American Gods",
         "category":  "books-characters",
         "difficulty":  2
@@ -3915,27 +3930,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Amy March",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Anansi",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Animal Farm",
         "category":  "books-characters",
         "difficulty":  1
     },
     {
         "phrase":  "Anna Karenina",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Annabeth Chase",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -3975,11 +3975,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Aramis",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Ares",
         "category":  "books-characters",
         "difficulty":  2
@@ -4010,22 +4005,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Athos",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Atticus Finch",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Augustus Gloop",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Augustus Waters",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -4033,11 +4013,6 @@
         "phrase":  "Aunt May",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Aunt Polly",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Baba Yaga",
@@ -4058,11 +4033,6 @@
         "phrase":  "Batman",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Becky Thatcher",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Bella Swan",
@@ -4090,11 +4060,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Beth March",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Bilbo Baggins",
         "category":  "books-characters",
         "difficulty":  1
@@ -4108,6 +4073,11 @@
         "phrase":  "Black Widow",
         "category":  "books-characters",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Bowser",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "Brave New World",
@@ -4143,6 +4113,11 @@
         "phrase":  "Captain Nemo",
         "category":  "books-characters",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Captain Underpants",
+        "category":  "books-characters",
+        "difficulty":  1
     },
     {
         "phrase":  "Catch-22",
@@ -4205,11 +4180,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Cosette",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Crime and Punishment",
         "category":  "books-characters",
         "difficulty":  2
@@ -4228,11 +4198,6 @@
         "phrase":  "Daenerys Targaryen",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Daisy Buchanan",
-        "category":  "books-characters",
-        "difficulty":  2
     },
     {
         "phrase":  "Daredevil",
@@ -4265,12 +4230,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Do Androids Dream of Electric Sheep",
+        "phrase":  "Dobby",
         "category":  "books-characters",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
-        "phrase":  "Dobby",
+        "phrase":  "Dog Man",
         "category":  "books-characters",
         "difficulty":  1
     },
@@ -4278,6 +4243,11 @@
         "phrase":  "Don Quixote",
         "category":  "books-characters",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Donkey Kong",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "Dorian Gray",
@@ -4315,11 +4285,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Edmund Pevensie",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Edward Cullen",
         "category":  "books-characters",
         "difficulty":  1
@@ -4343,11 +4308,6 @@
         "phrase":  "Esmeralda",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Fagin",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Fahrenheit 451",
@@ -4375,6 +4335,11 @@
         "difficulty":  3
     },
     {
+        "phrase":  "Fourth Wing",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Frankenstein",
         "category":  "books-characters",
         "difficulty":  1
@@ -4388,11 +4353,6 @@
         "phrase":  "Friar Tuck",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Friday",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Frodo Baggins",
@@ -4428,6 +4388,11 @@
         "phrase":  "Gollum",
         "category":  "books-characters",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Gomez Addams",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "Gone Girl",
@@ -4466,6 +4431,11 @@
     },
     {
         "phrase":  "Grimms\u0027 Fairy Tales",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Groot",
         "category":  "books-characters",
         "difficulty":  1
     },
@@ -4511,16 +4481,6 @@
     },
     {
         "phrase":  "Hatchet",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Hazel Grace Lancaster",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Heathcliff",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -4595,6 +4555,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "It Ends with Us",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Jack and the Beanstalk",
         "category":  "books-characters",
         "difficulty":  1
@@ -4616,11 +4581,6 @@
     },
     {
         "phrase":  "Jane Eyre",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Javert",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -4665,6 +4625,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Junie B. Jones",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Katniss Everdeen",
         "category":  "books-characters",
         "difficulty":  1
@@ -4690,9 +4655,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Laurie Laurence",
+        "phrase":  "Lara Croft",
         "category":  "books-characters",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Legolas",
@@ -4740,19 +4705,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Lucy Pevensie",
+        "phrase":  "Luigi",
         "category":  "books-characters",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Luke Skywalker",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Lyra Belacqua",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Macbeth",
@@ -4780,24 +4740,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Matilda Wormwood",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Medusa",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Meg March",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Meg Murry",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Merlin",
@@ -4835,6 +4780,11 @@
         "difficulty":  3
     },
     {
+        "phrase":  "Morticia Addams",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Mother Goose",
         "category":  "books-characters",
         "difficulty":  1
@@ -4850,19 +4800,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Mr. Rochester",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Mr. Tumnus",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "My Side of the Mountain",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Nancy Drew",
@@ -4888,11 +4828,6 @@
         "phrase":  "Nightwing",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Nineteen Eighty-Four",
-        "category":  "books-characters",
-        "difficulty":  1
     },
     {
         "phrase":  "Obi-Wan Kenobi",
@@ -4948,6 +4883,11 @@
         "phrase":  "Othello",
         "category":  "books-characters",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Pac-Man",
+        "category":  "books-characters",
+        "difficulty":  1
     },
     {
         "phrase":  "Paddington Bear",
@@ -5015,11 +4955,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Pip",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Pippi Longstocking",
         "category":  "books-characters",
         "difficulty":  2
@@ -5028,11 +4963,6 @@
         "phrase":  "Poison Ivy",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Porthos",
-        "category":  "books-characters",
-        "difficulty":  3
     },
     {
         "phrase":  "Poseidon",
@@ -5045,17 +4975,17 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Primrose Everdeen",
-        "category":  "books-characters",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Prince Charming",
         "category":  "books-characters",
         "difficulty":  1
     },
     {
         "phrase":  "Princess Leia",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Princess Peach",
         "category":  "books-characters",
         "difficulty":  1
     },
@@ -5115,6 +5045,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Rocket Raccoon",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Rogue",
         "category":  "books-characters",
         "difficulty":  2
@@ -5140,11 +5075,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Sancho Panza",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Sauron",
         "category":  "books-characters",
         "difficulty":  1
@@ -5153,11 +5083,6 @@
         "phrase":  "Scout Finch",
         "category":  "books-characters",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Scrooge",
-        "category":  "books-characters",
-        "difficulty":  1
     },
     {
         "phrase":  "Severus Snape",
@@ -5205,6 +5130,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Sonic the Hedgehog",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Spider-Man",
         "category":  "books-characters",
         "difficulty":  1
@@ -5213,6 +5143,16 @@
         "phrase":  "Storm",
         "category":  "books-characters",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Super Mario",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Supergirl",
+        "category":  "books-characters",
+        "difficulty":  1
     },
     {
         "phrase":  "Superman",
@@ -5225,19 +5165,19 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Templeton",
-        "category":  "books-characters",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Thanos",
         "category":  "books-characters",
         "difficulty":  1
     },
     {
-        "phrase":  "The Adventures of Huckleberry Finn",
+        "phrase":  "The Alchemist",
         "category":  "books-characters",
-        "difficulty":  1
+        "difficulty":  2
+    },
+    {
+        "phrase":  "The Baby-Sitters Club",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "The Beast",
@@ -5258,6 +5198,11 @@
         "phrase":  "The Big Bad Wolf",
         "category":  "books-characters",
         "difficulty":  1
+    },
+    {
+        "phrase":  "The Book Thief",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "The Call of the Wild",
@@ -5325,6 +5270,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "The Fault in Our Stars",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "The Flash",
         "category":  "books-characters",
         "difficulty":  1
@@ -5380,6 +5330,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "The Housemaid",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "The Hulk",
         "category":  "books-characters",
         "difficulty":  1
@@ -5416,6 +5371,11 @@
     },
     {
         "phrase":  "The Mad Hatter",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "The Magic School Bus",
         "category":  "books-characters",
         "difficulty":  1
     },
@@ -5480,14 +5440,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "The Sun Also Rises",
+        "phrase":  "The Secret Garden",
         "category":  "books-characters",
         "difficulty":  2
     },
     {
-        "phrase":  "The Tale of Peter Rabbit",
+        "phrase":  "The Sun Also Rises",
         "category":  "books-characters",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
         "phrase":  "The Tempest",
@@ -5518,6 +5478,11 @@
         "phrase":  "The Ugly Duckling",
         "category":  "books-characters",
         "difficulty":  1
+    },
+    {
+        "phrase":  "The Velveteen Rabbit",
+        "category":  "books-characters",
+        "difficulty":  2
     },
     {
         "phrase":  "The Very Hungry Caterpillar",
@@ -5551,11 +5516,6 @@
     },
     {
         "phrase":  "The Witches",
-        "category":  "books-characters",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "The Wonderful Wizard of Oz",
         "category":  "books-characters",
         "difficulty":  1
     },
@@ -5635,12 +5595,17 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Uncle Fester",
+        "category":  "books-characters",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Van Helsing",
         "category":  "books-characters",
         "difficulty":  1
     },
     {
-        "phrase":  "Veruca Salt",
+        "phrase":  "Verity",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -5660,6 +5625,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Wednesday Addams",
+        "category":  "books-characters",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Wendy Darling",
         "category":  "books-characters",
         "difficulty":  2
@@ -5670,12 +5640,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "White Fang",
+        "phrase":  "Where's Waldo?",
         "category":  "books-characters",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
-        "phrase":  "Wilbur",
+        "phrase":  "White Fang",
         "category":  "books-characters",
         "difficulty":  2
     },
@@ -5693,11 +5663,6 @@
         "phrase":  "Winnie the Pooh",
         "category":  "books-characters",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Winston Smith",
-        "category":  "books-characters",
-        "difficulty":  2
     },
     {
         "phrase":  "Wolverine",
@@ -5765,6 +5730,16 @@
         "difficulty":  1
     },
     {
+        "phrase":  "AirTag",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Aldi",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Alexa",
         "category":  "brands-products",
         "difficulty":  1
@@ -5795,12 +5770,27 @@
         "difficulty":  1
     },
     {
+        "phrase":  "American Girl Doll",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Android",
         "category":  "brands-products",
         "difficulty":  1
     },
     {
+        "phrase":  "Animal Crossing",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Apple",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Apple Watch",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -5820,11 +5810,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Axe",
-        "category":  "brands-products",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Axe Body Spray",
         "category":  "brands-products",
         "difficulty":  2
@@ -5838,6 +5823,11 @@
         "phrase":  "Bacardi",
         "category":  "brands-products",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Bagel Bites",
+        "category":  "brands-products",
+        "difficulty":  2
     },
     {
         "phrase":  "Baileys Irish Cream",
@@ -5920,6 +5910,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Build-A-Bear",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Burger King",
         "category":  "brands-products",
         "difficulty":  1
@@ -5943,6 +5938,11 @@
         "phrase":  "Campbell\u0027s Soup",
         "category":  "brands-products",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Candy Crush",
+        "category":  "brands-products",
+        "difficulty":  1
     },
     {
         "phrase":  "Canon",
@@ -5985,6 +5985,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Celsius",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "CeraVe",
         "category":  "brands-products",
         "difficulty":  2
@@ -6006,6 +6011,11 @@
     },
     {
         "phrase":  "Chase Bank",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "ChatGPT",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -6045,7 +6055,17 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Chuck E. Cheese",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Cinnabon",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Claude",
         "category":  "brands-products",
         "difficulty":  2
     },
@@ -6130,6 +6150,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Crumbl",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Crush",
         "category":  "brands-products",
         "difficulty":  2
@@ -6185,14 +6210,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dollar General",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Dollar Tree",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Dom Pérignon",
         "category":  "brands-products",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Domino\u0027s",
-        "category":  "brands-products",
-        "difficulty":  1
     },
     {
         "phrase":  "Domino\u0027s Pizza",
@@ -6226,6 +6256,16 @@
     },
     {
         "phrase":  "Dunkin\u0027",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Duolingo",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Dyson",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -6301,6 +6341,11 @@
     },
     {
         "phrase":  "Ford",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Fortnite",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -6395,6 +6440,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Happy Meal",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Haribo",
         "category":  "brands-products",
         "difficulty":  2
@@ -6440,6 +6490,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Hoka",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Home Depot",
         "category":  "brands-products",
         "difficulty":  1
@@ -6468,6 +6523,11 @@
         "phrase":  "Hustler",
         "category":  "brands-products",
         "difficulty":  2
+    },
+    {
+        "phrase":  "IHOP",
+        "category":  "brands-products",
+        "difficulty":  1
     },
     {
         "phrase":  "IKEA",
@@ -6625,6 +6685,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Labubu",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Lamborghini",
         "category":  "brands-products",
         "difficulty":  1
@@ -6668,6 +6733,11 @@
         "phrase":  "Lipton",
         "category":  "brands-products",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Liquid I.V.",
+        "category":  "brands-products",
+        "difficulty":  2
     },
     {
         "phrase":  "Listerine",
@@ -6730,6 +6800,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Marshalls",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Marvel Studios",
         "category":  "brands-products",
         "difficulty":  1
@@ -6771,6 +6846,11 @@
     },
     {
         "phrase":  "Miller Lite",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Minecraft",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -6865,6 +6945,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Nvidia",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Nyx Cosmetics",
         "category":  "brands-products",
         "difficulty":  2
@@ -6885,9 +6970,24 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Olipop",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Oreo",
         "category":  "brands-products",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Owala",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Ozempic",
+        "category":  "brands-products",
+        "difficulty":  2
     },
     {
         "phrase":  "Pampers",
@@ -7005,6 +7105,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Poppi",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Porsche",
         "category":  "brands-products",
         "difficulty":  1
@@ -7080,6 +7185,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Rice Krispies Treats",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Ring Pop",
         "category":  "brands-products",
         "difficulty":  2
@@ -7093,6 +7203,11 @@
         "phrase":  "Robinhood",
         "category":  "brands-products",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Roblox",
+        "category":  "brands-products",
+        "difficulty":  1
     },
     {
         "phrase":  "Rolex",
@@ -7140,6 +7255,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Shein",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Shell",
         "category":  "brands-products",
         "difficulty":  1
@@ -7147,7 +7267,7 @@
     {
         "phrase":  "Silly Putty",
         "category":  "brands-products",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Siri",
@@ -7235,6 +7355,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Stanley Tumbler",
+        "category":  "brands-products",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Staples",
         "category":  "brands-products",
         "difficulty":  1
@@ -7280,6 +7405,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "T.J. Maxx",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Tabasco",
         "category":  "brands-products",
         "difficulty":  1
@@ -7295,12 +7425,22 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Temu",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Tesla",
         "category":  "brands-products",
         "difficulty":  1
     },
     {
         "phrase":  "The North Face",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "The Sims",
         "category":  "brands-products",
         "difficulty":  1
     },
@@ -7495,6 +7635,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Waffle House",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Walgreens",
         "category":  "brands-products",
         "difficulty":  1
@@ -7508,6 +7653,11 @@
         "phrase":  "Warner Bros",
         "category":  "brands-products",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Waymo",
+        "category":  "brands-products",
+        "difficulty":  2
     },
     {
         "phrase":  "WD-40",
@@ -7550,6 +7700,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Wordle",
+        "category":  "brands-products",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Xbox",
         "category":  "brands-products",
         "difficulty":  1
@@ -7590,27 +7745,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "2026 Winter Olympics",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Academy Awards",
         "category":  "events-holidays",
         "difficulty":  1
     },
     {
         "phrase":  "Advent",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Africa Cup of Nations",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Album Release Day",
         "category":  "events-holidays",
         "difficulty":  3
     },
@@ -7638,11 +7778,6 @@
         "phrase":  "Anniversary Party",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "ANZAC Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Apple Picking Season",
@@ -7673,11 +7808,6 @@
         "phrase":  "Ash Wednesday",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Australia Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Awards Banquet",
@@ -7716,11 +7846,6 @@
     },
     {
         "phrase":  "Back to School",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Back to School Season",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -7800,6 +7925,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Book Fair",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Boston Marathon",
         "category":  "events-holidays",
         "difficulty":  2
@@ -7823,11 +7953,6 @@
         "phrase":  "Burning Man",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Burns Night",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "camping trip",
@@ -7870,17 +7995,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Chocolate Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Christmas",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Christmas Day",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -7893,11 +8008,6 @@
         "phrase":  "Christmas Morning",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Chuseok",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Cinco de Mayo",
@@ -7925,11 +8035,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Comic Con",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Comic-Con",
         "category":  "events-holidays",
         "difficulty":  1
@@ -7945,19 +8050,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Concert Tour Kickoff",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Confirmation Ceremony",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Constitution Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Cookie Exchange",
@@ -8005,16 +8100,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Daylight Saving Time Begins",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Daylight Saving Time Ends",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Daytona 500",
         "category":  "events-holidays",
         "difficulty":  2
@@ -8030,6 +8115,11 @@
         "difficulty":  3
     },
     {
+        "phrase":  "Destination Wedding",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Divorce Party",
         "category":  "events-holidays",
         "difficulty":  2
@@ -8040,32 +8130,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "E3",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Earth Day",
         "category":  "events-holidays",
         "difficulty":  1
     },
     {
-        "phrase":  "Earth Hour",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Easter",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Easter Monday",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Easter Sunday",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -8095,22 +8165,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Epiphany",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Eurovision Song Contest",
         "category":  "events-holidays",
         "difficulty":  2
     },
     {
         "phrase":  "family reunion",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Family Reunion Weekend",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -8215,11 +8275,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Founders Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Fourth of July",
         "category":  "events-holidays",
         "difficulty":  1
@@ -8233,11 +8288,6 @@
         "phrase":  "Fourth of July Fireworks",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Free Comic Book Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Friendsgiving",
@@ -8266,11 +8316,6 @@
     },
     {
         "phrase":  "garage sale",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Garage Sale Weekend",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -8316,16 +8361,6 @@
     },
     {
         "phrase":  "graduation",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Graduation Day",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Grammy Awards",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -8445,29 +8480,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "International Cat Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "International Women\u0027s Day",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "International Workers\u0027 Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "International Yoga Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Ironman World Championship",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Job Interview",
@@ -8488,11 +8503,6 @@
         "phrase":  "Kentucky Derby",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Kentucky Oaks",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Kwanzaa",
@@ -8560,11 +8570,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Martin Luther King Jr. Day",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "May Day",
         "category":  "events-holidays",
         "difficulty":  2
@@ -8625,11 +8630,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Movie Premiere Night",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Moving Day",
         "category":  "events-holidays",
         "difficulty":  1
@@ -8640,94 +8640,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "National Best Friends Day",
+        "phrase":  "Music Festival",
         "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Book Lovers Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Cheeseburger Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Cherry Blossom Festival",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Coffee Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Day of Prayer",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Dog Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Donut Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Hot Dog Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Ice Cream Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Margarita Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Pancake Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Pet Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Pizza Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Pumpkin Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "National Puppy Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Taco Day",
-        "category":  "events-holidays",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "National Wine Day",
-        "category":  "events-holidays",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "NBA All-Star Weekend",
@@ -8765,6 +8680,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "New Year's Kiss",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
         "phrase":  "New Year\u0027s Resolutions",
         "category":  "events-holidays",
         "difficulty":  1
@@ -8785,19 +8705,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Notting Hill Carnival",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Office Birthday Cake",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Office Holiday Party",
-        "category":  "events-holidays",
-        "difficulty":  1
     },
     {
         "phrase":  "Office Party",
@@ -8815,9 +8725,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Ornament Swap",
+        "phrase":  "Open House",
         "category":  "events-holidays",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Oscars",
@@ -8831,6 +8741,11 @@
     },
     {
         "phrase":  "Parade",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Parent-Teacher Conference",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -8900,11 +8815,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Prom Night",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Promotion at Work",
         "category":  "events-holidays",
         "difficulty":  1
@@ -8945,14 +8855,14 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Rehearsal Dinner",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Remembrance Day",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Retirement",
-        "category":  "events-holidays",
-        "difficulty":  1
     },
     {
         "phrase":  "retirement party",
@@ -9010,9 +8920,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Sadie Hawkins Day",
+        "phrase":  "School Picture Day",
         "category":  "events-holidays",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "School Play",
@@ -9045,19 +8955,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Shavuot",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Silver Anniversary",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Singles\u0027 Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Small Business Saturday",
@@ -9090,11 +8990,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "St. Nicholas Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "St. Patrick\u0027s Day",
         "category":  "events-holidays",
         "difficulty":  1
@@ -9123,11 +9018,6 @@
         "phrase":  "Staycation",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Sukkot",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "Summer Olympics",
@@ -9160,11 +9050,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Super Bowl Sunday",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Surprise Party",
         "category":  "events-holidays",
         "difficulty":  1
@@ -9173,11 +9058,6 @@
         "phrase":  "Sweet Sixteen",
         "category":  "events-holidays",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Sweetest Day",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "tailgate party",
@@ -9190,14 +9070,14 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Talk Like a Pirate Day",
+        "phrase":  "Take Your Child to Work Day",
         "category":  "events-holidays",
         "difficulty":  2
     },
     {
-        "phrase":  "Talk Like Shakespeare Day",
+        "phrase":  "Talk Like a Pirate Day",
         "category":  "events-holidays",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Tax Day",
@@ -9228,11 +9108,6 @@
         "phrase":  "Thanksgiving dinner",
         "category":  "events-holidays",
         "difficulty":  1
-    },
-    {
-        "phrase":  "The Ashes",
-        "category":  "events-holidays",
-        "difficulty":  3
     },
     {
         "phrase":  "The Masters",
@@ -9295,19 +9170,14 @@
         "difficulty":  2
     },
     {
-        "phrase":  "U.S.-Iran Conflict",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "UEFA Champions League Final",
         "category":  "events-holidays",
         "difficulty":  2
     },
     {
-        "phrase":  "Ugly Sweater Day",
+        "phrase":  "Ugly Sweater Party",
         "category":  "events-holidays",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "US Open Golf",
@@ -9320,22 +9190,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Vaisakhi",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Valentine\u0027s Day",
         "category":  "events-holidays",
         "difficulty":  1
     },
     {
         "phrase":  "VE Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Venice Carnival",
         "category":  "events-holidays",
         "difficulty":  3
     },
@@ -9355,11 +9215,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "VidCon",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "VJ Day",
         "category":  "events-holidays",
         "difficulty":  3
@@ -9370,17 +9225,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Wedding Anniversary",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Wedding Day",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Wedding Season",
+        "category":  "events-holidays",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Wedding Toast",
         "category":  "events-holidays",
         "difficulty":  1
     },
@@ -9410,16 +9260,6 @@
         "difficulty":  3
     },
     {
-        "phrase":  "World Cup",
-        "category":  "events-holidays",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "World Emoji Day",
-        "category":  "events-holidays",
-        "difficulty":  3
-    },
-    {
         "phrase":  "World Series",
         "category":  "events-holidays",
         "difficulty":  1
@@ -9432,6 +9272,11 @@
     {
         "phrase":  "Yom Kippur",
         "category":  "events-holidays",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Acai Bowl",
+        "category":  "food-drink",
         "difficulty":  2
     },
     {
@@ -9473,11 +9318,6 @@
         "phrase":  "avocado toast",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Baba Ghanoush",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Bacon",
@@ -9550,11 +9390,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Beef Bourguignon",
-        "category":  "food-drink",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Beef Jerky",
         "category":  "food-drink",
         "difficulty":  1
@@ -9577,7 +9412,7 @@
     {
         "phrase":  "Beignets",
         "category":  "food-drink",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Belgian Waffle",
@@ -9587,7 +9422,7 @@
     {
         "phrase":  "Bibimbap",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  3
     },
     {
         "phrase":  "birthday cake",
@@ -9597,7 +9432,7 @@
     {
         "phrase":  "Biryani",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  3
     },
     {
         "phrase":  "Biscuits and Gravy",
@@ -9630,11 +9465,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "boba tea",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Borscht",
         "category":  "food-drink",
         "difficulty":  3
@@ -9653,6 +9483,16 @@
         "phrase":  "Bread Pudding",
         "category":  "food-drink",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Breakfast Burrito",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Breakfast Sandwich",
+        "category":  "food-drink",
+        "difficulty":  1
     },
     {
         "phrase":  "Brownies",
@@ -9692,7 +9532,7 @@
     {
         "phrase":  "Bulgogi",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  3
     },
     {
         "phrase":  "Burrito",
@@ -9733,6 +9573,11 @@
         "phrase":  "Cajun Cuisine",
         "category":  "food-drink",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Cake Pop",
+        "category":  "food-drink",
+        "difficulty":  1
     },
     {
         "phrase":  "California Roll",
@@ -9860,6 +9705,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Chicken and Waffles",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Chicken Caesar Wrap",
         "category":  "food-drink",
         "difficulty":  1
@@ -9886,6 +9736,11 @@
     },
     {
         "phrase":  "Chicken Pot Pie",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Chicken Sandwich",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -9933,11 +9788,6 @@
         "phrase":  "Chow Mein",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Churrasco",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Churros",
@@ -9990,19 +9840,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Congee",
+        "phrase":  "Cookie Dough",
         "category":  "food-drink",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Cookies",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Coq au Vin",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Corn Dog",
@@ -10060,17 +9905,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Croque Monsieur",
-        "category":  "food-drink",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Cupcake",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Cupcakes",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -10110,14 +9945,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Donuts",
+        "phrase":  "Doughnut Holes",
         "category":  "food-drink",
         "difficulty":  1
     },
     {
-        "phrase":  "Doughnut Holes",
+        "phrase":  "Dubai Chocolate",
         "category":  "food-drink",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
         "phrase":  "Dumplings",
@@ -10136,11 +9971,6 @@
     },
     {
         "phrase":  "Egg Roll",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Egg Rolls",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -10172,7 +10002,7 @@
     {
         "phrase":  "Elote",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  3
     },
     {
         "phrase":  "Empanadas",
@@ -10198,11 +10028,6 @@
         "phrase":  "Ethiopian Cuisine",
         "category":  "food-drink",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Étouffée",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Fajitas",
@@ -10286,6 +10111,11 @@
     },
     {
         "phrase":  "Fried Rice",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Frozen Pizza",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -10420,11 +10250,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Grilled Cheese Sandwich",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Grilled Salmon",
         "category":  "food-drink",
         "difficulty":  1
@@ -10530,6 +10355,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Ice Cream Sandwich",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
         "phrase":  "ice cream sundae",
         "category":  "food-drink",
         "difficulty":  1
@@ -10560,6 +10390,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Jalapeño Poppers",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Jam",
         "category":  "food-drink",
         "difficulty":  1
@@ -10568,11 +10403,6 @@
         "phrase":  "Jambalaya",
         "category":  "food-drink",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Jollof Rice",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Kebab",
@@ -10646,11 +10476,6 @@
     },
     {
         "phrase":  "Long Island Iced Tea",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Mac and Cheese",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -10790,11 +10615,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Moussaka",
-        "category":  "food-drink",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Mozzarella Sticks",
         "category":  "food-drink",
         "difficulty":  1
@@ -10835,17 +10655,17 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Old Fashioned",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Old Fashioned Cocktail",
         "category":  "food-drink",
         "difficulty":  1
     },
     {
         "phrase":  "Olive Oil",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Olives",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -10873,11 +10693,6 @@
         "phrase":  "Orange Juice",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Oysters Rockefeller",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Pad Thai",
@@ -10915,11 +10730,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Peanut Butter and Jelly",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Peanut Butter and Jelly Sandwich",
         "category":  "food-drink",
         "difficulty":  1
@@ -10945,11 +10755,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Peri-Peri Chicken",
-        "category":  "food-drink",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Philly Cheesesteak",
         "category":  "food-drink",
         "difficulty":  1
@@ -10968,6 +10773,11 @@
         "phrase":  "Pierogi",
         "category":  "food-drink",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Pigs in a Blanket",
+        "category":  "food-drink",
+        "difficulty":  1
     },
     {
         "phrase":  "Piña Colada",
@@ -11000,7 +10810,17 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Poke Bowl",
+        "category":  "food-drink",
+        "difficulty":  2
+    },
+    {
         "phrase":  "popcorn",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Popcorn Chicken",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -11041,11 +10861,6 @@
     },
     {
         "phrase":  "Pretzel",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Pretzels",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -11215,11 +11030,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Samosas",
-        "category":  "food-drink",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Sandwich",
         "category":  "food-drink",
         "difficulty":  1
@@ -11300,6 +11110,16 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Slushie",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Smash Burger",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Smoothie",
         "category":  "food-drink",
         "difficulty":  1
@@ -11321,6 +11141,11 @@
     },
     {
         "phrase":  "Soft Pretzel",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Soft Serve",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -11350,11 +11175,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Souvlaki",
-        "category":  "food-drink",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Soy Sauce",
         "category":  "food-drink",
         "difficulty":  1
@@ -11370,19 +11190,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Spanakopita",
-        "category":  "food-drink",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Sparkling Water",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Spätzle",
-        "category":  "food-drink",
-        "difficulty":  3
     },
     {
         "phrase":  "Sports Drink",
@@ -11411,6 +11221,11 @@
     },
     {
         "phrase":  "Strawberries",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "String Cheese",
         "category":  "food-drink",
         "difficulty":  1
     },
@@ -11465,11 +11280,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Tabbouleh",
-        "category":  "food-drink",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Taco",
         "category":  "food-drink",
         "difficulty":  1
@@ -11480,24 +11290,19 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Tacos",
-        "category":  "food-drink",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Tamales",
         "category":  "food-drink",
         "difficulty":  2
     },
     {
-        "phrase":  "Tempura",
+        "phrase":  "Tater Tots",
         "category":  "food-drink",
         "difficulty":  1
     },
     {
-        "phrase":  "Teppanyaki",
+        "phrase":  "Tempura",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Tequila Shot",
@@ -11565,9 +11370,14 @@
         "difficulty":  1
     },
     {
+        "phrase":  "TV Dinner",
+        "category":  "food-drink",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Udon",
         "category":  "food-drink",
-        "difficulty":  2
+        "difficulty":  3
     },
     {
         "phrase":  "Vegetable Stir Fry",
@@ -11581,11 +11391,6 @@
     },
     {
         "phrase":  "Vietnamese Cuisine",
-        "category":  "food-drink",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Vindaloo",
         "category":  "food-drink",
         "difficulty":  2
     },
@@ -11653,11 +11458,6 @@
         "phrase":  "Wonton Soup",
         "category":  "food-drink",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Yakitori",
-        "category":  "food-drink",
-        "difficulty":  2
     },
     {
         "phrase":  "Yogurt",
@@ -11870,6 +11670,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Better Luck Next Time",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Better Safe Than Sorry",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -11950,11 +11755,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Burn Bridges",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Burn the Midnight Oil",
         "category":  "idioms-sayings",
         "difficulty":  2
@@ -11968,11 +11768,6 @@
         "phrase":  "Burning the Candle at Both Ends",
         "category":  "idioms-sayings",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Burst Someone\u0027s Bubble",
-        "category":  "idioms-sayings",
-        "difficulty":  1
     },
     {
         "phrase":  "Burst Your Bubble",
@@ -11997,7 +11792,7 @@
     {
         "phrase":  "By Hook or by Crook",
         "category":  "idioms-sayings",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "By the Skin of Your Teeth",
@@ -12215,6 +12010,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Easy Does It",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Eat Crow",
         "category":  "idioms-sayings",
         "difficulty":  3
@@ -12330,6 +12130,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Get Off Your High Horse",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Get the Ball Rolling",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -12345,7 +12150,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Give Someone the Benefit of the Doubt",
+        "phrase":  "Give It a Shot",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12356,11 +12161,6 @@
     },
     {
         "phrase":  "Go Against the Grain",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Go Back to Square One",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12386,6 +12186,11 @@
     },
     {
         "phrase":  "Go the Extra Mile",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Go With the Flow",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12565,6 +12370,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "It's a Small World",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "It\u0027s Not Rocket Science",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -12596,6 +12406,11 @@
     },
     {
         "phrase":  "Jumping to Conclusions",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Keep a Straight Face",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12665,6 +12480,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Last but Not Least",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Laugh It Off",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -12700,7 +12520,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Like Two Peas in a Pod",
+        "phrase":  "Like Pulling Teeth",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12736,11 +12556,6 @@
     },
     {
         "phrase":  "Low Blow",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Make a Long Story Short",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -12785,6 +12600,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "My Lips Are Sealed",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Needle in a Haystack",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -12803,6 +12623,11 @@
         "phrase":  "No Rest for the Wicked",
         "category":  "idioms-sayings",
         "difficulty":  2
+    },
+    {
+        "phrase":  "No Strings Attached",
+        "category":  "idioms-sayings",
+        "difficulty":  1
     },
     {
         "phrase":  "Not My Cup of Tea",
@@ -12935,11 +12760,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Piss and Vinegar",
-        "category":  "idioms-sayings",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Pissing in the Wind",
         "category":  "idioms-sayings",
         "difficulty":  3
@@ -13000,9 +12820,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Rain on Someone\u0027s Parade",
+        "phrase":  "Put Your Money Where Your Mouth Is",
         "category":  "idioms-sayings",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
         "phrase":  "Rain on Your Parade",
@@ -13011,6 +12831,11 @@
     },
     {
         "phrase":  "Read Between the Lines",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Read the Room",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -13101,11 +12926,6 @@
     },
     {
         "phrase":  "Sink or Swim",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Sit on the Fence",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -13246,11 +13066,6 @@
     },
     {
         "phrase":  "The Early Bird Catches the Worm",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "The Grass Is Always Greener",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -13460,6 +13275,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Wake-Up Call",
+        "category":  "idioms-sayings",
+        "difficulty":  1
+    },
+    {
         "phrase":  "walk of shame",
         "category":  "idioms-sayings",
         "difficulty":  1
@@ -13510,9 +13330,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Whole Ball of Wax",
+        "phrase":  "Wild Goose Chase",
         "category":  "idioms-sayings",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Wolf in Sheep\u0027s Clothing",
@@ -13526,11 +13346,6 @@
     },
     {
         "phrase":  "You Can\u0027t Have Your Cake and Eat It Too",
-        "category":  "idioms-sayings",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "You Can\u0027t Judge a Book by Its Cover",
         "category":  "idioms-sayings",
         "difficulty":  1
     },
@@ -13570,11 +13385,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "2026 Is the New 2016",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "404 Error",
         "category":  "internet-slang",
         "difficulty":  1
@@ -13595,6 +13405,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "AI Chatbot",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
         "phrase":  "AI Slop",
         "category":  "internet-slang",
         "difficulty":  3
@@ -13608,11 +13423,6 @@
         "phrase":  "airplane mode",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "All Your Base Are Belong to Us",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Alpha Energy",
@@ -13655,9 +13465,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Autoplay",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Baby Yoda",
         "category":  "internet-slang",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Backrooms",
+        "category":  "internet-slang",
+        "difficulty":  2
     },
     {
         "phrase":  "Bad Luck Brian",
@@ -13800,11 +13620,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Capybara of Indifference",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Cash Me Ousside",
         "category":  "internet-slang",
         "difficulty":  2
@@ -13838,11 +13653,6 @@
         "phrase":  "Charlie Bit My Finger",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Cheems",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Chef\u0027s Kiss",
@@ -13995,6 +13805,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Dating App",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Day in the Life Vlog",
         "category":  "internet-slang",
         "difficulty":  1
@@ -14013,16 +13828,6 @@
         "phrase":  "Deep Cut",
         "category":  "internet-slang",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Deep Fake",
-        "category":  "internet-slang",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Deep Fried Meme",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Deepfake",
@@ -14065,6 +13870,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Digital Wallet",
+        "category":  "internet-slang",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Discord Server",
         "category":  "internet-slang",
         "difficulty":  2
@@ -14103,11 +13913,6 @@
         "phrase":  "Doxxing",
         "category":  "internet-slang",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Drakeposting",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Duet",
@@ -14153,11 +13958,6 @@
         "phrase":  "Epic Fail",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Ermahgerd",
-        "category":  "internet-slang",
-        "difficulty":  2
     },
     {
         "phrase":  "Expanding Brain Meme",
@@ -14273,11 +14073,6 @@
         "phrase":  "Fortnite Default Dance",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "FUD",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Galaxy Brain",
@@ -14417,7 +14212,12 @@
     {
         "phrase":  "HODL",
         "category":  "internet-slang",
-        "difficulty":  2
+        "difficulty":  3
+    },
+    {
+        "phrase":  "Hold My Beer",
+        "category":  "internet-slang",
+        "difficulty":  1
     },
     {
         "phrase":  "Hot Girl Summer",
@@ -14451,6 +14251,11 @@
     },
     {
         "phrase":  "In My Feelings Challenge",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Incognito Mode",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -14490,11 +14295,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Jimothy the Raccoon",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Karen",
         "category":  "internet-slang",
         "difficulty":  1
@@ -14520,16 +14320,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "KitKat Heist",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Kool-Aid Pineapples",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "left on read",
         "category":  "internet-slang",
         "difficulty":  2
@@ -14550,19 +14340,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "live stream",
-        "category":  "internet-slang",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Livestream",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Living Rent Free",
-        "category":  "internet-slang",
-        "difficulty":  2
     },
     {
         "phrase":  "LMAO",
@@ -14585,6 +14365,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Low Battery",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Lowkey",
         "category":  "internet-slang",
         "difficulty":  1
@@ -14595,19 +14380,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Main Character",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Main Character Energy",
         "category":  "internet-slang",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Malding",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "Manifesting",
@@ -14670,11 +14445,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Navy Seal Copypasta",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Netflix and Chill",
         "category":  "internet-slang",
         "difficulty":  1
@@ -14703,11 +14473,6 @@
         "phrase":  "NPC",
         "category":  "internet-slang",
         "difficulty":  2
-    },
-    {
-        "phrase":  "NPC Energy",
-        "category":  "internet-slang",
-        "difficulty":  3
     },
     {
         "phrase":  "NSFW",
@@ -14745,9 +14510,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Only in Ohio",
+        "phrase":  "Online Shopping",
         "category":  "internet-slang",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "OTP",
@@ -14768,6 +14533,11 @@
         "phrase":  "Parasocial Relationship",
         "category":  "internet-slang",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Password Reset",
+        "category":  "internet-slang",
+        "difficulty":  1
     },
     {
         "phrase":  "Pay to Win",
@@ -14793,11 +14563,6 @@
         "phrase":  "Petty",
         "category":  "internet-slang",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Philosoraptor",
-        "category":  "internet-slang",
-        "difficulty":  2
     },
     {
         "phrase":  "photobomb",
@@ -14830,11 +14595,6 @@
         "difficulty":  3
     },
     {
-        "phrase":  "Polite Punch",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "pop-up ad",
         "category":  "internet-slang",
         "difficulty":  1
@@ -14853,6 +14613,11 @@
         "phrase":  "Pwned",
         "category":  "internet-slang",
         "difficulty":  3
+    },
+    {
+        "phrase":  "QR Code",
+        "category":  "internet-slang",
+        "difficulty":  1
     },
     {
         "phrase":  "Quiet Quitting",
@@ -14876,11 +14641,6 @@
     },
     {
         "phrase":  "Ratio",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Ratioed",
         "category":  "internet-slang",
         "difficulty":  2
     },
@@ -14911,11 +14671,6 @@
     },
     {
         "phrase":  "Reddit Gold",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Reel",
         "category":  "internet-slang",
         "difficulty":  2
     },
@@ -14975,11 +14730,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Roll Safe",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Rug Pull",
         "category":  "internet-slang",
         "difficulty":  2
@@ -15015,17 +14765,17 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Screen Share",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
         "phrase":  "screen time",
         "category":  "internet-slang",
         "difficulty":  1
     },
     {
         "phrase":  "Screenshot",
-        "category":  "internet-slang",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Screenshotted",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -15040,11 +14790,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Shade",
-        "category":  "internet-slang",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Shadowban",
         "category":  "internet-slang",
         "difficulty":  2
@@ -15055,22 +14800,7 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Ship",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Shipping",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Shipping a Couple",
-        "category":  "internet-slang",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Shitpost",
         "category":  "internet-slang",
         "difficulty":  2
     },
@@ -15270,9 +15000,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Terminally Online",
+        "phrase":  "Terms and Conditions",
         "category":  "internet-slang",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Text Back",
@@ -15395,12 +15125,12 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Unboxing",
+        "phrase":  "Two-Factor Authentication",
         "category":  "internet-slang",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
-        "phrase":  "unboxing video",
+        "phrase":  "Unboxing",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -15420,14 +15150,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Upvote",
+        "phrase":  "Unsubscribe",
         "category":  "internet-slang",
         "difficulty":  1
     },
     {
-        "phrase":  "Vaguebooking",
+        "phrase":  "Upvote",
         "category":  "internet-slang",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Verified Badge",
@@ -15435,9 +15165,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Verified Checkmark",
+        "phrase":  "Very Demure",
         "category":  "internet-slang",
-        "difficulty":  1
+        "difficulty":  2
     },
     {
         "phrase":  "Vibe",
@@ -15450,12 +15180,22 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Vibe Coding",
+        "category":  "internet-slang",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Vibe Shift",
         "category":  "internet-slang",
         "difficulty":  2
     },
     {
         "phrase":  "Vibing",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Video Call",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -15486,6 +15226,11 @@
     },
     {
         "phrase":  "Vlogger",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Voice Note",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -15530,11 +15275,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Y U No Guy",
-        "category":  "internet-slang",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Yeet",
         "category":  "internet-slang",
         "difficulty":  2
@@ -15546,6 +15286,11 @@
     },
     {
         "phrase":  "Zoom Fatigue",
+        "category":  "internet-slang",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Zoom Meeting",
         "category":  "internet-slang",
         "difficulty":  1
     },
@@ -15600,6 +15345,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "A Minecraft Movie",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "A Nightmare on Elm Street",
         "category":  "movies-tv",
         "difficulty":  2
@@ -15611,6 +15361,11 @@
     },
     {
         "phrase":  "Abbott Elementary",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Adolescence",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -15647,12 +15402,7 @@
     {
         "phrase":  "All in the Family",
         "category":  "movies-tv",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Alley Cats",
-        "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "American Beauty",
@@ -15825,6 +15575,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Bluey",
+        "category":  "movies-tv",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Bob\u0027s Burgers",
         "category":  "movies-tv",
         "difficulty":  1
@@ -15863,6 +15618,11 @@
         "phrase":  "Bridesmaids",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Bridgerton",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "Brooklyn Nine-Nine",
@@ -15961,6 +15721,11 @@
     },
     {
         "phrase":  "Contagion",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Coraline",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -16065,6 +15830,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Dragon Ball Z",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Dumb and Dumber",
         "category":  "movies-tv",
         "difficulty":  1
@@ -16135,7 +15905,17 @@
         "difficulty":  2
     },
     {
+        "phrase":  "F1",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Face/Off",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Fallout",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -16152,7 +15932,7 @@
     {
         "phrase":  "Family Ties",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Fargo",
@@ -16282,12 +16062,17 @@
     {
         "phrase":  "Growing Pains",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Guardians of the Galaxy",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Hacks",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "Happy Days",
@@ -16305,6 +16090,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Heated Rivalry",
+        "category":  "movies-tv",
+        "difficulty":  3
+    },
+    {
         "phrase":  "Hereditary",
         "category":  "movies-tv",
         "difficulty":  2
@@ -16316,6 +16106,11 @@
     },
     {
         "phrase":  "Homeland",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Hoppers",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -16333,6 +16128,11 @@
         "phrase":  "How I Met Your Mother",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Howl's Moving Castle",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "I Am Legend",
@@ -16386,11 +16186,6 @@
     },
     {
         "phrase":  "Iron Man",
-        "category":  "movies-tv",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "It (2017)",
         "category":  "movies-tv",
         "difficulty":  1
     },
@@ -16470,6 +16265,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "KPop Demon Hunters",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "La La Land",
         "category":  "movies-tv",
         "difficulty":  1
@@ -16480,9 +16280,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Lanterns",
+        "phrase":  "Lady and the Tramp",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Law \u0026 Order",
@@ -16515,9 +16315,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Love Is Blind",
+        "category":  "movies-tv",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Love Island",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Love on the Spectrum",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "Luca",
@@ -16572,12 +16382,12 @@
     {
         "phrase":  "Michael",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Minions \u0026 Monsters",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Minority Report",
@@ -16665,6 +16475,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Naruto",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "National Lampoon\u0027s Vacation",
         "category":  "movies-tv",
         "difficulty":  2
@@ -16716,6 +16531,11 @@
     },
     {
         "phrase":  "One Flew Over the Cuckoo\u0027s Nest",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "One Piece",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -16800,6 +16620,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Pluribus",
+        "category":  "movies-tv",
+        "difficulty":  3
+    },
+    {
         "phrase":  "Poltergeist",
         "category":  "movies-tv",
         "difficulty":  2
@@ -16837,7 +16662,7 @@
     {
         "phrase":  "Project Hail Mary",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Psycho",
@@ -16863,6 +16688,11 @@
         "phrase":  "Ratatouille",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Reacher",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "Rear Window",
@@ -16980,6 +16810,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Severance",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Sex and the City",
         "category":  "movies-tv",
         "difficulty":  1
@@ -17030,6 +16865,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Sinners",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Sleepless in Seattle",
         "category":  "movies-tv",
         "difficulty":  2
@@ -17060,9 +16900,19 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Spider-Man: Brand New Day",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Spider-Man: No Way Home",
         "category":  "movies-tv",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Spirited Away",
+        "category":  "movies-tv",
+        "difficulty":  2
     },
     {
         "phrase":  "SpongeBob SquarePants",
@@ -17145,11 +16995,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Ted Lasso Season 4",
-        "category":  "movies-tv",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Teenage Mutant Ninja Turtles",
         "category":  "movies-tv",
         "difficulty":  1
@@ -17177,7 +17022,7 @@
     {
         "phrase":  "The Andy Griffith Show",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "The Avengers",
@@ -17256,6 +17101,11 @@
     },
     {
         "phrase":  "The Departed",
+        "category":  "movies-tv",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "The Devil Wears Prada",
         "category":  "movies-tv",
         "difficulty":  1
     },
@@ -17412,10 +17262,15 @@
     {
         "phrase":  "The Pitt",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "The Price Is Right",
+        "category":  "movies-tv",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "The Princess Bride",
         "category":  "movies-tv",
         "difficulty":  1
     },
@@ -17465,9 +17320,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "The Studio",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "The Summer I Turned Pretty",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "The Super Mario Galaxy Movie",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "The Terminator",
@@ -17476,6 +17341,11 @@
     },
     {
         "phrase":  "The Texas Chain Saw Massacre",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "The Traitors",
         "category":  "movies-tv",
         "difficulty":  2
     },
@@ -17510,9 +17380,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "The Whisper Man",
+        "phrase":  "The White Lotus",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "The Wizard of Oz",
@@ -17650,6 +17520,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Weapons",
+        "category":  "movies-tv",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Wedding Crashers",
         "category":  "movies-tv",
         "difficulty":  1
@@ -17680,19 +17555,14 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Widow\u0027s Bay",
+        "phrase":  "Wicked",
         "category":  "movies-tv",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Wish",
         "category":  "movies-tv",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Wonder Man",
-        "category":  "movies-tv",
-        "difficulty":  3
     },
     {
         "phrase":  "Wonka",
@@ -17785,12 +17655,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "A Night at the Opera",
+        "phrase":  "A Bar Song (Tipsy)",
         "category":  "music",
         "difficulty":  2
     },
     {
-        "phrase":  "A Rush of Blood to the Head",
+        "phrase":  "A Night at the Opera",
         "category":  "music",
         "difficulty":  2
     },
@@ -17808,6 +17678,11 @@
         "phrase":  "Abbey Road",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Abracadabra",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "AC/DC",
@@ -17840,6 +17715,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "All Too Well",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Alright",
         "category":  "music",
         "difficulty":  2
@@ -17865,14 +17745,14 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Arctic Monkeys",
+        "phrase":  "APT.",
         "category":  "music",
         "difficulty":  2
     },
     {
-        "phrase":  "Arirang",
+        "phrase":  "Arctic Monkeys",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "As It Was",
@@ -17940,19 +17820,24 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Beautiful Things",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Bee Gees",
         "category":  "music",
         "difficulty":  1
     },
     {
-        "phrase":  "Been By Now",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Billie Jean",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Birds of a Feather",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Black Sabbath",
@@ -18020,6 +17905,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Brat",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Bye Bye Bye",
         "category":  "music",
         "difficulty":  1
@@ -18037,7 +17927,7 @@
     {
         "phrase":  "Choosin\u0027 Texas",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Chop Suey!",
@@ -18060,11 +17950,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Come Away with Me",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Come Together",
         "category":  "music",
         "difficulty":  1
@@ -18085,11 +17970,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Control",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Counting Stars",
         "category":  "music",
         "difficulty":  1
@@ -18098,6 +17978,11 @@
         "phrase":  "cowbell",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Cowboy Carter",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Crazy",
@@ -18135,16 +18020,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Dandelion",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Dangerous",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Dangerously in Love",
         "category":  "music",
         "difficulty":  2
@@ -18152,7 +18027,7 @@
     {
         "phrase":  "De La Soul",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Deep Purple",
@@ -18180,17 +18055,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Discovery",
+        "phrase":  "Die With a Smile",
         "category":  "music",
         "difficulty":  2
     },
     {
         "phrase":  "Disturbed",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Divide",
         "category":  "music",
         "difficulty":  2
     },
@@ -18232,7 +18102,7 @@
     {
         "phrase":  "En Vogue",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "encore",
@@ -18258,11 +18128,6 @@
         "phrase":  "Every Breath You Take",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Exile on Main St.",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "Eye of the Tiger",
@@ -18315,14 +18180,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Follow the Leader",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Foo Fighters",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Fortnight",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Free Bird",
@@ -18355,14 +18220,29 @@
         "difficulty":  3
     },
     {
+        "phrase":  "Girls Just Want to Have Fun",
+        "category":  "music",
+        "difficulty":  1
+    },
+    {
         "phrase":  "God\u0027s Plan",
         "category":  "music",
         "difficulty":  1
     },
     {
+        "phrase":  "Golden",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Good 4 U",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Good Luck, Babe!",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Good Vibrations",
@@ -18415,11 +18295,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Hate That I Made You Love Me",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Here Comes the Sun",
         "category":  "music",
         "difficulty":  1
@@ -18430,7 +18305,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "HIStory",
+        "phrase":  "Hey Ya!",
+        "category":  "music",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Hot to Go!",
         "category":  "music",
         "difficulty":  2
     },
@@ -18456,11 +18336,6 @@
     },
     {
         "phrase":  "Hybrid Theory",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Hysteria",
         "category":  "music",
         "difficulty":  2
     },
@@ -18595,11 +18470,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Kiss All The Time. Disco, Occasionally.",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Korn",
         "category":  "music",
         "difficulty":  2
@@ -18623,11 +18493,6 @@
         "phrase":  "Let It Be",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Let It Bleed",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "Levitating",
@@ -18680,9 +18545,19 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Lose Control",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Lose Yourself",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Luther",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Lynyrd Skynyrd",
@@ -18701,6 +18576,11 @@
     },
     {
         "phrase":  "Man in Black",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Manchild",
         "category":  "music",
         "difficulty":  2
     },
@@ -18725,9 +18605,14 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Midnights",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Migos",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "mixtape",
@@ -18790,9 +18675,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Never Mind the Bollocks Here\u0027s the Sex Pistols",
+        "phrase":  "Never Gonna Give You Up",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Nevermind",
@@ -18801,11 +18686,6 @@
     },
     {
         "phrase":  "New Order",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "News of the World",
         "category":  "music",
         "difficulty":  3
     },
@@ -18880,9 +18760,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Opalite",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "opera singer",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Ordinary",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Outkast",
@@ -18925,29 +18815,24 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Petal",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Physical",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Pink Floyd",
         "category":  "music",
         "difficulty":  1
     },
     {
+        "phrase":  "Pink Pony Club",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Please Please Please",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Poker Face",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Positions",
-        "category":  "music",
-        "difficulty":  2
     },
     {
         "phrase":  "Public Enemy",
@@ -19005,11 +18890,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Rare",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Ready to Die",
         "category":  "music",
         "difficulty":  2
@@ -19033,6 +18913,11 @@
         "phrase":  "Renaissance",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Reputation",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Respect",
@@ -19095,9 +18980,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Scorpion",
+        "phrase":  "September",
         "category":  "music",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Seven Nation Army",
@@ -19130,14 +19015,14 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Short n' Sweet",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Sicko Mode",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Significant Other",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "Simon \u0026 Garfunkel",
@@ -19151,11 +19036,6 @@
     },
     {
         "phrase":  "Single Ladies",
-        "category":  "music",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Single Ladies (Put a Ring on It)",
         "category":  "music",
         "difficulty":  1
     },
@@ -19176,6 +19056,11 @@
     },
     {
         "phrase":  "Smells Like Teen Spirit",
+        "category":  "music",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Smooth Criminal",
         "category":  "music",
         "difficulty":  1
     },
@@ -19212,7 +19097,7 @@
     {
         "phrase":  "Soundgarden",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Sour",
@@ -19228,6 +19113,11 @@
         "phrase":  "Spice Girls",
         "category":  "music",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Stacy's Mom",
+        "category":  "music",
+        "difficulty":  2
     },
     {
         "phrase":  "Stairway to Heaven",
@@ -19260,9 +19150,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Sticky Fingers",
+        "phrase":  "Stick Season",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Stone Temple Pilots",
@@ -19286,6 +19176,11 @@
     },
     {
         "phrase":  "Sweet Child O\u0027 Mine",
+        "category":  "music",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Sweet Dreams (Are Made of This)",
         "category":  "music",
         "difficulty":  1
     },
@@ -19350,11 +19245,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "The Art of Loving",
-        "category":  "music",
-        "difficulty":  3
-    },
-    {
         "phrase":  "The Beach Boys",
         "category":  "music",
         "difficulty":  1
@@ -19405,6 +19295,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "The Fate of Ophelia",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "The Four Tops",
         "category":  "music",
         "difficulty":  2
@@ -19418,11 +19313,6 @@
         "phrase":  "The Gambler",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "The Great Divide",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "The Jackson 5",
@@ -19440,6 +19330,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "The Life of a Showgirl",
+        "category":  "music",
+        "difficulty":  2
+    },
+    {
         "phrase":  "The Lumineers",
         "category":  "music",
         "difficulty":  2
@@ -19453,11 +19348,6 @@
         "phrase":  "The Miseducation of Lauryn Hill",
         "category":  "music",
         "difficulty":  2
-    },
-    {
-        "phrase":  "The Number of the Beast",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "The Police",
@@ -19570,11 +19460,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Unorthodox Jukebox",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Uptown Funk",
         "category":  "music",
         "difficulty":  1
@@ -19600,11 +19485,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Views",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "vinyl record",
         "category":  "music",
         "difficulty":  1
@@ -19615,9 +19495,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Voodoo",
+        "phrase":  "Walking on Sunshine",
         "category":  "music",
-        "difficulty":  3
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Wannabe",
+        "category":  "music",
+        "difficulty":  1
     },
     {
         "phrase":  "Watermelon Sugar",
@@ -19685,11 +19570,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "X\u0026Y",
-        "category":  "music",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Y.M.C.A.",
         "category":  "music",
         "difficulty":  1
@@ -19698,11 +19578,6 @@
         "phrase":  "Yesterday",
         "category":  "music",
         "difficulty":  1
-    },
-    {
-        "phrase":  "You Seem Pretty Sad for a Girl So in Love",
-        "category":  "music",
-        "difficulty":  3
     },
     {
         "phrase":  "ZZ Top",
@@ -19716,6 +19591,11 @@
     },
     {
         "phrase":  "Air Freshener",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Air Fryer",
         "category":  "objects",
         "difficulty":  1
     },
@@ -19780,11 +19660,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Bar of Soap",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Baseball Bat",
         "category":  "objects",
         "difficulty":  1
@@ -19831,6 +19706,11 @@
     },
     {
         "phrase":  "Battery",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Beach Ball",
         "category":  "objects",
         "difficulty":  1
     },
@@ -19901,11 +19781,6 @@
     },
     {
         "phrase":  "Book",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Bookcase",
         "category":  "objects",
         "difficulty":  1
     },
@@ -20205,11 +20080,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Couch",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Crayon",
         "category":  "objects",
         "difficulty":  1
@@ -20255,6 +20125,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dash Cam",
+        "category":  "objects",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Dental Floss",
         "category":  "objects",
         "difficulty":  1
@@ -20295,6 +20170,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Diving Board",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Doll",
         "category":  "objects",
         "difficulty":  1
@@ -20303,6 +20183,11 @@
         "phrase":  "Doorbell",
         "category":  "objects",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Doorbell Camera",
+        "category":  "objects",
+        "difficulty":  2
     },
     {
         "phrase":  "Doorknob",
@@ -20406,6 +20291,11 @@
     },
     {
         "phrase":  "Fence",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Ferris Wheel",
         "category":  "objects",
         "difficulty":  1
     },
@@ -20630,9 +20520,14 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Hotel Key Card",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Inkwell",
         "category":  "objects",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Ironing Board",
@@ -20775,6 +20670,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Luggage Tag",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Lunch Box",
         "category":  "objects",
         "difficulty":  1
@@ -20866,11 +20766,6 @@
     },
     {
         "phrase":  "Mouthwash",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Mug",
         "category":  "objects",
         "difficulty":  1
     },
@@ -20990,6 +20885,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Paper Airplane",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Paper Bag",
         "category":  "objects",
         "difficulty":  1
@@ -21045,12 +20945,22 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Pet Rock",
+        "category":  "objects",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Phone Charger",
         "category":  "objects",
         "difficulty":  1
     },
     {
         "phrase":  "Photo Album",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Photo Booth",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21092,7 +21002,7 @@
     {
         "phrase":  "Pitchfork",
         "category":  "objects",
-        "difficulty":  3
+        "difficulty":  1
     },
     {
         "phrase":  "Placemat",
@@ -21130,6 +21040,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Pool Noodle",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Postage Stamp",
         "category":  "objects",
         "difficulty":  1
@@ -21143,6 +21058,11 @@
         "phrase":  "Pot",
         "category":  "objects",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Power Bank",
+        "category":  "objects",
+        "difficulty":  2
     },
     {
         "phrase":  "Power Strip",
@@ -21167,7 +21087,7 @@
     {
         "phrase":  "Quill",
         "category":  "objects",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Radio",
@@ -21225,6 +21145,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Reusable Straw",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "revolving door",
         "category":  "objects",
         "difficulty":  2
@@ -21240,7 +21165,17 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Ring Light",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Rocking Chair",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Roller Coaster",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21266,6 +21201,11 @@
     },
     {
         "phrase":  "Rubber Band",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Rubber Chicken",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21335,6 +21275,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Seesaw",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "selfie stick",
         "category":  "objects",
         "difficulty":  1
@@ -21380,7 +21325,17 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Shower Cap",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Shower Curtain",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Showerhead",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21465,6 +21420,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Solar Panel",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Space Heater",
         "category":  "objects",
         "difficulty":  2
@@ -21486,6 +21446,11 @@
     },
     {
         "phrase":  "Spoon",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Standing Desk",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21551,6 +21516,11 @@
     },
     {
         "phrase":  "Sweater",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Swing Set",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21710,6 +21680,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Travel Pillow",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
         "phrase":  "treadmill",
         "category":  "objects",
         "difficulty":  1
@@ -21815,17 +21790,17 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Wastebasket",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Watch",
         "category":  "objects",
         "difficulty":  1
     },
     {
         "phrase":  "Water Bottle",
+        "category":  "objects",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Water Gun",
         "category":  "objects",
         "difficulty":  1
     },
@@ -21837,12 +21812,17 @@
     {
         "phrase":  "Wax Seal",
         "category":  "objects",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Wedding Ring",
         "category":  "objects",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Weighted Blanket",
+        "category":  "objects",
+        "difficulty":  2
     },
     {
         "phrase":  "Wheelbarrow",
@@ -21863,11 +21843,6 @@
         "phrase":  "Whisk",
         "category":  "objects",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Whiskey Flask",
-        "category":  "objects",
-        "difficulty":  2
     },
     {
         "phrase":  "Whistle",
@@ -21906,11 +21881,6 @@
     },
     {
         "phrase":  "Wrench",
-        "category":  "objects",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Wristwatch",
         "category":  "objects",
         "difficulty":  1
     },
@@ -22040,11 +22010,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Andrew Dice Clay",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Andy Warhol",
         "category":  "people",
         "difficulty":  1
@@ -22135,6 +22100,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Bad Bunny",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Barack Obama",
         "category":  "people",
         "difficulty":  1
@@ -22153,6 +22123,11 @@
         "phrase":  "Benjamin Franklin",
         "category":  "people",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Benson Boone",
+        "category":  "people",
+        "difficulty":  2
     },
     {
         "phrase":  "Betty White",
@@ -22193,6 +22168,11 @@
         "phrase":  "Billie Jean King",
         "category":  "people",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Billy Joel",
+        "category":  "people",
+        "difficulty":  1
     },
     {
         "phrase":  "Blake Lively",
@@ -22245,6 +22225,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Bruce Springsteen",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Bruce Willis",
         "category":  "people",
         "difficulty":  1
@@ -22260,9 +22245,19 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Caitlin Clark",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Caitlyn Jenner",
         "category":  "people",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Cardi B",
+        "category":  "people",
+        "difficulty":  1
     },
     {
         "phrase":  "Carl Sagan",
@@ -22295,6 +22290,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Chappell Roan",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Charlemagne",
         "category":  "people",
         "difficulty":  2
@@ -22308,6 +22308,11 @@
         "phrase":  "Charles Dickens",
         "category":  "people",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Charli XCX",
+        "category":  "people",
+        "difficulty":  2
     },
     {
         "phrase":  "Charlie Chaplin",
@@ -22410,11 +22415,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Cornelius Vanderbilt",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Courteney Cox",
         "category":  "people",
         "difficulty":  2
@@ -22425,9 +22425,19 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Cynthia Erivo",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Danica Patrick",
         "category":  "people",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Danny DeVito",
+        "category":  "people",
+        "difficulty":  1
     },
     {
         "phrase":  "Dave Chappelle",
@@ -22495,6 +22505,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Doechii",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Doja Cat",
         "category":  "people",
         "difficulty":  2
@@ -22521,6 +22536,11 @@
     },
     {
         "phrase":  "Drake",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Dua Lipa",
         "category":  "people",
         "difficulty":  1
     },
@@ -22705,7 +22725,17 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Giannis Antetokounmpo",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Gisele Bündchen",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Glen Powell",
         "category":  "people",
         "difficulty":  2
     },
@@ -22728,11 +22758,6 @@
         "phrase":  "Halle Berry",
         "category":  "people",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Hannibal Barca",
-        "category":  "people",
-        "difficulty":  3
     },
     {
         "phrase":  "Harriet Tubman",
@@ -22815,6 +22840,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Jack Black",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Jack Nicholson",
         "category":  "people",
         "difficulty":  1
@@ -22831,6 +22861,11 @@
     },
     {
         "phrase":  "Jackson Pollock",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Jalen Hurts",
         "category":  "people",
         "difficulty":  2
     },
@@ -22870,12 +22905,27 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Jeff Goldblum",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Jenna Ortega",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Jennifer Aniston",
         "category":  "people",
         "difficulty":  1
     },
     {
         "phrase":  "Jennifer Lawrence",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Jennifer Lopez",
         "category":  "people",
         "difficulty":  1
     },
@@ -23045,7 +23095,27 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Keke Palmer",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Kelly Clarkson",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Kendrick Lamar",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Kenny Chesney",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Kevin Bacon",
         "category":  "people",
         "difficulty":  2
     },
@@ -23103,6 +23173,16 @@
         "phrase":  "Kris Jenner",
         "category":  "people",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Kristen Bell",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Kristen Stewart",
+        "category":  "people",
+        "difficulty":  1
     },
     {
         "phrase":  "Kurt Cobain",
@@ -23171,6 +23251,11 @@
     },
     {
         "phrase":  "Lucille Ball",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Luka Dončić",
         "category":  "people",
         "difficulty":  2
     },
@@ -23265,12 +23350,22 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Megan Thee Stallion",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Meghan Markle",
         "category":  "people",
         "difficulty":  1
     },
     {
         "phrase":  "Meryl Streep",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Michael B. Jordan",
         "category":  "people",
         "difficulty":  1
     },
@@ -23320,11 +23415,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Milton Hershey",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Morgan Freeman",
         "category":  "people",
         "difficulty":  1
@@ -23336,6 +23426,11 @@
     },
     {
         "phrase":  "Mr. Rogers",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "MrBeast",
         "category":  "people",
         "difficulty":  1
     },
@@ -23385,14 +23480,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Nelson Rockefeller",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Nick Jonas",
         "category":  "people",
         "difficulty":  2
+    },
+    {
+        "phrase":  "Nicki Minaj",
+        "category":  "people",
+        "difficulty":  1
     },
     {
         "phrase":  "Nicolaus Copernicus",
@@ -23405,14 +23500,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Niels Bohr",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Nikola Tesla",
         "category":  "people",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Noah Kahan",
+        "category":  "people",
+        "difficulty":  2
     },
     {
         "phrase":  "Norman Rockwell",
@@ -23427,7 +23522,12 @@
     {
         "phrase":  "Octavia Spencer",
         "category":  "people",
-        "difficulty":  3
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Olivia Dean",
+        "category":  "people",
+        "difficulty":  2
     },
     {
         "phrase":  "Olivia Rodrigo",
@@ -23465,7 +23565,17 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Patrick Mahomes",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Paul McCartney",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Paul Rudd",
         "category":  "people",
         "difficulty":  1
     },
@@ -23486,6 +23596,11 @@
     },
     {
         "phrase":  "Peyton Manning",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Pink",
         "category":  "people",
         "difficulty":  1
     },
@@ -23550,11 +23665,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Ray Kroc",
-        "category":  "people",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Reese Witherspoon",
         "category":  "people",
         "difficulty":  1
@@ -23568,11 +23678,6 @@
         "phrase":  "Richard Branson",
         "category":  "people",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Richard Feynman",
-        "category":  "people",
-        "difficulty":  3
     },
     {
         "phrase":  "Richard Pryor",
@@ -23596,6 +23701,11 @@
     },
     {
         "phrase":  "Robert Downey Jr.",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Robert Pattinson",
         "category":  "people",
         "difficulty":  1
     },
@@ -23645,6 +23755,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Sabrina Carpenter",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Salvador Dalí",
         "category":  "people",
         "difficulty":  1
@@ -23686,6 +23801,11 @@
     },
     {
         "phrase":  "Serena Williams",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Shaboozey",
         "category":  "people",
         "difficulty":  2
     },
@@ -23760,6 +23880,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Steve Harvey",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Steve Jobs",
         "category":  "people",
         "difficulty":  1
@@ -23790,6 +23915,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Sydney Sweeney",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Sylvester Stallone",
         "category":  "people",
         "difficulty":  1
@@ -23800,9 +23930,24 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Tate McRae",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Taylor Swift",
         "category":  "people",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Teddy Swims",
+        "category":  "people",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Terry Crews",
+        "category":  "people",
+        "difficulty":  2
     },
     {
         "phrase":  "The Weeknd",
@@ -23856,6 +24001,11 @@
     },
     {
         "phrase":  "Tom Hanks",
+        "category":  "people",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Travis Kelce",
         "category":  "people",
         "difficulty":  1
     },
@@ -24080,11 +24230,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Atacama Desert",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Athens",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -24145,16 +24290,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Belize City",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
-        "phrase":  "Ben Nevis",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Berlin",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -24200,11 +24335,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Bilbao",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Blue Lagoon",
         "category":  "places-landmarks",
         "difficulty":  2
@@ -24243,11 +24373,6 @@
         "phrase":  "Brazil",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Bridgetown",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Broadway",
@@ -24340,9 +24465,9 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Cape Verde",
+        "phrase":  "Capitol Hill",
         "category":  "places-landmarks",
-        "difficulty":  3
+        "difficulty":  2
     },
     {
         "phrase":  "Caracas",
@@ -24355,19 +24480,9 @@
         "difficulty":  3
     },
     {
-        "phrase":  "Cartagena",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Central Park",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Charles Bridge",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Chernobyl",
@@ -24423,11 +24538,6 @@
         "phrase":  "Copenhagen",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Costa del Sol",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Costa Rica",
@@ -24570,6 +24680,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Fenway Park",
+        "category":  "places-landmarks",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Fiji",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -24660,11 +24775,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Golden Pavilion",
-        "category":  "places-landmarks",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Golden Temple",
         "category":  "places-landmarks",
         "difficulty":  2
@@ -24690,6 +24800,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Grand Central Station",
+        "category":  "places-landmarks",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Grand Ole Opry",
         "category":  "places-landmarks",
         "difficulty":  2
@@ -24710,19 +24825,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Great Pyramid of Giza",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Great Rift Valley",
         "category":  "places-landmarks",
         "difficulty":  2
-    },
-    {
-        "phrase":  "Great Sand Dunes",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Great Smoky Mountains",
@@ -24895,17 +25000,7 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Komodo Island",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Krakow",
-        "category":  "places-landmarks",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Kruger National Park",
         "category":  "places-landmarks",
         "difficulty":  2
     },
@@ -24960,11 +25055,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Loch Lomond",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Loch Ness",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -25000,6 +25090,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Madison Square Garden",
+        "category":  "places-landmarks",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Madrid",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -25030,9 +25125,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Masai Mara",
+        "phrase":  "Massachusetts",
         "category":  "places-landmarks",
-        "difficulty":  2
+        "difficulty":  1
     },
     {
         "phrase":  "Mauritius",
@@ -25083,11 +25178,6 @@
         "phrase":  "Monaco",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Mont Saint-Michel",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Monte Carlo",
@@ -25146,6 +25236,11 @@
     },
     {
         "phrase":  "Mount Sinai",
+        "category":  "places-landmarks",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Mount St. Helens",
         "category":  "places-landmarks",
         "difficulty":  2
     },
@@ -25210,9 +25305,14 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Neuschwanstein Castle",
+        "phrase":  "New England",
         "category":  "places-landmarks",
-        "difficulty":  2
+        "difficulty":  1
+    },
+    {
+        "phrase":  "New Jersey",
+        "category":  "places-landmarks",
+        "difficulty":  1
     },
     {
         "phrase":  "New Orleans",
@@ -25251,11 +25351,6 @@
     },
     {
         "phrase":  "Norway",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Notre Dame",
         "category":  "places-landmarks",
         "difficulty":  1
     },
@@ -25355,11 +25450,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Piazza San Marco",
-        "category":  "places-landmarks",
-        "difficulty":  2
-    },
-    {
         "phrase":  "Pike Place Market",
         "category":  "places-landmarks",
         "difficulty":  2
@@ -25378,11 +25468,6 @@
         "phrase":  "Pompeii",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Port of Spain",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Port-au-Prince",
@@ -25465,19 +25550,9 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Rialto Bridge",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Rio de Janeiro",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Robben Island",
-        "category":  "places-landmarks",
-        "difficulty":  2
     },
     {
         "phrase":  "Rocky Mountains",
@@ -25518,11 +25593,6 @@
         "phrase":  "Salt Lake City",
         "category":  "places-landmarks",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Salvador",
-        "category":  "places-landmarks",
-        "difficulty":  3
     },
     {
         "phrase":  "Salzburg",
@@ -25770,11 +25840,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "The Acropolis",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
         "phrase":  "The Alamo",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -25810,11 +25875,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "The Louvre",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
         "phrase":  "The Matterhorn",
         "category":  "places-landmarks",
         "difficulty":  2
@@ -25826,6 +25886,11 @@
     },
     {
         "phrase":  "The Outback",
+        "category":  "places-landmarks",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "The Pentagon",
         "category":  "places-landmarks",
         "difficulty":  1
     },
@@ -25910,22 +25975,12 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Uyuni Salt Flats",
-        "category":  "places-landmarks",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Valencia",
         "category":  "places-landmarks",
         "difficulty":  2
     },
     {
         "phrase":  "Vancouver",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
-        "phrase":  "Vatican City",
         "category":  "places-landmarks",
         "difficulty":  1
     },
@@ -25975,11 +26030,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Walt Disney World",
-        "category":  "places-landmarks",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Warsaw",
         "category":  "places-landmarks",
         "difficulty":  1
@@ -26018,6 +26068,11 @@
         "phrase":  "Windsor Castle",
         "category":  "places-landmarks",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Wrigley Field",
+        "category":  "places-landmarks",
+        "difficulty":  2
     },
     {
         "phrase":  "Yellowstone National Park",
@@ -26135,6 +26190,11 @@
         "difficulty":  3
     },
     {
+        "phrase":  "Artificial Intelligence",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Asteroid",
         "category":  "science-nature",
         "difficulty":  1
@@ -26155,7 +26215,7 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Aurora Borealis",
+        "phrase":  "Augmented Reality",
         "category":  "science-nature",
         "difficulty":  2
     },
@@ -26220,6 +26280,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Blood Moon",
+        "category":  "science-nature",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Blood Vessel",
         "category":  "science-nature",
         "difficulty":  2
@@ -26228,11 +26293,6 @@
         "phrase":  "Bloodstream",
         "category":  "science-nature",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Blue Giant",
-        "category":  "science-nature",
-        "difficulty":  3
     },
     {
         "phrase":  "Boiling Point",
@@ -26246,6 +26306,11 @@
     },
     {
         "phrase":  "Brain",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Brain Fog",
         "category":  "science-nature",
         "difficulty":  1
     },
@@ -26425,11 +26490,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "CRISPR",
-        "category":  "science-nature",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Crustacean",
         "category":  "science-nature",
         "difficulty":  2
@@ -26463,6 +26523,11 @@
         "phrase":  "Deforestation",
         "category":  "science-nature",
         "difficulty":  1
+    },
+    {
+        "phrase":  "Deja Vu",
+        "category":  "science-nature",
+        "difficulty":  2
     },
     {
         "phrase":  "Density",
@@ -26515,6 +26580,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Dopamine",
+        "category":  "science-nature",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Drought",
         "category":  "science-nature",
         "difficulty":  1
@@ -26555,6 +26625,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Electric Car",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Electric Current",
         "category":  "science-nature",
         "difficulty":  1
@@ -26593,11 +26668,6 @@
         "phrase":  "Energy",
         "category":  "science-nature",
         "difficulty":  1
-    },
-    {
-        "phrase":  "Entropy",
-        "category":  "science-nature",
-        "difficulty":  3
     },
     {
         "phrase":  "Enzyme",
@@ -26671,6 +26741,11 @@
     },
     {
         "phrase":  "Food Chain",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Food Poisoning",
         "category":  "science-nature",
         "difficulty":  1
     },
@@ -26820,6 +26895,16 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Heat Wave",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Heatstroke",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Helium",
         "category":  "science-nature",
         "difficulty":  1
@@ -26926,6 +27011,11 @@
     },
     {
         "phrase":  "Iron",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Jet Lag",
         "category":  "science-nature",
         "difficulty":  1
     },
@@ -27090,6 +27180,11 @@
         "difficulty":  1
     },
     {
+        "phrase":  "Microplastics",
+        "category":  "science-nature",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Microscope",
         "category":  "science-nature",
         "difficulty":  1
@@ -27146,6 +27241,11 @@
     },
     {
         "phrase":  "Moon",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
+        "phrase":  "Motion Sickness",
         "category":  "science-nature",
         "difficulty":  1
     },
@@ -27315,6 +27415,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Placebo Effect",
+        "category":  "science-nature",
+        "difficulty":  2
+    },
+    {
         "phrase":  "Planet",
         "category":  "science-nature",
         "difficulty":  1
@@ -27326,11 +27431,6 @@
     },
     {
         "phrase":  "Plasma",
-        "category":  "science-nature",
-        "difficulty":  2
-    },
-    {
-        "phrase":  "Plate Tectonics",
         "category":  "science-nature",
         "difficulty":  2
     },
@@ -27410,11 +27510,6 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Pulsar",
-        "category":  "science-nature",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Pupil",
         "category":  "science-nature",
         "difficulty":  1
@@ -27433,11 +27528,6 @@
         "phrase":  "quicksand",
         "category":  "science-nature",
         "difficulty":  1
-    },
-    {
-        "phrase":  "quicksilver",
-        "category":  "science-nature",
-        "difficulty":  3
     },
     {
         "phrase":  "Radiation",
@@ -27670,11 +27760,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Species Extinction",
-        "category":  "science-nature",
-        "difficulty":  1
-    },
-    {
         "phrase":  "Spectrum",
         "category":  "science-nature",
         "difficulty":  2
@@ -27720,17 +27805,22 @@
         "difficulty":  2
     },
     {
-        "phrase":  "Sublimation",
-        "category":  "science-nature",
-        "difficulty":  3
-    },
-    {
         "phrase":  "Sun",
         "category":  "science-nature",
         "difficulty":  1
     },
     {
+        "phrase":  "Sunburn",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Sunspot",
+        "category":  "science-nature",
+        "difficulty":  2
+    },
+    {
+        "phrase":  "Supermoon",
         "category":  "science-nature",
         "difficulty":  2
     },
@@ -27800,11 +27890,6 @@
         "difficulty":  1
     },
     {
-        "phrase":  "Troposphere",
-        "category":  "science-nature",
-        "difficulty":  2
-    },
-    {
         "phrase":  "tsunami",
         "category":  "science-nature",
         "difficulty":  1
@@ -27855,6 +27940,11 @@
         "difficulty":  2
     },
     {
+        "phrase":  "Virtual Reality",
+        "category":  "science-nature",
+        "difficulty":  1
+    },
+    {
         "phrase":  "Virus",
         "category":  "science-nature",
         "difficulty":  1
@@ -27863,6 +27953,11 @@
         "phrase":  "Viscosity",
         "category":  "science-nature",
         "difficulty":  3
+    },
+    {
+        "phrase":  "Vitamin D",
+        "category":  "science-nature",
+        "difficulty":  1
     },
     {
         "phrase":  "volcano",

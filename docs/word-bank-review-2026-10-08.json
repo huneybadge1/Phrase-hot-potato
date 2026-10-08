@@ -1,0 +1,3862 @@
+{
+  "additions": [
+    {
+      "phrase": "Babysitting",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dog Walking",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "House Sitting",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Running Errands",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Window Shopping",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Parallel Parking",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Skipping Stones",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Ghost Hunting",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Hot Potato",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Never Have I Ever",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Two Truths and a Lie",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Pulling an All-Nighter",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Drive-In Movie",
+      "category": "activities-sports",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dumpster Diving",
+      "category": "activities-sports",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Couch Surfing",
+      "category": "activities-sports",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Paint and Sip",
+      "category": "activities-sports",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Bigfoot",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Loch Ness Monster",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Unicorn",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dragon",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Werewolf",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Tyrannosaurus Rex",
+      "category": "animals",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Capybara",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Abominable Snowman",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Saber-Toothed Tiger",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Woolly Mammoth",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Triceratops",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Velociraptor",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Dodo",
+      "category": "animals",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Captain Underpants",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dog Man",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Where's Waldo?",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "The Magic School Bus",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wednesday Addams",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Groot",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Super Mario",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Luigi",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Princess Peach",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Sonic the Hedgehog",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Pac-Man",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Supergirl",
+      "category": "books-characters",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Fourth Wing",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "It Ends with Us",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Housemaid",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Verity",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Alchemist",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Book Thief",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Secret Garden",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Velveteen Rabbit",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Junie B. Jones",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Baby-Sitters Club",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Fault in Our Stars",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Morticia Addams",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Gomez Addams",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Uncle Fester",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Rocket Raccoon",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Lara Croft",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Bowser",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Donkey Kong",
+      "category": "books-characters",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Minecraft",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Fortnite",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Roblox",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "The Sims",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Candy Crush",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wordle",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Duolingo",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "ChatGPT",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Temu",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Shein",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "AirTag",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Apple Watch",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dyson",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Build-A-Bear",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Chuck E. Cheese",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Waffle House",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "IHOP",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "T.J. Maxx",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Marshalls",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dollar Tree",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dollar General",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Aldi",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Happy Meal",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Rice Krispies Treats",
+      "category": "brands-products",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Animal Crossing",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Claude",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Crumbl",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Owala",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Stanley Tumbler",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Liquid I.V.",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Olipop",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Poppi",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Celsius",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Nvidia",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Waymo",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "American Girl Doll",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Hoka",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Labubu",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Bagel Bites",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Ozempic",
+      "category": "brands-products",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Book Fair",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Open House",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Parent-Teacher Conference",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "School Picture Day",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Ugly Sweater Party",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Destination Wedding",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Rehearsal Dinner",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Music Festival",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wedding Toast",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "New Year's Kiss",
+      "category": "events-holidays",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Take Your Child to Work Day",
+      "category": "events-holidays",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Chicken and Waffles",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Breakfast Burrito",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Breakfast Sandwich",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Chicken Sandwich",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Smash Burger",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Soft Serve",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Ice Cream Sandwich",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Frozen Pizza",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "TV Dinner",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Tater Tots",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "String Cheese",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Slushie",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Popcorn Chicken",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Pigs in a Blanket",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Jalapeño Poppers",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Cake Pop",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Cookie Dough",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Olives",
+      "category": "food-drink",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dubai Chocolate",
+      "category": "food-drink",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Acai Bowl",
+      "category": "food-drink",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Poke Bowl",
+      "category": "food-drink",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Better Luck Next Time",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Read the Room",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "No Strings Attached",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Keep a Straight Face",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Give It a Shot",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Easy Does It",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wild Goose Chase",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Go With the Flow",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Last but Not Least",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Get Off Your High Horse",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wake-Up Call",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Like Pulling Teeth",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "My Lips Are Sealed",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "It's a Small World",
+      "category": "idioms-sayings",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Put Your Money Where Your Mouth Is",
+      "category": "idioms-sayings",
+      "difficulty": 2
+    },
+    {
+      "phrase": "AI Chatbot",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Password Reset",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dating App",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Zoom Meeting",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Video Call",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Voice Note",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Screen Share",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Incognito Mode",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Low Battery",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "QR Code",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Online Shopping",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Autoplay",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Terms and Conditions",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Unsubscribe",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Hold My Beer",
+      "category": "internet-slang",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Two-Factor Authentication",
+      "category": "internet-slang",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Very Demure",
+      "category": "internet-slang",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Vibe Coding",
+      "category": "internet-slang",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Digital Wallet",
+      "category": "internet-slang",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Backrooms",
+      "category": "internet-slang",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Princess Bride",
+      "category": "movies-tv",
+      "difficulty": 1
+    },
+    {
+      "phrase": "The Devil Wears Prada",
+      "category": "movies-tv",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wicked",
+      "category": "movies-tv",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Bluey",
+      "category": "movies-tv",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Love Is Blind",
+      "category": "movies-tv",
+      "difficulty": 1
+    },
+    {
+      "phrase": "KPop Demon Hunters",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Sinners",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "A Minecraft Movie",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Weapons",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "F1",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Severance",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The White Lotus",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Bridgerton",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Traitors",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Reacher",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Love on the Spectrum",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Summer I Turned Pretty",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Adolescence",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Hacks",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Studio",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Fallout",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "One Piece",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Naruto",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Dragon Ball Z",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Spirited Away",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Howl's Moving Castle",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Coraline",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Lady and the Tramp",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Spider-Man: Brand New Day",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Hoppers",
+      "category": "movies-tv",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Heated Rivalry",
+      "category": "movies-tv",
+      "difficulty": 3
+    },
+    {
+      "phrase": "Pluribus",
+      "category": "movies-tv",
+      "difficulty": 3
+    },
+    {
+      "phrase": "Never Gonna Give You Up",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Walking on Sunshine",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Girls Just Want to Have Fun",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "September",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Hey Ya!",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Wannabe",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Smooth Criminal",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Sweet Dreams (Are Made of This)",
+      "category": "music",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Golden",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "APT.",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Die With a Smile",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Luther",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Manchild",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Abracadabra",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Good Luck, Babe!",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Pink Pony Club",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Hot to Go!",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Beautiful Things",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Ordinary",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "A Bar Song (Tipsy)",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Lose Control",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Please Please Please",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Birds of a Feather",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Stick Season",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Fortnight",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Fate of Ophelia",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Opalite",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "The Life of a Showgirl",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Short n' Sweet",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Brat",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Cowboy Carter",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Midnights",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Reputation",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "All Too Well",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Stacy's Mom",
+      "category": "music",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Air Fryer",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Standing Desk",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Ring Light",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Photo Booth",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Reusable Straw",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Travel Pillow",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Shower Cap",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Showerhead",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Luggage Tag",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Hotel Key Card",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Pool Noodle",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Beach Ball",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Water Gun",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Diving Board",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Roller Coaster",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Ferris Wheel",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Swing Set",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Seesaw",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Paper Airplane",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Rubber Chicken",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Solar Panel",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Weighted Blanket",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Dash Cam",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Doorbell Camera",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Power Bank",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Pet Rock",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Sabrina Carpenter",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Dua Lipa",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Bad Bunny",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Kendrick Lamar",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "MrBeast",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Michael B. Jordan",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Robert Pattinson",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Kristen Stewart",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Kristen Bell",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Jennifer Lopez",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Kelly Clarkson",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Pink",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Bruce Springsteen",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Billy Joel",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Paul Rudd",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Danny DeVito",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Steve Harvey",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Jack Black",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Nicki Minaj",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Cardi B",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Patrick Mahomes",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Travis Kelce",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Chappell Roan",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Charli XCX",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Benson Boone",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Tate McRae",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Noah Kahan",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Doechii",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Olivia Dean",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Shaboozey",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Teddy Swims",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Sydney Sweeney",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Jenna Ortega",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Glen Powell",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Keke Palmer",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Cynthia Erivo",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Jeff Goldblum",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Terry Crews",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Kevin Bacon",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Megan Thee Stallion",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Caitlin Clark",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Jalen Hurts",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Luka Dončić",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Giannis Antetokounmpo",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Massachusetts",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "The Pentagon",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Grand Central Station",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Madison Square Garden",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "New Jersey",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "New England",
+      "category": "places-landmarks",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Fenway Park",
+      "category": "places-landmarks",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Capitol Hill",
+      "category": "places-landmarks",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Mount St. Helens",
+      "category": "places-landmarks",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Wrigley Field",
+      "category": "places-landmarks",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Artificial Intelligence",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Virtual Reality",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Electric Car",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Heat Wave",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Heatstroke",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Sunburn",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Brain Fog",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Food Poisoning",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Motion Sickness",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Jet Lag",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Vitamin D",
+      "category": "science-nature",
+      "difficulty": 1
+    },
+    {
+      "phrase": "Augmented Reality",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Deja Vu",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Microplastics",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Dopamine",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Placebo Effect",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Blood Moon",
+      "category": "science-nature",
+      "difficulty": 2
+    },
+    {
+      "phrase": "Supermoon",
+      "category": "science-nature",
+      "difficulty": 2
+    }
+  ],
+  "removals": [
+    {
+      "phrase": "Acro Yoga",
+      "category": "activities-sports",
+      "difficulty": 3,
+      "reason": "Specialist activity name with limited familiarity in a mixed adult group"
+    },
+    {
+      "phrase": "Capoeira",
+      "category": "activities-sports",
+      "difficulty": 3,
+      "reason": "Specialist activity name with limited familiarity in a mixed adult group"
+    },
+    {
+      "phrase": "Krav Maga",
+      "category": "activities-sports",
+      "difficulty": 3,
+      "reason": "Specialist activity name with limited familiarity in a mixed adult group"
+    },
+    {
+      "phrase": "Orienteering",
+      "category": "activities-sports",
+      "difficulty": 3,
+      "reason": "Specialist activity name with limited familiarity in a mixed adult group"
+    },
+    {
+      "phrase": "Iago the Parrot",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Lady the Cocker Spaniel",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Perdita",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Scottish Fold",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Tramp",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Trigger",
+      "category": "animals",
+      "difficulty": 3,
+      "reason": "Minor character name or specialist breed; stronger related prompts remain"
+    },
+    {
+      "phrase": "Anansi",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Aramis",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Athos",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Aunt Polly",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Becky Thatcher",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Laurie Laurence",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Lyra Belacqua",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Meg Murry",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Porthos",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Fagin",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Friday",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Templeton",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Sancho Panza",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Amy March",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Beth March",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Meg March",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Cosette",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Javert",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Mr. Rochester",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Heathcliff",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Hazel Grace Lancaster",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Augustus Waters",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Edmund Pevensie",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Lucy Pevensie",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Winston Smith",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Pip",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Daisy Buchanan",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Primrose Everdeen",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Veruca Salt",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Augustus Gloop",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "Annabeth Chase",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Specific character names unlikely to be recognized without detailed knowledge of the work"
+    },
+    {
+      "phrase": "My Side of the Mountain",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Narrower book reference; better-known titles remain"
+    },
+    {
+      "phrase": "Do Androids Dream of Electric Sheep",
+      "category": "books-characters",
+      "difficulty": 3,
+      "reason": "Narrower book reference; better-known titles remain"
+    },
+    {
+      "phrase": "Album Release Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Concert Tour Kickoff",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Chocolate Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Constitution Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Earth Hour",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Founders Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "International Cat Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "International Yoga Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Best Friends Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Book Lovers Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Cheeseburger Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Coffee Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Day of Prayer",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Dog Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Donut Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Hot Dog Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Ice Cream Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Margarita Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Pancake Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Pet Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Pizza Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Pumpkin Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Puppy Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Taco Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "National Wine Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "World Emoji Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Talk Like Shakespeare Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Ugly Sweater Day",
+      "category": "events-holidays",
+      "difficulty": 2,
+      "reason": "Novelty observance or overly specific event label"
+    },
+    {
+      "phrase": "Africa Cup of Nations",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "ANZAC Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Australia Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Burns Night",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Chuseok",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "E3",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Easter Monday",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Epiphany",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Free Comic Book Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "International Workers' Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Ironman World Championship",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Kentucky Oaks",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "National Cherry Blossom Festival",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Notting Hill Carnival",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Ornament Swap",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Sadie Hawkins Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Shavuot",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Singles' Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "St. Nicholas Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Sukkot",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Sweetest Day",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "The Ashes",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Vaisakhi",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "Venice Carnival",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "VidCon",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Regional, specialist, or less widely recognized event for this audience"
+    },
+    {
+      "phrase": "U.S.-Iran Conflict",
+      "category": "events-holidays",
+      "difficulty": 3,
+      "reason": "Vague time-sensitive headline rather than a distinct lasting party-game reference"
+    },
+    {
+      "phrase": "Baba Ghanoush",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Beef Bourguignon",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Churrasco",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Congee",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Coq au Vin",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Croque Monsieur",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Étouffée",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Jollof Rice",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Moussaka",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Oysters Rockefeller",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Peri-Peri Chicken",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Spanakopita",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Spätzle",
+      "category": "food-drink",
+      "difficulty": 3,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Souvlaki",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Tabbouleh",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Teppanyaki",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Yakitori",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Vindaloo",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Specialist dish name above the agreed mixed-US-group familiarity threshold"
+    },
+    {
+      "phrase": "Piss and Vinegar",
+      "category": "idioms-sayings",
+      "difficulty": 3,
+      "reason": "Less familiar dated idiom; broad recognizable sayings remain"
+    },
+    {
+      "phrase": "Whole Ball of Wax",
+      "category": "idioms-sayings",
+      "difficulty": 3,
+      "reason": "Less familiar dated idiom; broad recognizable sayings remain"
+    },
+    {
+      "phrase": "2026 Is the New 2016",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "Capybara of Indifference",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "Jimothy the Raccoon",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "KitKat Heist",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "Kool-Aid Pineapples",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "Polite Punch",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "Only in Ohio",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Short-lived microtrend or news-specific meme with poor lasting recognizability"
+    },
+    {
+      "phrase": "All Your Base Are Belong to Us",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Cheems",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Deep Fried Meme",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Drakeposting",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "FUD",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Malding",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Navy Seal Copypasta",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Y U No Guy",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Philosoraptor",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Ermahgerd",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Roll Safe",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Vaguebooking",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Niche meme name, format label, or specialist acronym; widely recognized online slang remains"
+    },
+    {
+      "phrase": "Alley Cats",
+      "category": "movies-tv",
+      "difficulty": 3,
+      "reason": "Low-familiarity recent title or specialist screen reference"
+    },
+    {
+      "phrase": "Lanterns",
+      "category": "movies-tv",
+      "difficulty": 3,
+      "reason": "Low-familiarity recent title or specialist screen reference"
+    },
+    {
+      "phrase": "The Whisper Man",
+      "category": "movies-tv",
+      "difficulty": 3,
+      "reason": "Low-familiarity recent title or specialist screen reference"
+    },
+    {
+      "phrase": "Widow's Bay",
+      "category": "movies-tv",
+      "difficulty": 3,
+      "reason": "Low-familiarity recent title or specialist screen reference"
+    },
+    {
+      "phrase": "Wonder Man",
+      "category": "movies-tv",
+      "difficulty": 3,
+      "reason": "Low-familiarity recent title or specialist screen reference"
+    },
+    {
+      "phrase": "Arirang",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Been By Now",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Dandelion",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Hate That I Made You Love Me",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Kiss All The Time. Disco, Occasionally.",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Petal",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "The Art of Loving",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "The Great Divide",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "You Seem Pretty Sad for a Girl So in Love",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Exile on Main St.",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Let It Bleed",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Never Mind the Bollocks Here's the Sex Pistols",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "News of the World",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Significant Other",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Sticky Fingers",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "The Number of the Beast",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Voodoo",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "A Rush of Blood to the Head",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Come Away with Me",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Discovery",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Control",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Dangerous",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Divide",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "HIStory",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Hysteria",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Unorthodox Jukebox",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "X&Y",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Views",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Scorpion",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Positions",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Physical",
+      "category": "music",
+      "difficulty": 2,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Follow the Leader",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Rare",
+      "category": "music",
+      "difficulty": 3,
+      "reason": "Specific album or less identifiable song title; better-known artists and songs remain"
+    },
+    {
+      "phrase": "Cornelius Vanderbilt",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Nelson Rockefeller",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Hannibal Barca",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Niels Bohr",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Richard Feynman",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Ray Kroc",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Milton Hershey",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Andrew Dice Clay",
+      "category": "people",
+      "difficulty": 3,
+      "reason": "Specialist historical, scientific, business, or comedy name with low general familiarity"
+    },
+    {
+      "phrase": "Atacama Desert",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Belize City",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Ben Nevis",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Bilbao",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Bridgetown",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Cape Verde",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Cartagena",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Charles Bridge",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Costa del Sol",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Great Sand Dunes",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Komodo Island",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Loch Lomond",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Mont Saint-Michel",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Port of Spain",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Rialto Bridge",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Salvador",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Uyuni Salt Flats",
+      "category": "places-landmarks",
+      "difficulty": 3,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Golden Pavilion",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Masai Mara",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Neuschwanstein Castle",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Kruger National Park",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Piazza San Marco",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "Robben Island",
+      "category": "places-landmarks",
+      "difficulty": 2,
+      "reason": "Specialist travel destination or less familiar landmark"
+    },
+    {
+      "phrase": "CRISPR",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Blue Giant",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Entropy",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Pulsar",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Sublimation",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Troposphere",
+      "category": "science-nature",
+      "difficulty": 2,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "quicksilver",
+      "category": "science-nature",
+      "difficulty": 3,
+      "reason": "Specialist scientific vocabulary or a less familiar synonym"
+    },
+    {
+      "phrase": "Frisbee Golf",
+      "category": "activities-sports",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Disc Golf"
+    },
+    {
+      "phrase": "Pub Crawl",
+      "category": "activities-sports",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Bar Crawl"
+    },
+    {
+      "phrase": "Bar Hopping",
+      "category": "activities-sports",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Bar Crawl"
+    },
+    {
+      "phrase": "Clubbing",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Nightclubbing"
+    },
+    {
+      "phrase": "hula hooping",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Hula Hoop"
+    },
+    {
+      "phrase": "Ice Bathing",
+      "category": "activities-sports",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Cold Plunging"
+    },
+    {
+      "phrase": "marathon",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Marathon Running"
+    },
+    {
+      "phrase": "Sack Race",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Potato Sack Race"
+    },
+    {
+      "phrase": "ping pong",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Table Tennis"
+    },
+    {
+      "phrase": "Billiards",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Pool"
+    },
+    {
+      "phrase": "Video Gaming",
+      "category": "activities-sports",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Video Games"
+    },
+    {
+      "phrase": "Dumbo the Elephant",
+      "category": "animals",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Dumbo"
+    },
+    {
+      "phrase": "Hippo",
+      "category": "animals",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Hippopotamus"
+    },
+    {
+      "phrase": "Rhino",
+      "category": "animals",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Rhinoceros"
+    },
+    {
+      "phrase": "Baloo the Bear",
+      "category": "animals",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Baloo"
+    },
+    {
+      "phrase": "Wilbur",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Wilbur the Pig"
+    },
+    {
+      "phrase": "Matilda Wormwood",
+      "category": "books-characters",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Matilda"
+    },
+    {
+      "phrase": "Nineteen Eighty-Four",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "1984"
+    },
+    {
+      "phrase": "Alice's Adventures in Wonderland",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Alice in Wonderland"
+    },
+    {
+      "phrase": "Scrooge",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Ebenezer Scrooge"
+    },
+    {
+      "phrase": "The Adventures of Huckleberry Finn",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Huckleberry Finn"
+    },
+    {
+      "phrase": "The Tale of Peter Rabbit",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Peter Rabbit"
+    },
+    {
+      "phrase": "The Wonderful Wizard of Oz",
+      "category": "books-characters",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "The Wizard of Oz"
+    },
+    {
+      "phrase": "Domino's",
+      "category": "brands-products",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Domino's Pizza"
+    },
+    {
+      "phrase": "Axe",
+      "category": "brands-products",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Axe Body Spray"
+    },
+    {
+      "phrase": "Comic Con",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Comic-Con"
+    },
+    {
+      "phrase": "Christmas Day",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Christmas"
+    },
+    {
+      "phrase": "Easter Sunday",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Easter"
+    },
+    {
+      "phrase": "Back to School Season",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Back to School"
+    },
+    {
+      "phrase": "Daylight Saving Time Begins",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Daylight Saving Time"
+    },
+    {
+      "phrase": "Daylight Saving Time Ends",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Daylight Saving Time"
+    },
+    {
+      "phrase": "Family Reunion Weekend",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "family reunion"
+    },
+    {
+      "phrase": "Garage Sale Weekend",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "garage sale"
+    },
+    {
+      "phrase": "Graduation Day",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "graduation"
+    },
+    {
+      "phrase": "Grammy Awards",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Grammys"
+    },
+    {
+      "phrase": "Martin Luther King Jr. Day",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "MLK Day"
+    },
+    {
+      "phrase": "Movie Premiere Night",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Movie Premiere"
+    },
+    {
+      "phrase": "Office Holiday Party",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Holiday Office Party"
+    },
+    {
+      "phrase": "Prom Night",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "prom"
+    },
+    {
+      "phrase": "Retirement",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "retirement party"
+    },
+    {
+      "phrase": "Super Bowl Sunday",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Super Bowl"
+    },
+    {
+      "phrase": "Wedding Day",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "wedding"
+    },
+    {
+      "phrase": "Wedding Anniversary",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Anniversary"
+    },
+    {
+      "phrase": "World Cup",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "FIFA World Cup"
+    },
+    {
+      "phrase": "2026 Winter Olympics",
+      "category": "events-holidays",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Winter Olympics"
+    },
+    {
+      "phrase": "boba tea",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Bubble Tea"
+    },
+    {
+      "phrase": "Cupcakes",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Cupcake"
+    },
+    {
+      "phrase": "Donuts",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Donut"
+    },
+    {
+      "phrase": "Egg Rolls",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Egg Roll"
+    },
+    {
+      "phrase": "Grilled Cheese Sandwich",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Grilled Cheese"
+    },
+    {
+      "phrase": "Mac and Cheese",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "macaroni and cheese"
+    },
+    {
+      "phrase": "Old Fashioned",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Old Fashioned Cocktail"
+    },
+    {
+      "phrase": "Peanut Butter and Jelly",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Peanut Butter and Jelly Sandwich"
+    },
+    {
+      "phrase": "Pretzels",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Pretzel"
+    },
+    {
+      "phrase": "Samosas",
+      "category": "food-drink",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Samosa"
+    },
+    {
+      "phrase": "Tacos",
+      "category": "food-drink",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Taco"
+    },
+    {
+      "phrase": "Burn Bridges",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Burn Your Bridges"
+    },
+    {
+      "phrase": "Burst Someone's Bubble",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Burst Your Bubble"
+    },
+    {
+      "phrase": "Give Someone the Benefit of the Doubt",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Give the Benefit of the Doubt"
+    },
+    {
+      "phrase": "Go Back to Square One",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Back to Square One"
+    },
+    {
+      "phrase": "Make a Long Story Short",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Long Story Short"
+    },
+    {
+      "phrase": "Rain on Someone's Parade",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Rain on Your Parade"
+    },
+    {
+      "phrase": "Sit on the Fence",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "On the Fence"
+    },
+    {
+      "phrase": "The Grass Is Always Greener",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "The Grass Is Always Greener on the Other Side"
+    },
+    {
+      "phrase": "Like Two Peas in a Pod",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Two Peas in a Pod"
+    },
+    {
+      "phrase": "You Can't Judge a Book by Its Cover",
+      "category": "idioms-sayings",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Don't Judge a Book by Its Cover"
+    },
+    {
+      "phrase": "Deep Fake",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Deepfake"
+    },
+    {
+      "phrase": "live stream",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Livestream"
+    },
+    {
+      "phrase": "Living Rent Free",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Rent Free"
+    },
+    {
+      "phrase": "Main Character",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Main Character Energy"
+    },
+    {
+      "phrase": "NPC Energy",
+      "category": "internet-slang",
+      "difficulty": 3,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "NPC"
+    },
+    {
+      "phrase": "Ratioed",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Ratio"
+    },
+    {
+      "phrase": "Reel",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Reels"
+    },
+    {
+      "phrase": "Ship",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Shipping a Couple"
+    },
+    {
+      "phrase": "Shipping",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Shipping a Couple"
+    },
+    {
+      "phrase": "Shitpost",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Shitposting"
+    },
+    {
+      "phrase": "Shade",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Throwing Shade"
+    },
+    {
+      "phrase": "Screenshotted",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Screenshot"
+    },
+    {
+      "phrase": "Terminally Online",
+      "category": "internet-slang",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Chronically Online"
+    },
+    {
+      "phrase": "Verified Checkmark",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Verified Badge"
+    },
+    {
+      "phrase": "unboxing video",
+      "category": "internet-slang",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Unboxing"
+    },
+    {
+      "phrase": "It (2017)",
+      "category": "movies-tv",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "It"
+    },
+    {
+      "phrase": "Ted Lasso Season 4",
+      "category": "movies-tv",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Ted Lasso"
+    },
+    {
+      "phrase": "Single Ladies (Put a Ring on It)",
+      "category": "music",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Single Ladies"
+    },
+    {
+      "phrase": "The Louvre",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Louvre Museum"
+    },
+    {
+      "phrase": "The Acropolis",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Acropolis of Athens"
+    },
+    {
+      "phrase": "Walt Disney World",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Disney World"
+    },
+    {
+      "phrase": "Great Pyramid of Giza",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Pyramids of Giza"
+    },
+    {
+      "phrase": "Vatican City",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "The Vatican"
+    },
+    {
+      "phrase": "Notre Dame",
+      "category": "places-landmarks",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Notre Dame Cathedral"
+    },
+    {
+      "phrase": "Aurora Borealis",
+      "category": "science-nature",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Northern Lights"
+    },
+    {
+      "phrase": "Species Extinction",
+      "category": "science-nature",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Extinction"
+    },
+    {
+      "phrase": "Plate Tectonics",
+      "category": "science-nature",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Tectonic Plates"
+    },
+    {
+      "phrase": "Couch",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Sofa"
+    },
+    {
+      "phrase": "Mug",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Coffee Mug"
+    },
+    {
+      "phrase": "Bookcase",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Bookshelf"
+    },
+    {
+      "phrase": "Wastebasket",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Trash Can"
+    },
+    {
+      "phrase": "Wristwatch",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Watch"
+    },
+    {
+      "phrase": "Whiskey Flask",
+      "category": "objects",
+      "difficulty": 2,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Flask"
+    },
+    {
+      "phrase": "Bar of Soap",
+      "category": "objects",
+      "difficulty": 1,
+      "reason": "Duplicate or alternate wording of an existing prompt",
+      "kept_equivalent": "Soap"
+    }
+  ],
+  "retags": [
+    {
+      "phrase": "Silly Putty",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "phrase": "Pitchfork",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "phrase": "Air Bud",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Babe the Pig",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Beethoven the Dog",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Betta Fish",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Remy the Rat",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Sea Urchin",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Rafiki",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Zazu",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Hatchet",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Beignets",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "By Hook or by Crook",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Choosin' Texas",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "The Pitt",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Project Hail Mary",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "The Super Mario Galaxy Movie",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Michael",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Minions & Monsters",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Family Ties",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Growing Pains",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Octavia Spencer",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "De La Soul",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "En Vogue",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Migos",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Soundgarden",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Inkwell",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Quill",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Wax Seal",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "The Andy Griffith Show",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "All in the Family",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "phrase": "Bibimbap",
+      "before": 2,
+      "after": 3
+    },
+    {
+      "phrase": "Biryani",
+      "before": 2,
+      "after": 3
+    },
+    {
+      "phrase": "Bulgogi",
+      "before": 2,
+      "after": 3
+    },
+    {
+      "phrase": "Elote",
+      "before": 2,
+      "after": 3
+    },
+    {
+      "phrase": "Udon",
+      "before": 2,
+      "after": 3
+    },
+    {
+      "phrase": "HODL",
+      "before": 2,
+      "after": 3
+    }
+  ],
+  "summary": {
+    "date": "2026-10-08",
+    "base_commit": "f05d351",
+    "previous_bank_commit": "32ae7ed",
+    "previous_bank_date": "2026-08-28",
+    "version_before": "v28",
+    "version_after": "v29",
+    "before": 5588,
+    "after": 5607,
+    "added": 331,
+    "removed": 312,
+    "removed_equivalents": 100,
+    "difficulty_retagged": 37,
+    "difficulty_counts_before": {
+      "1": 3503,
+      "2": 1762,
+      "3": 323
+    },
+    "difficulty_counts_after": {
+      "1": 3612,
+      "2": 1850,
+      "3": 145
+    }
+  },
+  "calibration": {
+    "audience": "Mixed adult group in the US",
+    "remove": [
+      "Lyra Belacqua",
+      "Jollof Rice (editorial decision after the user asked whether Americans would know it)"
+    ],
+    "retain_hard": [
+      "Copium"
+    ],
+    "approved_additions": {
+      "Labubu": 2,
+      "Golden": 2,
+      "Heated Rivalry": 3,
+      "Owala": 2,
+      "Fourth Wing": 2,
+      "Pluribus": 3
+    }
+  }
+}

@@ -41,6 +41,6 @@ powershell -NoProfile -File tools/beep-curve-sim.ps1
 (fastest tier gets ~31.5s of a 90s round, slowest ~4.4s); the shipped
 linear curve holds every tier near 9s.
 
-`difficulty-draw-sim.ps1` on the current 5,588-word bank:
-`P(easy | previous was hard) = 26.7%` vs a 62.7% unweighted baseline — the
+`difficulty-draw-sim.ps1` on the current 5,607-word bank:
+`P(easy | previous was hard) = 27.3%` vs a 64.4% unweighted baseline — the
 swing-dampening is doing its job.

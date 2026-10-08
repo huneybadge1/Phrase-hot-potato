@@ -71,14 +71,14 @@ testing unless the user has explicitly cleared it for that session.
 ## Word bank
 
 `catchphrase-words.json`: array of `{ phrase, category, difficulty }`.
-Currently **5,588 entries** across 14 categories (`people`, `movies-tv`,
+Currently **5,607 entries** across 14 categories (`people`, `movies-tv`,
 `music`, `books-characters`, `brands-products`, `food-drink`,
 `places-landmarks`, `animals`, `objects`, `activities-sports`,
 `idioms-sayings`, `science-nature`, `internet-slang`, `events-holidays`).
-`difficulty` is `1` (easy) / `2` (medium) / `3` (hard), tagged by 14
-parallel background agents against explicit calibration examples — 100%
-matched, no defaults needed. Distribution: ~3,503 easy / 1,762 medium /
-323 hard.
+`difficulty` is `1` (easy) / `2` (medium) / `3` (hard), initially tagged against explicit calibration examples and
+recalibrated in the October 8, 2026 quality review. All entries have an
+explicit tier; no defaults are needed. Distribution: 3,612 easy / 1,850
+medium / 145 hard.
 
 **Generation history**: built up over ~4 rounds (broad generation →
 "second tier" top-ups → live web-search pass for genuinely current
@@ -105,6 +105,25 @@ passes (niche dishes, technical jargon, dead memes, novelty holidays).
 If asked to add more words, expect diminishing returns and hold the
 line on obscurity rather than padding counts.
 
+## Latest word-bank calibration (October 8, 2026)
+
+- Audience: mixed US adult group. Quality and recognizability take priority
+  over count. A hard word should be a recognizable challenge, not a term
+  nobody in the group has encountered.
+- Remove overly specific literary character names (the user explicitly
+  rejected Lyra Belacqua). Use care with specialist dishes (Jollof Rice
+  was removed after the user questioned mixed-US-group familiarity).
+- Current internet slang is welcome: the user explicitly kept Copium as
+  hard. Do not turn this into an all-easy bank or remove all online slang.
+- The user approved Labubu, Golden, Owala, and Fourth Wing as medium, and
+  Heated Rivalry and Pluribus as hard. These are calibration examples,
+  not a mandate to add every new trend or show.
+- This pass adds 331, removes 312 (including 100 alternate-wording or
+  repeated-concept entries), and retags 37; total 5,607. All original
+  removals and reasons are recoverable from
+  `docs/word-bank-review-2026-10-08.json`; the readable review is the
+  adjacent `.md` file. Gameplay and draw weights are unchanged.
+
 ## Key gameplay mechanics and their tuning history
 
 - **Beep curve** (`js/game.js`): `MIN_BEEP_INTERVAL_MS=180`,
@@ -129,7 +148,7 @@ line on obscurity rather than padding counts.
   immediately followed by a trivial one) — verify any future change
   against `P(easy | previous was hard)` specifically, not just "does
   hard cluster less." `tools/difficulty-draw-sim.ps1` prints that
-  probability table (currently `P(easy | prev hard) = 26.7%` vs a 62.7%
+  probability table (currently `P(easy | prev hard) = 27.3%` vs a 64.4%
   unweighted baseline).
 - **Round pause**: pauses on portrait rotation OR `document.hidden`
   (backgrounded/screen-locked), resumes preserving exact remaining time.
